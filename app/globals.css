@@ -1,26 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400&display=swap');
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: 'Nunito', system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root {
+  --bg: #FFF8F5;
+  --bg-secondary: #FEF3F9;
+  --surface: #FFFFFF;
+  --surface-2: #FDF5FF;
+  --border: #F0DDED;
+  --border-2: #E8D4F0;
+
+  --peach: #F5B89A;
+  --peach-soft: #FDEEE7;
+  --peach-mid: #F8D4C0;
+  --lilac: #C2A4E8;
+  --lilac-soft: #F0E8FC;
+  --lilac-mid: #D8C4F4;
+  --rose: #D97AAC;
+  --rose-soft: #FCEEF5;
+  --rose-mid: #EDBED8;
+  --cream: #FFF8F5;
+
+  --text-primary: #3A2240;
+  --text-secondary: #6B5073;
+  --text-muted: #9B8AA8;
+  --text-faint: #C0B0CC;
 }
+
+.dark {
+  --bg: #160F22;
+  --bg-secondary: #1C1430;
+  --surface: #231840;
+  --surface-2: #2A1E4A;
+  --border: #3A2858;
+  --border-2: #4A3868;
+
+  --peach: #C8714A;
+  --peach-soft: #251510;
+  --peach-mid: #3A2018;
+  --lilac: #9464B8;
+  --lilac-soft: #1E1638;
+  --lilac-mid: #2E2050;
+  --rose: #9464B8;
+  --rose-soft: #1A1230;
+  --rose-mid: #2A1C48;
+  --cream: #160F22;
+
+  --text-primary: #F0E4FC;
+  --text-secondary: #C4AED8;
+  --text-muted: #8878A0;
+  --text-faint: #584870;
+}
+
+html, body, #__next {
+  height: 100%;
+  font-family: 'Nunito', system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+* { -webkit-tap-highlight-color: transparent; box-sizing: border-box; }
+::-webkit-scrollbar { display: none; }
+* { scrollbar-width: none; }
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+@keyframes pulse-soft {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+
+@keyframes slide-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes spin-slow {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.float { animation: float 3s ease-in-out infinite; }
+.pulse-soft { animation: pulse-soft 2s ease-in-out infinite; }
+.slide-up { animation: slide-up 0.4s ease-out both; }
+.spin-slow { animation: spin-slow 1.2s linear infinite; }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text-primary);
 }
