@@ -126,17 +126,17 @@ A experiência deve ser:
 
   
 
- Acolhedora; 
+ . Acolhedora; 
 
- Simples; 
+ . Simples; 
 
- Fácil de entender; 
+ . Fácil de entender; 
 
- Confiável; 
+ . Confiável; 
 
- Organizada; 
+ . Organizada; 
 
- Pouco cansativa visualmente. 
+ . Pouco cansativa visualmente. 
 
   
 
@@ -216,27 +216,30 @@ Necessidade atendida: permite acessar rapidamente as principais áreas do aplica
 
   
 
-Quantidade de telas: O protótipo deve possuir até 4 telas principais 
+. Quantidade de telas: O protótipo deve possuir até 4 telas principais 
 
  (Dashboard com idade do bebê e dica do dia; Lista de artigos rápidos; Mapa de BLH; Configurações). 
 
-Número de interações: A funcionalidade principal deve ocorrer em até 3 interações (Abrir o app → Ver o card "Seu bebê está na fase X" → Tocar em "Ver dica do dia"). O botão "Onde doar leite" deve estar fixo no rodapé da tela inicial (1 toque). 
+. Número de interações: A funcionalidade principal deve ocorrer em até 3 interações (Abrir o app → Ver o card "Seu bebê está na fase X" → Tocar em "Ver dica do dia"). O botão "Onde doar leite" deve estar fixo no rodapé da tela inicial (1 toque). 
 
-Dispositivos: Deve rodar em celulares antigos e de segunda mão — Android 7.0+, 2GB RAM. 
+. Dispositivos: Deve rodar em celulares antigos e de segunda mão — Android 7.0+, 2GB RAM. 
 
-Tamanho do aplicativo: O APK deve ser leve; uso mínimo de vídeos (apenas GIFs ou ilustrações leves). 
+. Versão sistema operacional: Android/IOS
 
-Conectividade: Deve funcionar offline (cache local de dicas e favoritos); sincronização apenas no Wi-Fi. 
+. Tamanho do aplicativo: O APK deve ser leve; uso mínimo de vídeos (apenas GIFs ou ilustrações leves). 
 
+. Conectividade: Deve funcionar offline (cache local de dicas e favoritos); sincronização apenas no Wi-Fi. 
  
+. Armazenamento: 10 a 30mb.
 
- 
+. Privacidade e dados: Altíssima sensibilidade de dados. A puérpera é um grupo vulnerável. Nenhum dado de saúde do bebê deve ser coletado sem consentimento explícito. Os dados de localização para doação de leite devem ser criptografados. 
 
-Privacidade e dados: Altíssima sensibilidade de dados. A puérpera é um grupo vulnerável. Nenhum dado de saúde do bebê deve ser coletado sem consentimento explícito. Os dados de localização para doação de leite devem ser criptografados. 
 
-Navegação: Menu inferior com ícones grandes, para uso com uma mão (polegar). 
+. Navegação: Menu inferior com ícones grandes, para uso com uma mão (polegar). 
 
-Acessibilidade e ambientação: Modo noturno suave (tons pastéis escuros); cores pastéis (pêssego e lilás) para reduzir o estresse visual; foco em ilustrações em vez de fotos chocantes. 
+. Acessibilidade: Modo noturno suave (tons pastéis escuros); cores pastéis (pêssego e lilás) para reduzir o estresse visual; foco em ilustrações em vez de fotos chocantes. 
+
+. Ambientação de utilização: O aplicativo pode ser utilizado principalmente em casa , no hospital e durante momentos da rotina com o bebe.
 
 Documentação: Na pasta /docs do repositório devem constar o Documento de Requisitos + Personas + Pesquisas (fontes da rBLH), a justificativa das decisões visuais e o CHANGELOG.md. 
 
