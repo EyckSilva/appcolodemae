@@ -1,5 +1,5 @@
 ## NOME DO PROJETO
-Colo de Mãe
+Colo de Mãe.
 
 ## INTEGRANTES
 . Enderson Silva
