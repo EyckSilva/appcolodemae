@@ -19,20 +19,15 @@ O Colo de mãe é um aplicativo mobile que oferece informações sobre amamenta�
 
 - **Enderson Silva:** contribuição na análise do problema e do público-alvo.
 - **Eyck Cainã:** organização da documentação e análise das funcionalidades.
-- **Gabriel Guimarães:** contribuição na análise da proposta de valor e experiência.
 - **João Pedro Alves:** contribuição na revisão da documentação, topico 2.7 e organização do repositório.
 
 ## RESPONSABILIDADE DE CADA INTEGRANTE / ATIVIDADE - 02
 
 - **Enderson Silva:** pesquisa sobre o problema e levantamento de informações.
 - **Eyck Cainã:** organização da documentação, análise do benchmark e criação dos slides da apresentação.
-- **Gabriel Guimarães:** criação e análise das personas.
 - **João Pedro Alves:** organização do README, CHANGELOG e apoio na documentação.
 
 ## RESPONSABILIDADE DE CADA INTEGRANTE / ATIVIDADE - 03
 
-- **Enderson Silva:** levantamento e definição das funcionalidades.
-- **Eyck Cainã:** documentação dos requisitos e organização do `requisitos.md`.
-- **Gabriel Clement:** apoio na definição e revisão dos requisitos.
-- **Gabriel Guimarães:** análise das necessidades dos usuários e revisão das funcionalidades.
-- **João Pedro Alves:** atualização do README e CHANGELOG.
+- **Enderson Silva:** levantamento e definição das funcionalidades, análise das necessidades dos usuários e revisão das funcionalidades.
+- **Eyck Cainã:** documentação dos requisitos e organização do `requisitos.md`,apoio na definição e revisão dos requisitos, atualização do README e CHANGELOG.
