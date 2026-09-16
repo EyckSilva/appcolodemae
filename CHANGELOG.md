@@ -18,3 +18,18 @@
 
 ### Atualizado
 - README.md com as responsabilidades dos integrantes na atividade.
+
+# CHANGELOG
+
+## 16/09/2026 — Atividade 03
+
+### Adicionado
+- Documento de funcionalidades e requisitos em `docs/requisitos.md`.
+- Definição das principais funcionalidades do aplicativo.
+- Requisitos funcionais e não funcionais.
+- Identificação do CRUD aplicável ao aplicativo.
+- Priorização das funcionalidades em essenciais, importantes e secundárias.
+- Atualização das responsabilidades dos integrantes no `README.md`.
+
+### Atualizado
+- README.md com a participação dos integrantes na Atividade 03.
