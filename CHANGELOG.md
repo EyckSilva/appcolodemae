@@ -33,3 +33,32 @@
 
 ### Atualizado
 - README.md com a participação dos integrantes na Atividade 03.
+
+
+## 29/09/2026 — Atividade 04
+
+### Adicionado
+- Protótipo de alta fidelidade do aplicativo Colo de Mãe.
+- Identidade visual final.
+- Definição de cores e componentes da interface.
+- Estados e interações.
+- Fluxos de navegação.
+- Documento `docs/justificativas.md`.
+
+### Atualizado
+- README.md com as responsabilidades da Atividade 04.
+- Interface conforme as decisões de UI/UX definidas no projeto.
+
+
+## 29/09/2026 — Atividade 05
+
+### Adicionado
+- Apresentação do protótipo de baixa e alta fidelidade.
+- Apresentação da evolução da proposta.
+- Fluxos principais do aplicativo.
+- Principais decisões de UI/UX.
+- Relação entre o protótipo, funcionalidades e requisitos definidos.
+
+### Atualizado
+- README.md com as responsabilidades dos integrantes na Atividade 05.
+- Apresentação final do protótipo do Colo de Mãe.
