@@ -1,0 +1,44 @@
+[
+  {
+    "id": "se-blh-marly-sarney",
+    "enderecoPesquisa": "Rua Mato Grosso, s/n, José Conrado de Araújo, Aracaju, SE, Brasil",
+    "fonteEndereco": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002569",
+    "instituicaoPesquisa": "Banco de Leite Humano Marly Sarney, Rua Mato Grosso, s/n, José Conrado de Araújo, Aracaju, SE",
+    "termosIdentificacao": [
+      "marly",
+      "sarney"
+    ],
+    "pendencias": [
+      "Confirmar acesso operacional e se o ponto corresponde à unidade real",
+      "Preservar divergências e rejeições anteriores; não aprovar resultado genérico"
+    ]
+  },
+  {
+    "id": "se-posto-fernando-guedes-santa-isabel",
+    "enderecoPesquisa": "Avenida Simeão Sobral, 1312, Dezoito do Forte, Aracaju, SE, Brasil",
+    "fonteEndereco": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002232",
+    "instituicaoPesquisa": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel, Avenida Simeão Sobral, 1312, Dezoito do Forte, Aracaju, SE",
+    "termosIdentificacao": [
+      "santa",
+      "isabel"
+    ],
+    "pendencias": [
+      "Confirmar acesso operacional e se o ponto corresponde à unidade real",
+      "Preservar divergências e rejeições anteriores; não aprovar resultado genérico"
+    ]
+  },
+  {
+    "id": "se-posto-maternidade-lourdes-nogueira",
+    "enderecoPesquisa": "Rua Procurador José Costa Cavalcante, s/n, 17 de Março, Aracaju, SE, Brasil",
+    "fonteEndereco": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/4099206",
+    "instituicaoPesquisa": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira, Rua Procurador José Costa Cavalcante, s/n, 17 de Março, Aracaju, SE",
+    "termosIdentificacao": [
+      "lourdes",
+      "nogueira"
+    ],
+    "pendencias": [
+      "Confirmar acesso operacional e se o ponto corresponde à unidade real",
+      "Preservar divergências e rejeições anteriores; não aprovar resultado genérico"
+    ]
+  }
+]

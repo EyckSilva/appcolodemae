@@ -1,0 +1,53 @@
+{
+  "hashRevisao": "08d260cf246b2b5f20bea3b2a5532bddd8e611ee2be0c390b38bb47173b6e9e1",
+  "revisoes": [
+    {
+      "id": "ac-blh-cnes-2000296",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "ac-blh-cnes-2000733",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    }
+  ]
+}

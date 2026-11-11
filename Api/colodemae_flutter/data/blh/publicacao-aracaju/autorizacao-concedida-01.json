@@ -1,0 +1,27 @@
+{
+  "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0",
+  "autorizacaoExplicita": true,
+  "autorizadoPor": "Responsavel pelo projeto - autorizacao explicita no chat",
+  "autorizadoEm": "2026-11-11T16:59:29.053500+00:00",
+  "unidades": [
+    {
+      "id": "se-blh-marly-sarney",
+      "publicarDocumento": true,
+      "aprovarCoordenadas": true,
+      "confirmoPontoDoEstabelecimentoMantenedor": true
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "publicarDocumento": true,
+      "aprovarCoordenadas": true,
+      "confirmoPontoDoEstabelecimentoMantenedor": true
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "publicarDocumento": true,
+      "aprovarCoordenadas": true,
+      "confirmoPontoDoEstabelecimentoMantenedor": true
+    }
+  ],
+  "escopoAutorizado": "Publicar somente os tres documentos existentes da previa-02; pontos dos estabelecimentos, nao salas dos postos; preservar divergencias, dados revisados, historico e regras."
+}

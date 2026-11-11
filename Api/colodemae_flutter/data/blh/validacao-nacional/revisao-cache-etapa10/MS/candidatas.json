@@ -1,0 +1,169 @@
+{
+  "geradoEm": "2026-11-11T08:40:37.596304+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "c09494dca85a161ba8a092f841cba5ce364bff72e27524688793e21ee48edebe",
+  "hashEnderecos": "03a750493bbbb4dd9a00df8a3e61c4a0ffec048986dd14da2a1950da103898b6",
+  "unidades": [
+    {
+      "id": "ms-blh-cnes-0009717",
+      "nome": "Banco de Leite Humano Irmã Maria José Machado - Santa Casa Campo Grande - MS",
+      "estado": "MS",
+      "cidade": "CAMPO GRANDE",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/MS/coordenadas.candidatas.json",
+        "hashRelatorio": "f10e3dac0188331da40754a27fd3b785094e29968a516195b71b61034af0e9aa",
+        "revisao": "data/blh/nacional/MS/aprovacao-manual.json",
+        "hashRevisao": "22446ab3d3dc4a6b9507ec8cb881af852be8a8c227f97361b9149a6e0e309683",
+        "decisaoAnterior": {
+          "id": "ms-blh-cnes-0009717",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "ms-blh-cnes-0009725",
+      "nome": "Banco de Leite Humano do Hospital Regional de Mato Grosso do Sul",
+      "estado": "MS",
+      "cidade": "CAMPO GRANDE",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/MS/coordenadas.candidatas.json",
+        "hashRelatorio": "f10e3dac0188331da40754a27fd3b785094e29968a516195b71b61034af0e9aa",
+        "revisao": "data/blh/nacional/MS/aprovacao-manual.json",
+        "hashRevisao": "22446ab3d3dc4a6b9507ec8cb881af852be8a8c227f97361b9149a6e0e309683",
+        "decisaoAnterior": {
+          "id": "ms-blh-cnes-0009725",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "ms-blh-cnes-0009768",
+      "nome": "Banco de Leite Humano Dr. João Aprígio",
+      "estado": "MS",
+      "cidade": "CAMPO GRANDE",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/MS/coordenadas.candidatas.json",
+        "hashRelatorio": "f10e3dac0188331da40754a27fd3b785094e29968a516195b71b61034af0e9aa",
+        "revisao": "data/blh/nacional/MS/aprovacao-manual.json",
+        "hashRevisao": "22446ab3d3dc4a6b9507ec8cb881af852be8a8c227f97361b9149a6e0e309683",
+        "decisaoAnterior": {
+          "id": "ms-blh-cnes-0009768",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ],
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "a970cdac45e079bcdd0e4016b12d57b13f32b8380a57c3c9cba0d50c69afad90"
+}

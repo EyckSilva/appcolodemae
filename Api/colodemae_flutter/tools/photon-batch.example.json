@@ -1,0 +1,12 @@
+{
+  "endpoint": "https://SEU-ENDPOINT-PHOTON.example/api/",
+  "politica": "https://SEU-ENDPOINT-PHOTON.example/politica",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright",
+  "licenca": "ODbL — https://opendatacommons.org/licenses/odbl/",
+  "cachePermitido": true,
+  "cacheDias": 30,
+  "intervaloSegundos": 2,
+  "maxRequisicoesExecucao": 100,
+  "maxRequisicoesDia": 100,
+  "tamanhoLote": 25
+}

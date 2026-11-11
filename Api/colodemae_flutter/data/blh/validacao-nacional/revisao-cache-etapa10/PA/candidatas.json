@@ -1,0 +1,325 @@
+{
+  "geradoEm": "2026-11-11T08:40:37.603970+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "7ae1ce8793b68be4ed2c1f010c0e4318b376dca06c8634c20e87847a0ba4252b",
+  "hashEnderecos": "20886055699c698991450c03c5042915de401ef0ec6a0b5b32ac6d9edf9c79d8",
+  "unidades": [
+    {
+      "id": "pa-blh-cnes-9461493",
+      "nome": "Banco de Leite Humano de Barcarena",
+      "estado": "PA",
+      "cidade": "BARCARENA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PA/coordenadas.candidatas.json",
+        "hashRelatorio": "430d1bf4877445cbfe6d30f5b7c6ab452c7827f8cd6831b47329aed896ce23a0",
+        "revisao": "data/blh/nacional/PA/aprovacao-manual.json",
+        "hashRevisao": "42ed926a91d49e5b3cf8df8f872b8432fc6ce78eb2b3aa647e87d20b04ffb561",
+        "decisaoAnterior": {
+          "id": "pa-blh-cnes-9461493",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-2752700",
+      "nome": "Banco de Leite Humano João Aprígio Guerra de Almeida",
+      "estado": "PA",
+      "cidade": "BELEM",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PA/coordenadas.candidatas.json",
+        "hashRelatorio": "430d1bf4877445cbfe6d30f5b7c6ab452c7827f8cd6831b47329aed896ce23a0",
+        "revisao": "data/blh/nacional/PA/aprovacao-manual.json",
+        "hashRevisao": "42ed926a91d49e5b3cf8df8f872b8432fc6ce78eb2b3aa647e87d20b04ffb561",
+        "decisaoAnterior": {
+          "id": "pa-blh-cnes-2752700",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-2678403",
+      "nome": "Banco de Leite Humano Maria Eunice Begot da Silva Dantas",
+      "estado": "PA",
+      "cidade": "BRAGANCA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PA/coordenadas.candidatas.json",
+        "hashRelatorio": "430d1bf4877445cbfe6d30f5b7c6ab452c7827f8cd6831b47329aed896ce23a0",
+        "revisao": "data/blh/nacional/PA/aprovacao-manual.json",
+        "hashRevisao": "42ed926a91d49e5b3cf8df8f872b8432fc6ce78eb2b3aa647e87d20b04ffb561",
+        "decisaoAnterior": {
+          "id": "pa-blh-cnes-2678403",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-2619717",
+      "nome": "Banco de Leite Humano Mãe da Divina Providência",
+      "estado": "PA",
+      "cidade": "MARITUBA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PA/coordenadas.candidatas.json",
+        "hashRelatorio": "430d1bf4877445cbfe6d30f5b7c6ab452c7827f8cd6831b47329aed896ce23a0",
+        "revisao": "data/blh/nacional/PA/aprovacao-manual.json",
+        "hashRevisao": "42ed926a91d49e5b3cf8df8f872b8432fc6ce78eb2b3aa647e87d20b04ffb561",
+        "decisaoAnterior": {
+          "id": "pa-blh-cnes-2619717",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-5703425",
+      "nome": "Banco de Leite Humano Dra. Cynara Melo Souza",
+      "estado": "PA",
+      "cidade": "MARABA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PA/coordenadas.candidatas.json",
+        "hashRelatorio": "430d1bf4877445cbfe6d30f5b7c6ab452c7827f8cd6831b47329aed896ce23a0",
+        "revisao": "data/blh/nacional/PA/aprovacao-manual.json",
+        "hashRevisao": "42ed926a91d49e5b3cf8df8f872b8432fc6ce78eb2b3aa647e87d20b04ffb561",
+        "decisaoAnterior": {
+          "id": "pa-blh-cnes-5703425",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-2615746",
+      "nome": "Banco de Leite Humano Dra. Lúcia Margarida Costa Campos",
+      "estado": "PA",
+      "cidade": "PRARAUAPEBAS",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PA/coordenadas.candidatas.json",
+        "hashRelatorio": "430d1bf4877445cbfe6d30f5b7c6ab452c7827f8cd6831b47329aed896ce23a0",
+        "revisao": "data/blh/nacional/PA/aprovacao-manual.json",
+        "hashRevisao": "42ed926a91d49e5b3cf8df8f872b8432fc6ce78eb2b3aa647e87d20b04ffb561",
+        "decisaoAnterior": {
+          "id": "pa-blh-cnes-2615746",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ],
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "db8642a94671cf48665e92dc2e8f78a45953023fe2b54ac81414cbf6e9d7e1f8"
+}

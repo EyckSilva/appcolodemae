@@ -27,7 +27,7 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>Usamos sua localização apenas para encontrar os Bancos de Leite Humano mais próximos de você. Ela nunca é armazenada.</string>
+	<string>O Colo de Mãe utiliza sua localização para encontrar Bancos de Leite Humano próximos de você.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>

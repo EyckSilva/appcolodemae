@@ -1,0 +1,727 @@
+{
+  "geradoEm": "2026-11-11T08:38:08.762592+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "8729fc3c0b3c1eda69ec1c2055be1cfc151aafc7e6580e5dcce5f14df16c205e",
+  "hashEnderecos": "8773cdfc5961c90fcb279c997ef9dce6acfd21c4edf535d098ba33e649b081a6",
+  "unidades": [
+    {
+      "id": "pr-blh-cnes-2439360",
+      "nome": "Banco de Leite Humano do Hospital da Providência / HPMI",
+      "estado": "PR",
+      "cidade": "APUCARANA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-2439360",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-0014109",
+      "nome": "Banco de Leite Humano do Hospital Santa Casa de Campo Mourão",
+      "estado": "PR",
+      "cidade": "CAMPO MOURAO",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-0014109",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2738368",
+      "nome": "Banco de Leite Humano do Hospital Universitário do Oeste do Paraná",
+      "estado": "PR",
+      "cidade": "CASCAVEL",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-2738368",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-0015245",
+      "nome": "Banco de Leite Humano do Hospital Universitário Evangélico Mackenzie",
+      "estado": "PR",
+      "cidade": "CURITIBA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-0015245",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-0015369",
+      "nome": "Banco de Leite Humano do Hospital do Trabalhador",
+      "estado": "PR",
+      "cidade": "CURITIBA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-0015369",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2591049",
+      "nome": "Banco de Leite Humano de Foz do Iguaçu",
+      "estado": "PR",
+      "cidade": "FOZ DO IGUACU",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-2591049",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2741989",
+      "nome": "Banco de Leite Humano São Vicente de Paulo",
+      "estado": "PR",
+      "cidade": "GUARAPUAVA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-2741989",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-6542638",
+      "nome": "Banco de Leite Humano do Hospital Universitário Materno Infantil - Ponta Grossa",
+      "estado": "PR",
+      "cidade": "PONTA GROSSA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-6542638",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-4056752",
+      "nome": "Banco de Leite Humano Dr. Jorge Nisiide",
+      "estado": "PR",
+      "cidade": "TOLEDO",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-4056752",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2781859",
+      "nome": "Banco de Leite Humano Maria Lucilia Monti Magalhães",
+      "estado": "PR",
+      "cidade": "LONDRINA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-2781859",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2587335",
+      "nome": "Banco de Leite Humano do Hospital Universitário Regional de Maringá",
+      "estado": "PR",
+      "cidade": "MARINGA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-2587335",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-0017884",
+      "nome": "Banco de leite Humano São Lucas",
+      "estado": "PR",
+      "cidade": "PATO BRANCO",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-0017884",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2753278",
+      "nome": "Banco de Leite Humano do Hospital e Maternidade São José dos Pinhais",
+      "estado": "PR",
+      "cidade": "SAO JOSE DOS PINHAIS",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-2753278",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-3005011",
+      "nome": "Banco de Leite Humano Norospar",
+      "estado": "PR",
+      "cidade": "UMUARAMA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/PR/coordenadas.candidatas.json",
+        "hashRelatorio": "00a421313f58075defdae70dfc2883398206fdb73c269ab52e5ffdf35b97c5e6",
+        "revisao": "data/blh/nacional/PR/aprovacao-manual.json",
+        "hashRevisao": "5f9087a9ab116ab7c800cea29fa8e9b7f68e472be953fd31798a8bde8c96f7e3",
+        "decisaoAnterior": {
+          "id": "pr-blh-cnes-3005011",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ],
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "0aa9f0aa5a70b518531c05ab2f4c1c6c8f615ebcef5772958a7f9c408692cd31"
+}

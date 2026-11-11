@@ -1,0 +1,65 @@
+{
+  "geradoEm": "2026-11-11T08:24:01.003240+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "c09494dca85a161ba8a092f841cba5ce364bff72e27524688793e21ee48edebe",
+  "hashEnderecos": "03a750493bbbb4dd9a00df8a3e61c4a0ffec048986dd14da2a1950da103898b6",
+  "unidades": [
+    {
+      "id": "ms-blh-cnes-0009717",
+      "nome": "Banco de Leite Humano Irmã Maria José Machado - Santa Casa Campo Grande - MS",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "ms-blh-cnes-0009725",
+      "nome": "Banco de Leite Humano do Hospital Regional de Mato Grosso do Sul",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "ms-blh-cnes-0009768",
+      "nome": "Banco de Leite Humano Dr. João Aprígio",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    }
+  ],
+  "requisicoesNestaExecucao": 0,
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "c663199659966004ae031e84fea1381670728120e9487825e19dcdf6be1b1290"
+}

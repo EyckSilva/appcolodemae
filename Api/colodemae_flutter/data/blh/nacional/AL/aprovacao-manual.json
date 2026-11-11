@@ -1,0 +1,101 @@
+{
+  "hashRevisao": "c1a06109d93a5172740ac585459ccb0dcbc4ab63223480e134cc95975f15caba",
+  "revisoes": [
+    {
+      "id": "al-blh-cnes-2005050",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2009250",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2010631",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2010151",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    }
+  ]
+}

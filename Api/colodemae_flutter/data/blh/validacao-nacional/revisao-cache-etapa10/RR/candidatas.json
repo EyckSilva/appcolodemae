@@ -1,0 +1,65 @@
+{
+  "geradoEm": "2026-11-11T08:40:37.640230+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "89e5995634b29b61f39ce4ff89111595a9520a5fadf1188cfda2dd443466e1b4",
+  "hashEnderecos": "0fd38ac50456dc91eb536f71bc3174d4e4c85d823db493cec3dd364e54461b7b",
+  "unidades": [
+    {
+      "id": "rr-blh-cnes-2566168",
+      "nome": "Banco de Leite Humano Dra. Marilurdes Albuquerque",
+      "estado": "RR",
+      "cidade": "BOA VISTA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/RR/coordenadas.candidatas.json",
+        "hashRelatorio": "dbece1b138eaa11ae94f3629dff0b78186ba15887e6ffa6fbda40f1e19b81dda",
+        "revisao": "data/blh/nacional/RR/aprovacao-manual.json",
+        "hashRevisao": "20cd8aa29138b0d8c1b7774b3b6abdccd588b2d8ff72d41072f8858d424cd423",
+        "decisaoAnterior": {
+          "id": "rr-blh-cnes-2566168",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ],
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "6c6f0806ffc8d56141e4a8f6e3dc4dd24dbdfc65998857ffd603a7ba486e2349"
+}

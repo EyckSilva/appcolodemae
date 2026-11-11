@@ -1,0 +1,55 @@
+{
+  "hashRevisao": "831f1b3d92440594d25619e553db069ce50dfc3ceb0fd033c870706502c52cd4",
+  "revisoes": [
+    {
+      "id": "ac-blh-cnes-2000296",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "ac-blh-cnes-2000733",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ]
+}

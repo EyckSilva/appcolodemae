@@ -1,0 +1,180 @@
+{
+  "solicitacao": "Remover o botao Buscar por cidade e estado, conforme solicitacao explicita do usuario; ajustar orientacoes que apontavam para o botao removido.",
+  "politica": "Hashes exatos de codigo e teste autorizados; nenhuma alteracao nos dados administrativos historicos. Fontes documentais complementares somente na fonte de demonstracao.",
+  "arquivos": {
+    "lib/core/utils/location.dart": {
+      "antes": "2234c2f58c8f29a8d49e49bfdc57a3b8722702aee72ef7a9033adc802892cb3d",
+      "depois": "457c8ba8f89fe525d28fa3d273bd4431c35deb86ca90e8218d2a769217edba09"
+    },
+    "lib/core/utils/maps_launcher.dart": {
+      "antes": "571d618c719bd21bd56ba184c1ed5ad7d1522ab52c4fc70191d93fca87828e9a",
+      "depois": "e432962de2abddd95fe1252184926e1c6ea5ce31e8a29f817c077601d5644c80"
+    },
+    "lib/models/milk_bank.dart": {
+      "antes": "a47db4d57226f2ed1ec9ef83707b487d2c916d2568744a1ba4104c767b9e2d90",
+      "depois": "e808c1b47d9a93bd699faab31d69fe6bb75cfd04cb9e56bf2addd6800b3ce8bb"
+    },
+    "lib/screens/blh/bank_detail_screen.dart": {
+      "antes": "0386cd9f0f18b596bcb340b5e862fe8fa6ac11d20941c3a53cb6c64a5ca7ab8a",
+      "depois": "0f44f3a03289a71ffed02a6c167dfd9f284100d2a7f433da0bb53651bfc42618"
+    },
+    "lib/screens/blh/blh_screen.dart": {
+      "antes": "09af1b6c841148e2e1a83528f070155aafa09170969dc0d6f27f2636f7a467a6",
+      "depois": "8b3026921d7c91ab694dad661fa61c50f2767f7aaa1bcd36cb83495ed51e9c86"
+    },
+    "lib/screens/blh/widgets/bank_list_card.dart": {
+      "antes": "a82f9cdad4ad82edcd5afa5e046d7c4a6af90859ab4ab3c92c2a2ec2a2de3a1e",
+      "depois": "413124f96fdc9bf33e5c5e29139146e8cf3eebb3000baad9eb72df8562e6dabd"
+    },
+    "lib/services/milk_bank_controller.dart": {
+      "antes": "9a262ec1a22c3e8347197b6ff53f139c871c959570c710f7648d5cff1b7030f5",
+      "depois": "fe1e4c296e62755d96a2fee29e222972343423829b505590da288d1300cfeb1a"
+    },
+    "test/blh_test.dart": {
+      "antes": "6839786491705b9ddbc3e4a978454c756fee44a40a5a8b8a43416cc4ff44641f",
+      "depois": "b11ef7ffb564d9a69170f869198e4a8908db9ca5bd17cf629a8d9342667b5c80"
+    }
+  },
+  "historico": [
+    {
+      "solicitacao": "CORRECAO URGENTE DO MODULO BLH - anexo c43c7f6c-dcbd-4723-a49a-48888bd7d848; timeouts e demonstracao local explicitamente solicitados",
+      "arquivos": {
+        "lib/core/utils/location.dart": {
+          "antes": "2234c2f58c8f29a8d49e49bfdc57a3b8722702aee72ef7a9033adc802892cb3d",
+          "depois": "457c8ba8f89fe525d28fa3d273bd4431c35deb86ca90e8218d2a769217edba09"
+        },
+        "lib/core/utils/maps_launcher.dart": {
+          "antes": "571d618c719bd21bd56ba184c1ed5ad7d1522ab52c4fc70191d93fca87828e9a",
+          "depois": "e432962de2abddd95fe1252184926e1c6ea5ce31e8a29f817c077601d5644c80"
+        },
+        "lib/models/milk_bank.dart": {
+          "antes": "a47db4d57226f2ed1ec9ef83707b487d2c916d2568744a1ba4104c767b9e2d90",
+          "depois": "2ac15471a3b5bb3da9f71827fb19b6dded2bf3da71814f98db3a51483655ada1"
+        },
+        "lib/screens/blh/bank_detail_screen.dart": {
+          "antes": "0386cd9f0f18b596bcb340b5e862fe8fa6ac11d20941c3a53cb6c64a5ca7ab8a",
+          "depois": "873fc69cdac347181f186ff301fee473ef23594b9f409cb8d1b8959f2351dcb8"
+        },
+        "lib/screens/blh/blh_screen.dart": {
+          "antes": "09af1b6c841148e2e1a83528f070155aafa09170969dc0d6f27f2636f7a467a6",
+          "depois": "04861625acd47d0bb02e1811bcede2fc531cd47d75148f25933f6cb07eb082f0"
+        },
+        "lib/services/milk_bank_controller.dart": {
+          "antes": "9a262ec1a22c3e8347197b6ff53f139c871c959570c710f7648d5cff1b7030f5",
+          "depois": "69f92dc9a5e443ae7449313fc6cc11cf3a50d6ac9e5fe1a4e2a6ca2ed7883ada"
+        }
+      }
+    },
+    {
+      "solicitacao": "Ajustar textos BLH: cards com rua e bairro; detalhes legiveis, telefones formatados e horarios/contatos pesquisados; teste do botao preservado com rolagem.",
+      "arquivos": {
+        "lib/core/utils/location.dart": {
+          "antes": "2234c2f58c8f29a8d49e49bfdc57a3b8722702aee72ef7a9033adc802892cb3d",
+          "depois": "457c8ba8f89fe525d28fa3d273bd4431c35deb86ca90e8218d2a769217edba09"
+        },
+        "lib/core/utils/maps_launcher.dart": {
+          "antes": "571d618c719bd21bd56ba184c1ed5ad7d1522ab52c4fc70191d93fca87828e9a",
+          "depois": "e432962de2abddd95fe1252184926e1c6ea5ce31e8a29f817c077601d5644c80"
+        },
+        "lib/models/milk_bank.dart": {
+          "antes": "a47db4d57226f2ed1ec9ef83707b487d2c916d2568744a1ba4104c767b9e2d90",
+          "depois": "ae044f76d45bbe639d7f325d514142f65144f713ceac0d7d7d9624ebaf57c357"
+        },
+        "lib/screens/blh/bank_detail_screen.dart": {
+          "antes": "0386cd9f0f18b596bcb340b5e862fe8fa6ac11d20941c3a53cb6c64a5ca7ab8a",
+          "depois": "0f44f3a03289a71ffed02a6c167dfd9f284100d2a7f433da0bb53651bfc42618"
+        },
+        "lib/screens/blh/blh_screen.dart": {
+          "antes": "09af1b6c841148e2e1a83528f070155aafa09170969dc0d6f27f2636f7a467a6",
+          "depois": "04861625acd47d0bb02e1811bcede2fc531cd47d75148f25933f6cb07eb082f0"
+        },
+        "lib/screens/blh/widgets/bank_list_card.dart": {
+          "antes": "a82f9cdad4ad82edcd5afa5e046d7c4a6af90859ab4ab3c92c2a2ec2a2de3a1e",
+          "depois": "413124f96fdc9bf33e5c5e29139146e8cf3eebb3000baad9eb72df8562e6dabd"
+        },
+        "lib/services/milk_bank_controller.dart": {
+          "antes": "9a262ec1a22c3e8347197b6ff53f139c871c959570c710f7648d5cff1b7030f5",
+          "depois": "69f92dc9a5e443ae7449313fc6cc11cf3a50d6ac9e5fe1a4e2a6ca2ed7883ada"
+        },
+        "test/blh_test.dart": {
+          "antes": "6839786491705b9ddbc3e4a978454c756fee44a40a5a8b8a43416cc4ff44641f",
+          "depois": "23742d179e6ab6f4e342762633865e2eaf1ec3bb406ea7283fa8ed973091beba"
+        }
+      }
+    },
+    {
+      "solicitacao": "Calcular distancia com Geolocator.distanceBetween para pontos aprovados; manter lista municipal completa, sem raio 50 km; nenhuma mudanca na tela de detalhes ou publicacao.",
+      "arquivos": {
+        "lib/core/utils/location.dart": {
+          "antes": "2234c2f58c8f29a8d49e49bfdc57a3b8722702aee72ef7a9033adc802892cb3d",
+          "depois": "457c8ba8f89fe525d28fa3d273bd4431c35deb86ca90e8218d2a769217edba09"
+        },
+        "lib/core/utils/maps_launcher.dart": {
+          "antes": "571d618c719bd21bd56ba184c1ed5ad7d1522ab52c4fc70191d93fca87828e9a",
+          "depois": "e432962de2abddd95fe1252184926e1c6ea5ce31e8a29f817c077601d5644c80"
+        },
+        "lib/models/milk_bank.dart": {
+          "antes": "a47db4d57226f2ed1ec9ef83707b487d2c916d2568744a1ba4104c767b9e2d90",
+          "depois": "df60335d2d142678b550cb3fa1f98ca0cd72db939aa38663f5e6b6e9762b29a6"
+        },
+        "lib/screens/blh/bank_detail_screen.dart": {
+          "antes": "0386cd9f0f18b596bcb340b5e862fe8fa6ac11d20941c3a53cb6c64a5ca7ab8a",
+          "depois": "0f44f3a03289a71ffed02a6c167dfd9f284100d2a7f433da0bb53651bfc42618"
+        },
+        "lib/screens/blh/blh_screen.dart": {
+          "antes": "09af1b6c841148e2e1a83528f070155aafa09170969dc0d6f27f2636f7a467a6",
+          "depois": "7e0f078d34eb34321e70d6d59bcf1b2f166943922264127e3e48e0bdc828c501"
+        },
+        "lib/screens/blh/widgets/bank_list_card.dart": {
+          "antes": "a82f9cdad4ad82edcd5afa5e046d7c4a6af90859ab4ab3c92c2a2ec2a2de3a1e",
+          "depois": "413124f96fdc9bf33e5c5e29139146e8cf3eebb3000baad9eb72df8562e6dabd"
+        },
+        "lib/services/milk_bank_controller.dart": {
+          "antes": "9a262ec1a22c3e8347197b6ff53f139c871c959570c710f7648d5cff1b7030f5",
+          "depois": "ec25460d6edccd0984b238ef9c51b070de9c4115356f9e57b2d7b8edf5eeb44b"
+        },
+        "test/blh_test.dart": {
+          "antes": "6839786491705b9ddbc3e4a978454c756fee44a40a5a8b8a43416cc4ff44641f",
+          "depois": "72756ac1af1fd885c1d58db0b311cd1cc8ffe104bac274eb13b0a405acee1fdc"
+        }
+      }
+    },
+    {
+      "solicitacao": "Preparar integracao Firestore sem demo, preservar CEP/contato revisados e permitir rota por endereco quando nao ha GPS aprovado. Publicacao ainda nao autorizada.",
+      "arquivos": {
+        "lib/core/utils/location.dart": {
+          "antes": "2234c2f58c8f29a8d49e49bfdc57a3b8722702aee72ef7a9033adc802892cb3d",
+          "depois": "457c8ba8f89fe525d28fa3d273bd4431c35deb86ca90e8218d2a769217edba09"
+        },
+        "lib/core/utils/maps_launcher.dart": {
+          "antes": "571d618c719bd21bd56ba184c1ed5ad7d1522ab52c4fc70191d93fca87828e9a",
+          "depois": "e432962de2abddd95fe1252184926e1c6ea5ce31e8a29f817c077601d5644c80"
+        },
+        "lib/models/milk_bank.dart": {
+          "antes": "a47db4d57226f2ed1ec9ef83707b487d2c916d2568744a1ba4104c767b9e2d90",
+          "depois": "e808c1b47d9a93bd699faab31d69fe6bb75cfd04cb9e56bf2addd6800b3ce8bb"
+        },
+        "lib/screens/blh/bank_detail_screen.dart": {
+          "antes": "0386cd9f0f18b596bcb340b5e862fe8fa6ac11d20941c3a53cb6c64a5ca7ab8a",
+          "depois": "0f44f3a03289a71ffed02a6c167dfd9f284100d2a7f433da0bb53651bfc42618"
+        },
+        "lib/screens/blh/blh_screen.dart": {
+          "antes": "09af1b6c841148e2e1a83528f070155aafa09170969dc0d6f27f2636f7a467a6",
+          "depois": "7e0f078d34eb34321e70d6d59bcf1b2f166943922264127e3e48e0bdc828c501"
+        },
+        "lib/screens/blh/widgets/bank_list_card.dart": {
+          "antes": "a82f9cdad4ad82edcd5afa5e046d7c4a6af90859ab4ab3c92c2a2ec2a2de3a1e",
+          "depois": "413124f96fdc9bf33e5c5e29139146e8cf3eebb3000baad9eb72df8562e6dabd"
+        },
+        "lib/services/milk_bank_controller.dart": {
+          "antes": "9a262ec1a22c3e8347197b6ff53f139c871c959570c710f7648d5cff1b7030f5",
+          "depois": "ec25460d6edccd0984b238ef9c51b070de9c4115356f9e57b2d7b8edf5eeb44b"
+        },
+        "test/blh_test.dart": {
+          "antes": "6839786491705b9ddbc3e4a978454c756fee44a40a5a8b8a43416cc4ff44641f",
+          "depois": "93dab579260ab2bdd6f53a064851045c73e9ef4f602a596658de36bac8b8c3e5"
+        }
+      }
+    }
+  ]
+}

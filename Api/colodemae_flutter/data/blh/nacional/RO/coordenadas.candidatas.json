@@ -1,0 +1,31 @@
+{
+  "geradoEm": "2026-11-11T08:24:01.216104+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "e07876c515901086379bb19e492e677a70476ee60d8e43deabb11b2a6ec5ae2c",
+  "hashEnderecos": "cfa276d40318248326ceec9142435ed259b02933e8b23d983e9dfc00aaafc34c",
+  "unidades": [
+    {
+      "id": "ro-blh-cnes-4001303",
+      "nome": "Banco de Leite Humano Santa Ágata",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    }
+  ],
+  "requisicoesNestaExecucao": 0,
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "01aca777ce400a40fed6dfef9718e15aae9b2ef22e76bd9ae8fa8f09ca3070f0"
+}

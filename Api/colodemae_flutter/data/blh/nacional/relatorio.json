@@ -1,0 +1,261 @@
+{
+  "porUF": {
+    "AC": {
+      "BLH": 2,
+      "PCLH": 0,
+      "total": 2,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 2
+    },
+    "AL": {
+      "BLH": 4,
+      "PCLH": 0,
+      "total": 4,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 4
+    },
+    "AM": {
+      "BLH": 3,
+      "PCLH": 0,
+      "total": 3,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 3
+    },
+    "AP": {
+      "BLH": 1,
+      "PCLH": 0,
+      "total": 1,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 1
+    },
+    "BA": {
+      "BLH": 11,
+      "PCLH": 0,
+      "total": 11,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 11
+    },
+    "CE": {
+      "BLH": 9,
+      "PCLH": 0,
+      "total": 9,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 9
+    },
+    "DF": {
+      "BLH": 10,
+      "PCLH": 3,
+      "total": 13,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 2,
+      "sem_coordenadas": 11
+    },
+    "ES": {
+      "BLH": 6,
+      "PCLH": 0,
+      "total": 6,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 6
+    },
+    "GO": {
+      "BLH": 4,
+      "PCLH": 0,
+      "total": 4,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 4
+    },
+    "MA": {
+      "BLH": 3,
+      "PCLH": 0,
+      "total": 3,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 3
+    },
+    "MG": {
+      "BLH": 12,
+      "PCLH": 0,
+      "total": 12,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 12
+    },
+    "MS": {
+      "BLH": 3,
+      "PCLH": 0,
+      "total": 3,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 3
+    },
+    "MT": {
+      "BLH": 3,
+      "PCLH": 0,
+      "total": 3,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 3
+    },
+    "PA": {
+      "BLH": 6,
+      "PCLH": 0,
+      "total": 6,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 6
+    },
+    "PB": {
+      "BLH": 6,
+      "PCLH": 0,
+      "total": 6,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 6
+    },
+    "PE": {
+      "BLH": 8,
+      "PCLH": 0,
+      "total": 8,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 8
+    },
+    "PI": {
+      "BLH": 1,
+      "PCLH": 0,
+      "total": 1,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 1
+    },
+    "PR": {
+      "BLH": 14,
+      "PCLH": 0,
+      "total": 14,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 14
+    },
+    "RJ": {
+      "BLH": 13,
+      "PCLH": 0,
+      "total": 13,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 13
+    },
+    "RN": {
+      "BLH": 6,
+      "PCLH": 0,
+      "total": 6,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 6
+    },
+    "RO": {
+      "BLH": 1,
+      "PCLH": 0,
+      "total": 1,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 1
+    },
+    "RR": {
+      "BLH": 1,
+      "PCLH": 0,
+      "total": 1,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 1
+    },
+    "RS": {
+      "BLH": 8,
+      "PCLH": 0,
+      "total": 8,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 8
+    },
+    "SC": {
+      "BLH": 15,
+      "PCLH": 0,
+      "total": 15,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 15
+    },
+    "SE": {
+      "BLH": 3,
+      "PCLH": 2,
+      "total": 5,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 1,
+      "ambiguos_conflitantes": 4,
+      "sem_coordenadas": 0
+    },
+    "SP": {
+      "BLH": 54,
+      "PCLH": 0,
+      "total": 54,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 54
+    },
+    "TO": {
+      "BLH": 3,
+      "PCLH": 0,
+      "total": 3,
+      "aprovados_verificados": 0,
+      "aguardando_validacao": 0,
+      "ambiguos_conflitantes": 0,
+      "sem_coordenadas": 3
+    }
+  },
+  "total": 215,
+  "BLH": 210,
+  "PCLH": 5,
+  "resultadosGeocodificador": 26,
+  "candidatasRevisaveis": 3,
+  "aprovadas": 0,
+  "classes": {
+    "aprovados_verificados": 0,
+    "aguardando_validacao": 1,
+    "ambiguos_conflitantes": 6,
+    "sem_coordenadas": 208
+  },
+  "arquivosProtegidosIntactos": 73,
+  "limitacao": "210 BLHs do anexo federal e PCLHs documentados em SE/DF; completar inventário e revisão por UF."
+}

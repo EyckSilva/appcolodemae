@@ -1,0 +1,221 @@
+{
+  "geradoEm": "2026-11-11T08:40:37.548317+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "43173c9fb321aa92fba8fc50c69114ef1fa1f9a220d159cafc16de3f21f22208",
+  "hashEnderecos": "21beff0336bf5875d723cedf2ff0e1a5b57239d678377e783944a876c4204051",
+  "unidades": [
+    {
+      "id": "al-blh-cnes-2005050",
+      "nome": "Banco de Leite Humano Ivete França Lima",
+      "estado": "AL",
+      "cidade": "ARAPIRACA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/AL/coordenadas.candidatas.json",
+        "hashRelatorio": "a3c810e983c80b37438b9c211af11bc3a759be6bea2caa3519245738c25f3d03",
+        "revisao": "data/blh/nacional/AL/aprovacao-manual.json",
+        "hashRevisao": "68fa58295bcf2b3486782697a5956aafb6856b2e1e3293f471338a547a17f179",
+        "decisaoAnterior": {
+          "id": "al-blh-cnes-2005050",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2009250",
+      "nome": "Banco de Leite Humano Dr. Carlos Roberto C. Perdigão",
+      "estado": "AL",
+      "cidade": "MACEIO",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/AL/coordenadas.candidatas.json",
+        "hashRelatorio": "a3c810e983c80b37438b9c211af11bc3a759be6bea2caa3519245738c25f3d03",
+        "revisao": "data/blh/nacional/AL/aprovacao-manual.json",
+        "hashRevisao": "68fa58295bcf2b3486782697a5956aafb6856b2e1e3293f471338a547a17f179",
+        "decisaoAnterior": {
+          "id": "al-blh-cnes-2009250",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2010631",
+      "nome": "Banco de Leite Humano Dra. Kátia Born",
+      "estado": "AL",
+      "cidade": "PALMEIRA DOS INDIOS",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/AL/coordenadas.candidatas.json",
+        "hashRelatorio": "a3c810e983c80b37438b9c211af11bc3a759be6bea2caa3519245738c25f3d03",
+        "revisao": "data/blh/nacional/AL/aprovacao-manual.json",
+        "hashRevisao": "68fa58295bcf2b3486782697a5956aafb6856b2e1e3293f471338a547a17f179",
+        "decisaoAnterior": {
+          "id": "al-blh-cnes-2010631",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2010151",
+      "nome": "Banco de Leite Humano da Santa Casa de Misericórdia de São Miguel dos Campos",
+      "estado": "AL",
+      "cidade": "SAO MIGUEL DOS CAMPOS",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/AL/coordenadas.candidatas.json",
+        "hashRelatorio": "a3c810e983c80b37438b9c211af11bc3a759be6bea2caa3519245738c25f3d03",
+        "revisao": "data/blh/nacional/AL/aprovacao-manual.json",
+        "hashRevisao": "68fa58295bcf2b3486782697a5956aafb6856b2e1e3293f471338a547a17f179",
+        "decisaoAnterior": {
+          "id": "al-blh-cnes-2010151",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ],
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "617043192bbcde3919a8f3cd9dda82de0f3538fe777e0bd6c140e185e32e6256"
+}

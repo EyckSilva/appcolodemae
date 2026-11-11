@@ -1,0 +1,80 @@
+{
+  "hashRevisao": "fb8203aa4621e6f8bc1ebb8b8c1f0b4251cf854056040dcad9ffa83b8d726e4e",
+  "revisoes": [
+    {
+      "id": "am-blh-cnes-2019558",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "am-blh-cnes-3004104",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "am-blh-cnes-3151794",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ]
+}

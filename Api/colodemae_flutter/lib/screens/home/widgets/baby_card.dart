@@ -10,12 +10,12 @@ import '../../../models/baby.dart';
 class BabyCard extends StatelessWidget {
   const BabyCard({super.key, required this.baby});
 
-  final Baby baby;
+  final Baby? baby;
 
   @override
   Widget build(BuildContext context) {
     final palette = context.palette;
-    final info = babyPhaseInfo[baby.phase]!;
+    final info = baby == null ? null : babyPhaseInfo[baby!.phase];
 
     return Container(
       clipBehavior: Clip.antiAlias,
@@ -48,22 +48,35 @@ class BabyCard extends StatelessWidget {
                 ),
                 const SizedBox(height: 6),
                 Text(
-                  baby.name,
+                  baby?.name ?? '—',
                   maxLines: 1,
                   overflow: TextOverflow.ellipsis,
-                  style: TextStyle(fontSize: 28, fontWeight: FontWeight.w900, color: palette.textPrimary, height: 1),
+                  style: TextStyle(
+                      fontSize: 28,
+                      fontWeight: FontWeight.w900,
+                      color: palette.textPrimary,
+                      height: 1),
                 ),
                 const SizedBox(height: 6),
                 Text(
-                  '${baby.daysSinceBirth} dias de vida',
-                  style: TextStyle(fontSize: 17, fontWeight: FontWeight.w800, color: palette.textSecondary),
+                  baby == null ? '—' : '${baby!.daysSinceBirth} dias de vida',
+                  style: TextStyle(
+                      fontSize: 17,
+                      fontWeight: FontWeight.w800,
+                      color: palette.textSecondary),
                 ),
                 const SizedBox(height: 12),
-                Pill(label: '${info.emoji} ${info.label}', color: Colors.white, background: palette.rose),
+                Pill(
+                    label: info == null ? '—' : '${info.emoji} ${info.label}',
+                    color: Colors.white,
+                    background: palette.rose),
                 const SizedBox(height: 8),
                 Text(
-                  info.message,
-                  style: TextStyle(fontSize: 12, fontWeight: FontWeight.w700, color: palette.textMuted),
+                  info?.message ?? '—',
+                  style: TextStyle(
+                      fontSize: 12,
+                      fontWeight: FontWeight.w700,
+                      color: palette.textMuted),
                 ),
               ],
             ),

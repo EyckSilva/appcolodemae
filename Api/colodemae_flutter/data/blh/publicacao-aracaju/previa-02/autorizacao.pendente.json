@@ -1,0 +1,26 @@
+{
+  "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0",
+  "autorizacaoExplicita": false,
+  "autorizadoPor": null,
+  "autorizadoEm": null,
+  "unidades": [
+    {
+      "id": "se-blh-marly-sarney",
+      "publicarDocumento": false,
+      "aprovarCoordenadas": false,
+      "confirmoPontoDoEstabelecimentoMantenedor": false
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "publicarDocumento": false,
+      "aprovarCoordenadas": false,
+      "confirmoPontoDoEstabelecimentoMantenedor": false
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "publicarDocumento": false,
+      "aprovarCoordenadas": false,
+      "confirmoPontoDoEstabelecimentoMantenedor": false
+    }
+  ]
+}

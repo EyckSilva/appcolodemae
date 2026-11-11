@@ -1,0 +1,65 @@
+[
+  {
+    "chaveUnidade": "blh-marly-sarney",
+    "nome": "Banco de Leite Humano Marly Sarney",
+    "tipo": "BLH",
+    "endereco": "Rua Mato Grosso, s/n, bairro José Conrado de Araújo",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "telefone": "(79) 3226-6301",
+    "ativo": false,
+    "verificacao": "pendente",
+    "coordenadasVerificadas": false,
+    "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+    "consultadoEm": "2026-11-11T07:35:34Z",
+    "fontesCampos": {
+      "endereco": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+      "telefone": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+    },
+    "pendencias": [
+      "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+      "Revalidar telefone de atendimento",
+      "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município"
+    ]
+  },
+  {
+    "chaveUnidade": "posto-fernando-guedes-santa-isabel",
+    "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+    "tipo": "Posto de Coleta",
+    "endereco": "Avenida Simeão Sobral, s/n, bairro Santo Antônio",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "telefone": "(79) 3212-4900",
+    "ativo": false,
+    "verificacao": "pendente",
+    "coordenadasVerificadas": false,
+    "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+    "consultadoEm": "2026-11-11T07:35:34Z",
+    "fontesCampos": {
+      "endereco": "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/",
+      "telefone": "https://saude.se.gov.br/hospitais/"
+    },
+    "pendencias": [
+      "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+      "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+      "Confirmar situação operacional e obter coordenadas oficiais verificadas"
+    ]
+  },
+  {
+    "chaveUnidade": "posto-maternidade-lourdes-nogueira",
+    "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+    "tipo": "Posto de Coleta",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "ativo": false,
+    "verificacao": "pendente",
+    "coordenadasVerificadas": false,
+    "fonte": "https://www.aracaju.se.gov.br/noticias/118605/agosto-dourado-prefeitura-fortalece-acoes-de-incentivo-a-amamentacao-e-doacao-de-leite-humano",
+    "consultadoEm": "2026-11-11T07:35:34Z",
+    "pendencias": [
+      "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+      "Obter telefone oficial específico para orientação de doadoras",
+      "Confirmar situação operacional e obter coordenadas oficiais verificadas"
+    ]
+  }
+]

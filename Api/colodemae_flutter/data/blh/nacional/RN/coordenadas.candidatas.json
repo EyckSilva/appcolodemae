@@ -1,0 +1,116 @@
+{
+  "geradoEm": "2026-11-11T08:24:01.197310+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "00df43d0669ab5f754201be8fe08892217a336a228a8319accf57579e19479c5",
+  "hashEnderecos": "c58cd0c1f60959ccba2615f3053980b607e9d9fd12738278713573fcd6a07eab",
+  "unidades": [
+    {
+      "id": "rn-blh-cnes-2665778",
+      "nome": "Banco de Leite Humano de Caicó",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-4093577",
+      "nome": "Banco de Leite Humano do Mossoró Hospital Regional Parteira Maria Coreia",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2408570",
+      "nome": "Banco de Leite Humano do Hospital Dr. José Pedro Bezerra",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2409208",
+      "nome": "Banco de Leite Humano da Maternidade Escola Januário Cicco",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2679469",
+      "nome": "Banco de Leite Humano do Hospital Central Coronel Pedro Germano",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2473380",
+      "nome": "Banco de Leite Humano Maternidade do Divino Amor",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    }
+  ],
+  "requisicoesNestaExecucao": 0,
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "cef5e8180c8c370eed6515ebefb0dc9825fa733de0786bfeccc3f001cbef43f0"
+}

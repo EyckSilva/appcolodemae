@@ -1,69 +1,121 @@
+import 'package:cloud_firestore/cloud_firestore.dart';
+import '../core/utils/geohash.dart';
+import '../core/utils/blh_text_format.dart';
+
 class MilkBank {
-  const MilkBank({
-    required this.name,
-    required this.distance,
-    required this.address,
-    required this.hours,
-    required this.phone,
-    required this.tags,
-    required this.latitude,
-    required this.longitude,
-  });
+  const MilkBank(
+      {required this.id,
+      required this.name,
+      required this.type,
+      required this.city,
+      required this.state,
+      required this.source,
+      required this.verifiedAt,
+      this.isDemonstration = false,
+      this.coordinatesVerified = false,
+      this.address = '',
+      this.hours = '',
+      this.phone = '',
+      this.phoneNote = '',
+      this.latitude,
+      this.longitude});
 
-  final String name;
+  final String id, name, type, city, state, address, hours, phone, source;
+  final String phoneNote;
+  String get summaryAddress => BlhAddressText(address).summary;
+  String get formattedAddress => address.isEmpty
+      ? 'Endereço não informado\n$locality'
+      : BlhAddressText(address).details(locality);
+  String get formattedPhone => formatBlhPhone(phone);
+  String get contactText =>
+      [formattedPhone, phoneNote].where((s) => s.isNotEmpty).join('\n');
+  final DateTime? verifiedAt;
+  final bool isDemonstration;
+  final bool coordinatesVerified;
+  bool get hasVerifiedCoordinates =>
+      coordinatesVerified &&
+      hasCoordinates &&
+      latitude!.isFinite &&
+      longitude!.isFinite &&
+      latitude!.abs() <= 90 &&
+      longitude!.abs() <= 180;
+  bool get canUseAddressForDirections =>
+      address.trim().isNotEmpty && (isDemonstration || !hasVerifiedCoordinates);
+  final double? latitude, longitude;
+  bool get hasCoordinates => latitude != null && longitude != null;
+  List<String> get tags => [type];
+  String get locality => '$city — $state';
 
-  /// Distância padrão exibida antes de o usuário compartilhar a localização.
-  final String distance;
-  final String address;
-  final String hours;
-  final String phone;
-  final List<String> tags;
+  factory MilkBank.fromFirestore(String id, Map<String, dynamic> data) {
+    String requiredText(String key) {
+      final value = data[key];
+      if (value is! String || value.trim().isEmpty) {
+        throw FormatException('Campo inválido: $key');
+      }
+      return value.trim();
+    }
 
-  /// Coordenadas aproximadas do bairro, usadas para calcular a distância real
-  /// a partir da localização do usuário (RF08).
-  final double latitude;
-  final double longitude;
+    final source = requiredText('fonte');
+    final uri = Uri.tryParse(source);
+    final date = data['verificadoEm'];
+    final type = requiredText('tipo');
+    if (data['ativo'] != true ||
+        data['publicado'] != true ||
+        date is! Timestamp ||
+        date.toDate().isAfter(DateTime.now().add(const Duration(minutes: 5))) ||
+        uri == null ||
+        uri.scheme != 'https' ||
+        uri.host.isEmpty ||
+        !const ['BLH', 'Posto de Coleta'].contains(type)) {
+      throw const FormatException('Unidade não publicada ou não verificada.');
+    }
+    double? lat, lon;
+    var validPoint = false;
+    if (data['coordenadasVerificadas'] == true) {
+      final a = data['latitude'], b = data['longitude'];
+      if (a is num &&
+          b is num &&
+          a.isFinite &&
+          b.isFinite &&
+          a.abs() <= 90 &&
+          b.abs() <= 180 &&
+          data['geohash'] == encodeGeohash(a.toDouble(), b.toDouble())) {
+        lat = a.toDouble();
+        lon = b.toDouble();
+        validPoint = true;
+      }
+    }
+    String optional(String key) =>
+        data[key] is String ? (data[key] as String).trim() : '';
+    final address = optional('endereco');
+    final cep = optional('cep');
+    return MilkBank(
+        id: id,
+        name: requiredText('nome'),
+        type: type,
+        city: requiredText('cidade'),
+        state: requiredText('estado'),
+        source: source,
+        verifiedAt: date.toDate(),
+        address: cep.isNotEmpty &&
+                !RegExp(r'\bCEP\b', caseSensitive: false).hasMatch(address)
+            ? '$address, CEP $cep'
+            : address,
+        hours: optional('horarioFuncionamento'),
+        phone: optional('telefone'),
+        phoneNote: optional('descricaoTelefone'),
+        coordinatesVerified: validPoint,
+        latitude: lat,
+        longitude: lon);
+  }
 }
 
-const List<MilkBank> milkBanks = [
-  MilkBank(
-    name: 'BLH Marly Sarney',
-    distance: '0.8 km',
-    address: 'Rua Mato Grosso — José Conrado de Araújo',
-    hours: 'Seg–Sex, 7h–17h',
-    phone: '(79) 3226-6301',
-    tags: ['Doação', 'Orientação'],
-    latitude: -10.9432,
-    longitude: -37.0692,
-  ),
-  MilkBank(
-    name: 'Posto de Coleta — Hospital Santa Isabel',
-    distance: '1.4 km',
-    address: 'Av. Simeão Sobral, 1312 — Dezoito do Forte',
-    hours: 'Todos os dias, 8h–12h e 14h–18h',
-    phone: '(79) 3212-4900',
-    tags: ['Doação', 'Distribuição'],
-    latitude: -10.9569,
-    longitude: -37.0453,
-  ),
-  MilkBank(
-    name: 'UBS Siqueira Campos',
-    distance: '2.1 km',
-    address: 'Av. Ivo do Prado — Siqueira Campos',
-    hours: 'Seg–Sáb, 6h–18h',
-    phone: '(79) 3211-2233',
-    tags: ['Orientação'],
-    latitude: -10.9270,
-    longitude: -37.0561,
-  ),
-  MilkBank(
-    name: 'UBS Atalaia',
-    distance: '3.5 km',
-    address: 'Av. Melício Machado — Atalaia',
-    hours: 'Seg–Sex, 8h–16h',
-    phone: '(79) 3243-1188',
-    tags: ['Orientação'],
-    latitude: -10.9931,
-    longitude: -37.0466,
-  ),
-];
+class MilkBankResult {
+  const MilkBankResult(this.bank, {this.distanceKm});
+  final MilkBank bank;
+  final double? distanceKm;
+  String? get distanceLabel =>
+      distanceKm == null || !distanceKm!.isFinite || distanceKm! < 0
+          ? null
+          : '${distanceKm!.toStringAsFixed(1).replaceAll('.', ',')} km';
+}

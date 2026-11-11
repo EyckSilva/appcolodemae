@@ -1,0 +1,466 @@
+<!--
+  ##########################################################################################################################################
+  Desenvolvido por..........: DATASUS/CNES - RIO
+  Equipe ...................: CNES
+  Endereço .................: CNES.DATSUS.GOV.BR
+  Descrição.................: página de indicadores de serviços especializados 
+  Criado por................: Bellote
+  Data de Criação...........: 
+  Atualizado por............: Ricardo Vianna
+  Descrição da Atualização..: Inclusão de checkboxes e mudança nas queries para filtro de ambSUS e hospSUS 
+  ##########################################################################################################################################
+ -->
+<!-- saved from url=(0022)http://internet.e-mail -->
+<table  colspan=2 lign=left border=0 width=780 cellspacing="0" cellpadding="0">
+ <tr>
+  <td>
+
+<!--***************************************************************
+// Desenvolvido Por  - DATASUS/CNES - RIO
+// Equipe ...........: CNES 
+// Endereço .........: CNES.DATSUS.GOV.BR 
+// Descricao.........: MENU PRINCIPAL  
+// Criado  por.......: WASHINGTON BELLOTI    
+//  ***************************************************************-->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="pt-BR">
+
+<head>
+  <title>CnesWeb - Cadastro Nacional de Estabelecimentos de Saúde</title>
+
+<style TYPE="text/css">
+<!--
+A:link    {text-decoration: none; font-weight:normal; color:#333333; }
+A:visited {text-decoration: none; font-weight:normal; color:#333333; }
+A:active  {text-decoration: none; color: #333333; }
+A:hover	  {color: #000066; }
+A.ff      {text-decoration: none; color: #333333; }
+A.ff:visited {text-decoration: none; color: #333333; }
+A.ff:hover	 {text-decoration: none; color:#000066; }
+A.ff:active  {text-decoration: none; color: #333333; }
+-->
+</style>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function Abre_Janela2()
+{
+	window.open('Mod_Email.asp','Links','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=650,height=480, top=180, left=280');
+}
+
+// Recuperando a configuracao de Video
+
+Tela = screen.width;  
+
+if (Tela == '1024')
+  Posicao = '180'
+else
+  Posicao = '13'
+
+//document.FrmPosicao.Posicao.value = screen.width;    
+
+// -------------------- Funcão para mostrar data e Hora --------------------------- 
+
+ hoje = new Date()
+ dia = hoje.getDate()
+ dias = hoje.getDay()
+ mes = hoje.getMonth()
+ ano = hoje.getYear()
+ if (dia < 10)
+    dia = "0" + dia
+ if (ano < 2000)
+    ano = "19" + ano
+
+ function CriaArray (n) 
+ {
+  this.length = n 
+ }
+
+ NomeDia = new CriaArray(7)
+ NomeDia[0] = "Domingo"
+ NomeDia[1] = "Segunda-feira"
+ NomeDia[2] = "Ter&ccedil;a-feira"
+ NomeDia[3] = "Quarta-feira"
+ NomeDia[4] = "Quinta-feira"
+ NomeDia[5] = "Sexta-feira"
+ NomeDia[6] = "S&aacute;bado"
+
+ NomeMes = new CriaArray(12)
+ NomeMes[0] = "Janeiro"
+ NomeMes[1] = "Fevereiro"
+ NomeMes[2] = "Mar&ccedil;o"
+ NomeMes[3] = "Abril"
+ NomeMes[4] = "Maio"
+ NomeMes[5] = "Junho"
+ NomeMes[6] = "Julho"
+ NomeMes[7] = "Agosto"
+ NomeMes[8] = "Setembro"
+ NomeMes[9] = "Outubro"
+ NomeMes[10] = "Novembro"
+ NomeMes[11] = "Dezembro"
+
+ function EscreveData() 
+
+ {
+ document.write ("<center>" + NomeDia[dias] + ", " + dia + " de " + NomeMes[mes] + " de " + ano + "</center>")
+ }
+ 
+ function Data_Atualizacao() 
+ {
+ dia = hoje.getDate();
+ dia = parseInt(dia);
+ dia = dia - 2 
+ mes = hoje.getMonth()
+ mes = parseInt(mes)
+ mes = mes + 1
+ ano = hoje.getYear()
+ document.write (dia + "/" + mes + "/"  + ano)
+ }
+
+// ---------------------- Fim da Funçaõ Data Hora ----------------------------------
+ 
+  NS4 = (document.layers);
+  IE4 = (document.all);
+  ver4 = (NS4 || IE4);
+  isMac = (navigator.appVersion.indexOf("Mac") != -1);
+  isMenu = (NS4 || (IE4 && !isMac));
+  function popUp(){return};
+  function popDown(){return};
+  function startIt(){return};
+  if (!ver4) event = null;
+
+  if (isMenu)
+   {
+    menuVersion = 3;
+    menuWidth = 150;
+    borWid = 2;
+    borSty = "double";
+    borCol = "#003366";
+    separator = 1;
+    separatorCol = "#003366";
+    fntFam = "sans-serif";
+    fntBold = false;
+    fntItal = false;
+    fntSiz = 8;
+    fntCol = "#003366";
+    overFnt = "#000080";
+    itemPad = 3;
+    backCol = "#cccccc";
+    overCol = "#ADD8E6";
+    
+    imgSrc = "tri.gif";
+    imgSiz = 10;
+
+    childOffset = 6;
+    childOverlap = 60;
+    perCentOver = null;
+
+    clickStart = false;
+    clickKill = false;
+    secondsVisible = 0.5;
+
+    keepHilite = false;
+    NSfontOver = false;
+
+    isFrames = false;
+    navFrLoc = "top";
+    mainFrName = "main";
+  }
+
+</SCRIPT>
+</head>
+  <script type='text/javascript'>
+
+      function Go(){return}
+  </script>
+  <script type='text/javascript' src='exmplmenu_var.js'></script>
+  <script type='text/javascript' src='menu_com.js'></script>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table  border=0 width=781 cellspacing="0" cellpadding="0">
+	<tr>
+ 		<td>
+  			<table  border="0" cellspacing="0" cellpadding="0">
+   				<tr>
+     				<!--<td width="781"><IMG  src="img/topo_novo4.jpg" alt="imagem do topo cnes" height=90 width=781 border=0></td>--> 
+     				<td width="781"><IMG  src="img/topo_novo_2014.jpg" alt="imagem do topo cnes" height=90 width=781 border=0></td> 
+     			</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br><br>
+</body>
+
+<html>
+	<head>
+		<title>Indicadores - Habilitações - Cnes</title>
+		<script>
+			function pop (pop)
+			{
+			 window.open('Mod_Imprimir_Atendimento.asp','Links','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=800,height=600,top=00, left=00')
+			}
+
+			function Executar()
+			{
+			 Estado = document.form1.ComboEstado.options[document.form1.ComboEstado.options.selectedIndex].value;
+			 document.location = 'Mod_Ind_Especialidades.asp?VEstado=' + Estado
+			 document.form1.action  
+			}
+
+			function ExecMunicipio()
+			{
+			 Estado = document.form1.ComboEstado.options[document.form1.ComboEstado.options.selectedIndex].value;
+			 Municipio = document.form1.ComboMunicipio.options[document.form1.ComboMunicipio.options.selectedIndex].value;
+			 document.location = 'Mod_Ind_Especialidades.asp?VEstado=' + Estado + '&VMun=' + Municipio 
+			 document.form1.action  
+			}
+
+			function ExecCompetencia()
+			{
+				Estado      = document.form1.ComboEstado.options[document.form1.ComboEstado.options.selectedIndex].value;
+				Municipio   = document.form1.ComboMunicipio.options[document.form1.ComboMunicipio.options.selectedIndex].value;
+				Competencia = document.form1.cboCompetencia.options[document.form1.cboCompetencia.options.selectedIndex].value;
+				document.location = 'Mod_Ind_Especialidades.asp?VEstado=' + Estado + '&VMun=' + Municipio + '&VComp=' + Competencia 
+				document.form1.action  
+			}
+
+			function ExecTerceiro()
+			{
+			 Estado    = document.form1.ComboEstado.options[document.form1.ComboEstado.options.selectedIndex].value;
+			 Municipio = document.form1.ComboMunicipio.options[document.form1.ComboMunicipio.options.selectedIndex].value;
+ 			 Competencia = document.form1.cboCompetencia.options[document.form1.cboCompetencia.options.selectedIndex].value;
+			 Terceiro  = document.form1.ComboTerceiro.options[document.form1.ComboTerceiro.options.selectedIndex].value;
+			 document.location = 'Mod_Ind_Especialidades.asp?VEstado=' + Estado + '&VMun=' + Municipio + '&VComp=' + Competencia  + '&VTerc=' + Terceiro
+			 document.form1.action  
+			}
+
+			function ExecServico()
+			{
+			 Estado    = document.form1.ComboEstado.options[document.form1.ComboEstado.options.selectedIndex].value;
+			 Municipio = document.form1.ComboMunicipio.options[document.form1.ComboMunicipio.options.selectedIndex].value;
+ 			 Competencia = document.form1.cboCompetencia.options[document.form1.cboCompetencia.options.selectedIndex].value;
+			 Terceiro  = document.form1.ComboTerceiro.options[document.form1.ComboTerceiro.options.selectedIndex].value;
+			 Servico   = document.form1.ComboServico.options[document.form1.ComboServico.options.selectedIndex].value;
+			 document.location = 'Mod_Ind_Especialidades.asp?VEstado=' + Estado + '&VMun=' + Municipio + '&VComp=' + Competencia + '&VTerc=' + Terceiro + '&VServico=' + Servico
+			 document.form1.action  
+			}
+
+			function ExecClassificacao()
+			{
+			 Servico = document.form1.ComboServico.options[document.form1.ComboServico.options.selectedIndex].value;
+			 if (Servico != "") 
+			 {
+			  Estado    = document.form1.ComboEstado.options[document.form1.ComboEstado.options.selectedIndex].value;
+			  Municipio = document.form1.ComboMunicipio.options[document.form1.ComboMunicipio.options.selectedIndex].value;
+ 			  Competencia = document.form1.cboCompetencia.options[document.form1.cboCompetencia.options.selectedIndex].value;
+			  Terceiro  = document.form1.ComboTerceiro.options[document.form1.ComboTerceiro.options.selectedIndex].value;
+			  Servico   = document.form1.ComboServico.options[document.form1.ComboServico.options.selectedIndex].value;
+			  Classificacao = document.form1.ComboClassificacao.options[document.form1.ComboClassificacao.options.selectedIndex].value;
+			  document.location = 'Mod_Ind_Especialidades.asp?VEstado=' + Estado + '&VMun=' + Municipio + '&VComp=' + Competencia + '&VTerc=' + Terceiro + '&VServico=' + Servico + '&VClassificacao=' + Classificacao  
+			  document.form1.action  
+			  }
+			  else
+			  {
+			  alert("Escolha o Serviço para a Classificação")
+			  }
+			}
+
+			function ExecAtendimento()
+			{
+				var vchkbxAmb = document.getElementById('chkbxAmb');
+				var vchkbxAmbSus = document.getElementById('chkbxAmbSus');
+				var vhkbxHosp = document.getElementById('chkbxHosp');
+				var vchkbxHospSus = document.getElementById('chkbxHospSus');
+
+				var Ambulatorial = '';  
+				var AmbulatorialSUS = '';
+				var Hospitalar = '';
+				var HospitalarSUS = '';
+
+				Estado    = document.form1.ComboEstado.options[document.form1.ComboEstado.options.selectedIndex].value;
+				Municipio = document.form1.ComboMunicipio.options[document.form1.ComboMunicipio.options.selectedIndex].value;
+ 			    Competencia = document.form1.cboCompetencia.options[document.form1.cboCompetencia.options.selectedIndex].value;
+				Terceiro  = document.form1.ComboTerceiro.options[document.form1.ComboTerceiro.options.selectedIndex].value;
+				Servico   = document.form1.ComboServico.options[document.form1.ComboServico.options.selectedIndex].value;
+				Classificacao = document.form1.ComboClassificacao.options[document.form1.ComboClassificacao.options.selectedIndex].value;
+
+				if(vchkbxAmb.checked==true)
+				{
+					var Ambulatorial = vchkbxAmb.value;
+				}
+
+				if(vchkbxAmbSus.checked==true)
+				{
+					var AmbulatorialSUS = vchkbxAmbSus.value;
+				}
+
+				if(vhkbxHosp.checked==true)
+				{
+					var Hospitalar = vhkbxHosp.value;
+				}
+
+				if(vchkbxHospSus.checked==true)
+				{
+					var HospitalarSUS = vchkbxHospSus.value;
+				}
+
+				document.location = 'Mod_Ind_Especialidades.asp?VEstado=' + Estado + '&VMun=' + Municipio + '&VComp=' + Competencia + '&VTerc=' + Terceiro + '&VServico=' + Servico + '&VClassificacao=' + Classificacao + '&VAmbu=' + Ambulatorial + '&VAmbuSUS=' + AmbulatorialSUS + '&VHosp=' + Hospitalar + '&VHospSUS=' + HospitalarSUS;
+				document.form1.action  
+			}
+		</script>
+	</head>
+	
+	<body background="img/Fundo-28-01-2003.gif">
+		<table align="center" border="0">
+			<tr>
+				<td align="center"><font color="#ffcc99" face="verdana,arial" size="2"><b>Consulta</b></font></td> 
+			</tr>
+			<tr>
+				<td align="center"><font color="#ffcc99" face="verdana,arial" size="2">Serviços Especializados</font></td> 
+			</tr>
+		</table>
+		<!--<P align=center><font size=2 face=verdana,arial color='#ffcc99'>
+		Atenção : Os totais exibidos consideram distintamente os serviços PRÓPRIOS e 
+		TERCEIRIZADOS,<Br> desta forma os totais de estabelecimentos associados a eles 
+		poderão  ser inferior, pois existem Estabelecimentos que possuem ambos.
+		</font></p>-->
+		<form name="form1">
+		<table border="0" width="600" align="center" cellpadding="1" cellspacing="0">
+			<tr>
+				<td align="rigth" colspan="2"><font size="1" face="verdana,arial" color="#ffcc99">Estado:</font></td>
+			</tr>
+			<tr>
+				<td colspan="2" align="rigth" width="40%">
+					<select name="ComboEstado" onchange="Executar(this)" id="2" style="color:#003366; background:#cccccc; font-size:10px">
+						<option value="">Escolha Estado</option> 
+							 
+								<option value=00>TODOS</option> 
+							<option value=12>ACRE</option><option value=27>ALAGOAS</option><option value=13>AMAZONAS</option><option value=16>AMAPA</option><option value=29>BAHIA</option><option value=23>CEARA</option><option value=53>DISTRITO FEDERAL</option><option value=32>ESPIRITO SANTO</option><option value=52>GOIAS</option><option value=21>MARANHAO</option><option value=31>MINAS GERAIS</option><option value=50>MATO GROSSO DO SUL</option><option value=51>MATO GROSSO</option><option value=15>PARA</option><option value=25>PARAIBA</option><option value=26>PERNAMBUCO</option><option value=22>PIAUI</option><option value=41>PARANA</option><option value=33>RIO DE JANEIRO</option><option value=24>RIO GRANDE DO NORTE</option><option value=11>RONDONIA</option><option value=14>RORAIMA</option><option value=43>RIO GRANDE DO SUL</option><option value=42>SANTA CATARINA</option><option value=28 selected>SERGIPE</option><option value=35>SAO PAULO</option><option value=17>TOCANTINS</option> 
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td width="40%" align="left"><font size="1" face="verdana,arial" color="#ffcc99">Município:</font></td>
+				<td rowspan="2" align="right" width="60%">
+					<a href="javascript:pop()">
+						
+							<img src="img/imprimir.gif" border="0">
+							
+					</a>
+				</td>	
+			</tr>
+			<tr>
+				<td align="rigth">
+					<select name="ComboMunicipio" onchange="ExecMunicipio()" id="2" style="color:#003366; background:#cccccc; font-size:10px">
+						
+							<option value="">-ESCOLHA MUNICÍPIO-</option>
+							<option value=280010>AMPARO DE SAO FRANCISCO</option><option value=280020>AQUIDABA</option><option value=280030 selected>ARACAJU</option><option value=280040>ARAUA</option><option value=280050>AREIA BRANCA</option><option value=280060>BARRA DOS COQUEIROS</option><option value=280067>BOQUIM</option><option value=280070>BREJO GRANDE</option><option value=280100>CAMPO DO BRITO</option><option value=280110>CANHOBA</option><option value=280120>CANINDE DE SAO FRANCISCO</option><option value=280130>CAPELA</option><option value=280140>CARIRA</option><option value=280150>CARMOPOLIS</option><option value=280160>CEDRO DE SAO JOAO</option><option value=280170>CRISTINAPOLIS</option><option value=280190>CUMBE</option><option value=280200>DIVINA PASTORA</option><option value=280210>ESTANCIA</option><option value=280220>FEIRA NOVA</option><option value=280230>FREI PAULO</option><option value=280240>GARARU</option><option value=280250>GENERAL MAYNARD</option><option value=280260>GRACHO CARDOSO</option><option value=280270>ILHA DAS FLORES</option><option value=280280>INDIAROBA</option><option value=280290>ITABAIANA</option><option value=280300>ITABAIANINHA</option><option value=280310>ITABI</option><option value=280320>ITAPORANGA D'AJUDA</option><option value=280330>JAPARATUBA</option><option value=280340>JAPOATA</option><option value=280350>LAGARTO</option><option value=280360>LARANJEIRAS</option><option value=280370>MACAMBIRA</option><option value=280380>MALHADA DOS BOIS</option><option value=280390>MALHADOR</option><option value=280400>MARUIM</option><option value=280410>MOITA BONITA</option><option value=280420>MONTE ALEGRE DE SERGIPE</option><option value=280430>MURIBECA</option><option value=280440>NEOPOLIS</option><option value=280445>NOSSA SENHORA APARECIDA</option><option value=280450>NOSSA SENHORA DA GLORIA</option><option value=280460>NOSSA SENHORA DAS DORES</option><option value=280470>NOSSA SENHORA DE LOURDES</option><option value=280480>NOSSA SENHORA DO SOCORRO</option><option value=280490>PACATUBA</option><option value=280500>PEDRA MOLE</option><option value=280510>PEDRINHAS</option><option value=280520>PINHAO</option><option value=280530>PIRAMBU</option><option value=280540>POCO REDONDO</option><option value=280550>POCO VERDE</option><option value=280560>PORTO DA FOLHA</option><option value=280570>PROPRIA</option><option value=280580>RIACHAO DO DANTAS</option><option value=280590>RIACHUELO</option><option value=280600>RIBEIROPOLIS</option><option value=280610>ROSARIO DO CATETE</option><option value=280620>SALGADO</option><option value=280630>SANTA LUZIA DO ITANHY</option><option value=280640>SANTANA DO SAO FRANCISCO</option><option value=280650>SANTA ROSA DE LIMA</option><option value=280660>SANTO AMARO DAS BROTAS</option><option value=280670>SAO CRISTOVAO</option><option value=280680>SAO DOMINGOS</option><option value=280690>SAO FRANCISCO</option><option value=280700>SAO MIGUEL DO ALEIXO</option><option value=280710>SIMAO DIAS</option><option value=280720>SIRIRI</option><option value=280730>TELHA</option><option value=280740>TOBIAS BARRETO</option><option value=280750>TOMAR DO GERU</option><option value=280760>UMBAUBA</option>
+					</select>
+				</td>
+			</tr>
+				<tr>
+					<td align=rigth colspan=2><font size=1 face=verdana,arial color='#ffcc99'>Competência:</font></td>
+				</tr>
+				<tr>
+					<td align="left">
+						<select name="cboCompetencia" id="cboCompetencia" onChange="ExecCompetencia()"  style="color:#003366; background:#cccccc; font-size:10px">
+							
+								<option value="00">ATUAL</option>
+							<option value=202609>09/2026</option><option value=202608>08/2026</option><option value=202607 selected>07/2026</option><option value=202606>06/2026</option><option value=202605>05/2026</option><option value=202604>04/2026</option><option value=202603>03/2026</option><option value=202602>02/2026</option><option value=202601>01/2026</option><option value=202512>12/2025</option><option value=202511>11/2025</option><option value=202510>10/2025</option><option value=202509>09/2025</option><option value=202508>08/2025</option><option value=202507>07/2025</option><option value=202506>06/2025</option><option value=202505>05/2025</option><option value=202504>04/2025</option><option value=202503>03/2025</option><option value=202502>02/2025</option><option value=202501>01/2025</option><option value=202412>12/2024</option><option value=202411>11/2024</option><option value=202410>10/2024</option><option value=202409>09/2024</option><option value=202408>08/2024</option><option value=202407>07/2024</option><option value=202406>06/2024</option><option value=202405>05/2024</option><option value=202404>04/2024</option><option value=202403>03/2024</option><option value=202402>02/2024</option><option value=202401>01/2024</option><option value=202312>12/2023</option><option value=202311>11/2023</option><option value=202310>10/2023</option><option value=202309>09/2023</option><option value=202308>08/2023</option><option value=202307>07/2023</option><option value=202306>06/2023</option><option value=202305>05/2023</option><option value=202304>04/2023</option><option value=202303>03/2023</option><option value=202302>02/2023</option><option value=202301>01/2023</option><option value=202212>12/2022</option><option value=202211>11/2022</option><option value=202210>10/2022</option><option value=202209>09/2022</option><option value=202208>08/2022</option><option value=202207>07/2022</option><option value=202206>06/2022</option><option value=202205>05/2022</option><option value=202204>04/2022</option><option value=202203>03/2022</option><option value=202202>02/2022</option><option value=202201>01/2022</option><option value=202112>12/2021</option><option value=202111>11/2021</option><option value=202110>10/2021</option><option value=202109>09/2021</option><option value=202108>08/2021</option><option value=202107>07/2021</option><option value=202106>06/2021</option><option value=202105>05/2021</option><option value=202104>04/2021</option><option value=202103>03/2021</option><option value=202102>02/2021</option><option value=202101>01/2021</option><option value=202012>12/2020</option><option value=202011>11/2020</option><option value=202010>10/2020</option><option value=202009>09/2020</option><option value=202008>08/2020</option><option value=202007>07/2020</option><option value=202006>06/2020</option><option value=202005>05/2020</option><option value=202004>04/2020</option><option value=202003>03/2020</option><option value=202002>02/2020</option><option value=202001>01/2020</option><option value=201912>12/2019</option><option value=201911>11/2019</option><option value=201910>10/2019</option><option value=201909>09/2019</option><option value=201908>08/2019</option><option value=201907>07/2019</option><option value=201906>06/2019</option><option value=201905>05/2019</option><option value=201904>04/2019</option><option value=201903>03/2019</option><option value=201902>02/2019</option><option value=201901>01/2019</option><option value=201812>12/2018</option><option value=201811>11/2018</option><option value=201810>10/2018</option><option value=201809>09/2018</option><option value=201808>08/2018</option><option value=201807>07/2018</option><option value=201806>06/2018</option><option value=201805>05/2018</option><option value=201804>04/2018</option><option value=201803>03/2018</option><option value=201802>02/2018</option><option value=201801>01/2018</option><option value=201712>12/2017</option><option value=201711>11/2017</option><option value=201710>10/2017</option><option value=201709>09/2017</option><option value=201708>08/2017</option><option value=201707>07/2017</option><option value=201706>06/2017</option><option value=201705>05/2017</option><option value=201704>04/2017</option><option value=201703>03/2017</option><option value=201702>02/2017</option><option value=201701>01/2017</option><option value=201612>12/2016</option><option value=201611>11/2016</option><option value=201610>10/2016</option><option value=201609>09/2016</option><option value=201608>08/2016</option><option value=201607>07/2016</option><option value=201606>06/2016</option><option value=201605>05/2016</option><option value=201604>04/2016</option><option value=201603>03/2016</option><option value=201602>02/2016</option><option value=201601>01/2016</option><option value=201512>12/2015</option><option value=201511>11/2015</option><option value=201510>10/2015</option><option value=201509>09/2015</option><option value=201508>08/2015</option><option value=201507>07/2015</option><option value=201506>06/2015</option><option value=201505>05/2015</option><option value=201504>04/2015</option><option value=201503>03/2015</option><option value=201502>02/2015</option><option value=201501>01/2015</option><option value=201412>12/2014</option><option value=201411>11/2014</option><option value=201410>10/2014</option><option value=201409>09/2014</option><option value=201408>08/2014</option><option value=201407>07/2014</option><option value=201406>06/2014</option><option value=201405>05/2014</option><option value=201404>04/2014</option><option value=201403>03/2014</option><option value=201402>02/2014</option><option value=201401>01/2014</option><option value=201312>12/2013</option><option value=201311>11/2013</option><option value=201310>10/2013</option><option value=201309>09/2013</option><option value=201308>08/2013</option><option value=201307>07/2013</option><option value=201306>06/2013</option><option value=201305>05/2013</option><option value=201304>04/2013</option><option value=201303>03/2013</option><option value=201302>02/2013</option><option value=201301>01/2013</option><option value=201212>12/2012</option><option value=201211>11/2012</option><option value=201210>10/2012</option><option value=201209>09/2012</option><option value=201208>08/2012</option><option value=201207>07/2012</option><option value=201206>06/2012</option><option value=201205>05/2012</option><option value=201204>04/2012</option><option value=201203>03/2012</option><option value=201202>02/2012</option>
+						</select>
+					</td>
+				</tr>			
+			<tr>
+				<td width="40%" align="left"><font size="1" face="verdana,arial" color="#ffcc99">Tipo de Serviço:</font></td>
+			</tr>
+			<tr>
+				<td align=rigth>
+					<select name="ComboTerceiro" onchange="ExecTerceiro()" id="3" style="color:#003366; background:#cccccc; font-size:10px">
+						<option value="00">-TODOS-</option>
+						<option value=1>PROPRIO</option><option value=2>TERCEIRIZADO</option><option value=3>PROPRIO E TERCEIRIZADO</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td width="40%" align="left"><font size="1" face="verdana,arial" color="#ffcc99">Serviço Especializado:</font></td>
+			</tr>
+			<tr>
+				<td align="rigth">
+					<select name="ComboServico" onchange="ExecServico()" id="4" style="color:#003366; background:#cccccc; font-size:10px">
+						<option value="00">-TODOS-</option>
+						<option value=125>125 - ASSISTENCIA FARMACEUTICA</option><option value=130>130 - ATENCAO A DOENCA RENAL CRONICA</option><option value=168>168 - ATENCAO A PESSOAS COM DOENCAS RARAS</option><option value=107>107 - ATENCAO A SAUDE AUDITIVA</option><option value=152>152 - ATENCAO A SAUDE DE POPULACOES INDIGENAS</option><option value=100>100 - ATENCAO A SAUDE NO SISTEMA PENITENCIARIO</option><option value=172>172 - ATENCAO AO LUTO MATERNO E PARENTAL</option><option value=165>165 - ATENCAO AS PESSOAS EM SITUACAO DE VIOLENCIA SEXUAL</option><option value=169>169 - ATENCAO EM UROLOGIA</option><option value=114>114 - ATENCAO ESPECIALIZADA A SAUDE BUCAL</option><option value=153>153 - ATENCAO ESPECIALIZADA NO PROCESSO TRANSEXUALIZADOR</option><option value=159>159 - ATENCAO PRIMARIA</option><option value=115>115 - ATENCAO PSICOSSOCIAL</option><option value=167>167 - ATENDIMENTO ITINERANTE DE ASSISTENCIA E ENSINO EM SAUDE</option><option value=175>175 - CIRURGIA ROBOTICA</option><option value=150>150 - CIRURGIA VASCULAR</option><option value=170>170 - COMISSOES E COMITES</option><option value=161>161 - CONSULTORIO NA RUA</option><option value=171>171 - CUIDADOS PALIATIVOS</option><option value=102>102 - ESTRATEGIA DE AGENTES COMUNITARIOS DE SAUDE</option><option value=101>101 - ESTRATEGIA DE SAUDE DA FAMILIA</option><option value=148>148 - HOSPITAL DIA</option><option value=174>174 - IMUNIZACAO</option><option value=173>173 - LOGISTICA DE IMUNOBIOLOGICOS</option><option value=151>151 - MEDICINA NUCLEAR</option><option value=132>132 - ONCOLOGIA</option><option value=164>164 - ORTESES, PROT E MEIOS AUXIL DE LOCOMOCAO EM REABILITACAO</option><option value=135>135 - REABILITACAO</option><option value=104>104 - REGULACAO DO ACESSO A ACOES E SERVICOS DE SAUDE</option><option value=166>166 - SERV ANALISE LABORATORIAL DE PROD SUJEITOS A VIG SANITARIA</option><option value=147>147 - SERVICO DE APOIO A SAUDE DA FAMILIA</option><option value=106>106 - SERVICO DE ATENCAO A DST/HIV/AIDS</option><option value=127>127 - SERVICO DE ATENCAO A OBESIDADE</option><option value=156>156 - SERVICO DE ATENCAO A SAUDE DAS PESSOAS OSTOMIZADAS</option><option value=108>108 - SERVICO DE ATENCAO A SAUDE DO TRABALHADOR</option><option value=109>109 - SERVICO DE ATENCAO A SAUDE DOS ADOLESCENTES EM CONFLITO COM</option><option value=110>110 - SERVICO DE ATENCAO A SAUDE REPRODUTIVA</option><option value=111>111 - SERVICO DE ATENCAO AO PACIENTE COM TUBERCULOSE</option><option value=112>112 - SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO</option><option value=116>116 - SERVICO DE ATENCAO CARDIOVASCULAR / CARDIOLOGIA</option><option value=113>113 - SERVICO DE ATENCAO DOMICILIAR</option><option value=105>105 - SERVICO DE ATENCAO EM NEUROLOGIA / NEUROCIRURGIA</option><option value=158>158 - SERVICO DE ATENCAO INTEGRAL EM HANSENIASE</option><option value=103>103 - SERVICO DE ATENDIMENTO MOVEL DE URGENCIAS</option><option value=154>154 - SERVICO DE BANCO DE TECIDOS</option><option value=117>117 - SERVICO DE CIRURGIA REPARADORA</option><option value=118>118 - SERVICO DE CIRURGIA TORACICA</option><option value=119>119 - SERVICO DE CONTROLE DE TABAGISMO</option><option value=163>163 - SERVICO DE CUIDADOS INTERMEDIARIOS</option><option value=145>145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO</option><option value=120>120 - SERVICO DE DIAGNOSTICO POR ANATOMIA PATOLOGICA EOU CITOPATO</option><option value=121>121 - SERVICO DE DIAGNOSTICO POR IMAGEM</option><option value=122>122 - SERVICO DE DIAGNOSTICO POR METODOS GRAFICOS DINAMICOS</option><option value=123>123 - SERVICO DE DISPENSACAO DE ORTESES PROTESES E MATERIAIS ESPE</option><option value=124>124 - SERVICO DE ENDOCRINOLOGIA</option><option value=142>142 - SERVICO DE ENDOSCOPIA</option><option value=126>126 - SERVICO DE FISIOTERAPIA</option><option value=128>128 - SERVICO DE HEMOTERAPIA</option><option value=129>129 - SERVICO DE LABORATORIO DE HISTOCOMPATIBILIDADE</option><option value=157>157 - SERVICO DE LABORATORIO DE PROTESE DENTARIA</option><option value=131>131 - SERVICO DE OFTALMOLOGIA</option><option value=133>133 - SERVICO DE PNEUMOLOGIA</option><option value=134>134 - SERVICO DE PRATICAS INTEGRATIVAS E COMPLEMENTARES</option><option value=136 selected>136 - SERVICO DE SUPORTE NUTRICIONAL</option><option value=162>162 - SERVICO DE TERAPIA INTENSIVA</option><option value=155>155 - SERVICO DE TRAUMATOLOGIA E ORTOPEDIA</option><option value=139>139 - SERVICO DE TRIAGEM NEONATAL</option><option value=140>140 - SERVICO DE URGENCIA E EMERGENCIA</option><option value=146>146 - SERVICO DE VIDEOLAPAROSCOPIA</option><option value=141>141 - SERVICO DE VIGILANCIA EM SAUDE</option><option value=143>143 - SERVICO MOVEL DE URGENCIA (EXCETO SAMU)</option><option value=144>144 - SERVICO POSTO DE COLETA DE MATERIAIS  BIOLOGICOS</option><option value=160>160 - TELESSAUDE</option><option value=149>149 - TRANSPLANTE</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td width="40%" align="left"><font size="1" face="verdana,arial" color="#ffcc99">Classificação Serviço:</font></td>
+			</tr>
+			<tr>
+				<td align="rigth">
+					<select name="ComboClassificacao" onchange="ExecClassificacao()" id="5" style="color:#003366; background:#cccccc; font-size:10px">
+						<option value="00">-TODOS-</option>
+						<option value=001>001 - ENTERAL</option><option value=002>002 - ENTERAL  PARENTERAL</option><option value=003>003 - ENTERAL  PARENTERAL COM MANIPULACAO FABRICACAO</option>
+					</select>
+				</td>
+			</tr>
+			<tr>
+				<td width="70%" align="left">
+					<fieldset>
+						<legend style="font:Verdana, Arial; color:#ffcc99; font-size:14px">&nbsp;Atendimento&nbsp;</legend>
+						<table>
+							<tr>
+								<td>
+									<fieldset>
+										<legend style="font:Verdana, Arial; color:#ffcc99; font-size:14px">&nbsp;Ambulatorial&nbsp;</legend>
+										<label>
+											<font size="1" face="verdana,arial" color="#ffcc99">
+												<input type="checkbox" name="chkbxAmbSus" id="chkbxAmbSus" value="1"  />SUS
+												<input type="checkbox" name="chkbxAmb" id="chkbxAmb" value="1"  />Não SUS
+											</font>
+										</label>
+									</fieldset>	
+								</td>
+								<td>
+									<fieldset>
+										<legend style="font:Verdana, Arial; color:#ffcc99; font-size:14px">&nbsp;Hospitalar&nbsp;</legend>
+										<label>
+ 											<font size="1" face="verdana,arial" color="#ffcc99">
+												<input type="checkbox" name="chkbxHospSus"  id="chkbxHospSus" value="1"  />SUS
+												<input type="checkbox" name="chkbxHosp" id="chkbxHosp" value="1"  />Não SUS
+											</font>
+										</label>
+									</fieldset>
+								</td>
+								<td width="30%" align="right">
+									<input type="button" name="btnListar" id="btnListar" value="Listar" style="width:70px; height:20px; font-size:10px; font-family:Verdana, Arial, Helvetica, sans-serif" onClick="ExecAtendimento()" />							
+								</td>					
+							</tr>
+						</table> 
+					</fieldset> 
+				</td>
+			</tr>
+		</table>
+		</form>
+		
+			<table width="600" border="1" align="center" cellpadding="1" cellspacing="0">
+				<tr>
+					<td align="center"><font size="2" color="#ffcc99" face="verdana,arial">Descrição</font></td>
+					<td align="center"><font size="2" color="#ffcc99" face="verdana,arial">Total</font></td>
+				</tr>
+				<tr bgcolor='#cccccc'><td>
+					<font size="1" color="#003366" face="verdana,arial">
+						<a href="Mod_Ind_Especialidades_Listar.asp?VTipo=136&VListar=1&VEstado=28&VMun=280030&VComp=202607&VTerc=00&VServico=136&VClassificacao=&VAmbu=&VAmbuSUS=&VHosp=&VHospSus=">136 - SERVICO DE SUPORTE NUTRICIONAL</a>
+					</font>
+					</td><td align=right><font size='1' color='#003366' face='verdana,arial'>9</font></td></tr><td align=left><font size='1' color='white' face='verdana,arial'>TOTAL</font></td><td align=right><font size='1' color='white' face='verdana,arial'>9</font></td></tr>
+			</table>
+		 	
+	</body>
+	<!-- saved from url=(0022)http://internet.e-mail -->
+</td>
+</tr>
+</table>
+
+</html>

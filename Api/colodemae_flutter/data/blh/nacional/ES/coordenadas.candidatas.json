@@ -1,0 +1,116 @@
+{
+  "geradoEm": "2026-11-11T08:24:00.907942+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "2b4d276b3f26f0148623a3245e8e2f326dd0ddeeb1e2be7223d50d50289f00fc",
+  "hashEnderecos": "57487553d4fef9a4677a93bd913c6239fd47e23e36a3815da99f80c596d2a348",
+  "unidades": [
+    {
+      "id": "es-blh-cnes-2448521",
+      "nome": "Banco de Leite Humano Madre Gertrudes de São José",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-2485966",
+      "nome": "Banco de Leite Humano Prof. Dr. Severino Dantas Filho",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-2485729",
+      "nome": "Banco de Leite Humano Jurema Abranches",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-2678179",
+      "nome": "Banco de Leite Humano do Hosp. Infantil e Maternidade Dr. Alzir Bernardino Alves",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-0011746",
+      "nome": "Banco de Leite Humano Maternidade Unidade Pró Matre Santa Casa de Vitória",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-0012017",
+      "nome": "Banco de Leite Humano do Hospital da Polícia Militar do Espírito Santo",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    }
+  ],
+  "requisicoesNestaExecucao": 0,
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "fe10051f4aa76517353ce4897df81046d9357fefab78f4ba5a1b68e913c46e8c"
+}

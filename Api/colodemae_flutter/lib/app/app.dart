@@ -2,9 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
 
-import '../navigation/root_shell.dart';
+import '../auth_gate.dart';
 import '../screens/splash/splash_screen.dart';
-import '../services/baby_controller.dart';
+import '../services/auth_service.dart';
+import '../services/account_settings_service.dart';
 import '../services/favorites_controller.dart';
 import '../services/theme_controller.dart';
 import 'theme/app_theme.dart';
@@ -12,15 +13,20 @@ import 'theme/app_theme.dart';
 /// Widget raiz do Colo de Mãe: injeta os controladores de estado e monta o
 /// [MaterialApp] com os temas claro e escuro definidos em [AppTheme].
 class ColoDeMaeApp extends StatelessWidget {
-  const ColoDeMaeApp({super.key});
+  const ColoDeMaeApp({super.key, this.authService, this.settingsService});
+
+  final AuthService? authService;
+  final AccountSettingsService? settingsService;
 
   @override
   Widget build(BuildContext context) {
     return MultiProvider(
       providers: [
+        Provider<AuthService>(create: (_) => authService ?? AuthService()),
         ChangeNotifierProvider(create: (_) => ThemeController()),
         ChangeNotifierProvider(create: (_) => FavoritesController()),
-        ChangeNotifierProvider(create: (_) => BabyController()),
+        Provider<AccountSettingsService>(
+            create: (_) => settingsService ?? AccountSettingsService()),
       ],
       child: Consumer<ThemeController>(
         builder: (context, themeController, _) {
@@ -59,6 +65,6 @@ class _AppRootState extends State<_AppRoot> {
   Widget build(BuildContext context) {
     return _showSplash
         ? SplashScreen(onDone: () => setState(() => _showSplash = false))
-        : const RootShell();
+        : const AuthGate();
   }
 }

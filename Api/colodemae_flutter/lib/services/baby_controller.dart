@@ -1,35 +1,72 @@
-import 'package:flutter/material.dart';
-import 'package:shared_preferences/shared_preferences.dart';
-
+import 'dart:async';
+import 'package:flutter/foundation.dart';
 import '../models/baby.dart';
+import 'account_settings_service.dart';
 
-/// Mantém os dados do bebê (RF02) e persiste entre sessões.
+/// Controlador isolado por sessão; compartilha o bebê entre início e configurações.
 class BabyController extends ChangeNotifier {
-  BabyController() {
+  BabyController({required this.uid, required this.service}) {
     _load();
   }
 
-  static const _nameKey = 'baby_name';
-  static const _birthDateKey = 'baby_birth_date';
+  final String uid;
+  final AccountSettingsService service;
+  StreamSubscription<List<SavedBaby>>? _subscription;
+  Completer<void> _ready = Completer<void>();
+  bool _disposed = false;
+  Baby? _baby;
+  String? _id;
+  Baby? get baby => _baby;
+  Object? error;
 
-  Baby _baby = Baby(name: 'Luna', birthDate: DateTime.now().subtract(const Duration(days: 5)));
-  Baby get baby => _baby;
-
-  Future<void> _load() async {
-    final prefs = await SharedPreferences.getInstance();
-    final name = prefs.getString(_nameKey);
-    final birthDateIso = prefs.getString(_birthDateKey);
-    if (name != null && birthDateIso != null) {
-      _baby = Baby(name: name, birthDate: DateTime.parse(birthDateIso));
-      notifyListeners();
+  void _load() {
+    _subscription?.cancel();
+    _ready = Completer<void>();
+    try {
+      _subscription = service.bebes(uid).listen((babies) {
+        if (_disposed) return;
+        _baby = babies.isEmpty ? null : babies.first.baby;
+        _id = babies.isEmpty ? null : babies.first.id;
+        error = null;
+        if (!_ready.isCompleted) _ready.complete();
+        notifyListeners();
+      }, onError: _failed);
+    } catch (failure) {
+      _failed(failure);
     }
   }
 
-  Future<void> update(Baby baby) async {
-    _baby = baby;
+  void _failed(Object failure) {
+    if (_disposed) return;
+    error = failure;
+    if (!_ready.isCompleted) _ready.complete();
     notifyListeners();
-    final prefs = await SharedPreferences.getInstance();
-    await prefs.setString(_nameKey, baby.name);
-    await prefs.setString(_birthDateKey, baby.birthDate.toIso8601String());
+  }
+
+  Future<void> ensureLoaded() async {
+    if (error != null) _load();
+    await _ready.future;
+    if (_disposed) return;
+    if (error != null) {
+      throw StateError('Não foi possível carregar os dados do bebê.');
+    }
+  }
+
+  Future<void> update(Baby value) async {
+    await ensureLoaded();
+    if (_disposed) return;
+    final id = await service.salvarBebe(uid, value, id: _id);
+    if (_disposed) return;
+    _id = id;
+    _baby = value;
+    notifyListeners();
+  }
+
+  @override
+  void dispose() {
+    _disposed = true;
+    _subscription?.cancel();
+    if (!_ready.isCompleted) _ready.complete();
+    super.dispose();
   }
 }

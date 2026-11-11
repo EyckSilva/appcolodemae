@@ -1,0 +1,83 @@
+[
+  {
+    "id": "se-blh-marly-sarney",
+    "termosIdentificacao": ["marly", "sarney"],
+    "enderecoPesquisa": "Rua Mato Grosso, s/n, José Conrado de Araújo, Aracaju, Sergipe, Brasil",
+    "instituicaoPesquisa": "Banco de Leite Humano Marly Sarney, Aracaju, Sergipe, Brasil",
+    "fonteEndereco": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+    "enderecoOperacionalConfirmado": false,
+    "pendencias": [
+      "Confirmar retorno ao endereço da Rua Mato Grosso após funcionamento temporário na Lourdes Nogueira",
+      "Não confundir o prédio do BLH com o Hospital da Criança ou com o posto da Lourdes Nogueira"
+    ]
+  },
+  {
+    "id": "se-blh-irma-rafaela-pepel",
+    "termosIdentificacao": ["sao", "jose"],
+    "confirmacaoDocumental": {
+      "enderecoConfirmado": true,
+      "vinculoBlhConfirmado": true,
+      "coordenadasGpsConfirmadas": false,
+      "funcionamentoAtualConfirmado": false,
+      "origem": "Confirmação textual da usuária, com referências oficiais; escopo limitado a endereço e vinculação institucional",
+      "fontes": [
+        "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/",
+        "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+      ]
+    },
+    "enderecoPesquisa": "Rua Jackson de Figueiredo, 401, Centro, Itabaiana, Sergipe, Brasil",
+    "instituicaoPesquisa": "Hospital e Maternidade São José, Itabaiana, Sergipe, Brasil",
+    "fonteEndereco": "https://cnes2.datasus.gov.br/Mod_Basico.asp?VCo_Unidade=2802902546027",
+    "enderecoOperacionalConfirmado": false,
+    "pendencias": [
+      "Confirmar posição e acesso do BLH dentro do Hospital e Maternidade São José",
+      "Confirmar funcionamento durante ou após a reforma anunciada em publicações de 2025"
+    ]
+  },
+  {
+    "id": "se-blh-zoed-bittencourt",
+    "termosIdentificacao": ["zacarias", "junior"],
+    "confirmacaoDocumental": {
+      "enderecoConfirmado": true,
+      "vinculoBlhConfirmado": true,
+      "coordenadasGpsConfirmadas": false,
+      "funcionamentoAtualConfirmado": false,
+      "origem": "Confirmação textual da usuária, com referências oficiais; escopo limitado a endereço e vinculação institucional",
+      "fontes": [
+        "https://saude.se.gov.br/hospitais/",
+        "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+      ]
+    },
+    "enderecoPesquisa": "Rua Hipólito Santos, 20, Centro, Lagarto, Sergipe, Brasil",
+    "instituicaoPesquisa": "Maternidade Zacarias Junior, Lagarto, Sergipe, Brasil",
+    "fonteEndereco": "https://saude.se.gov.br/hospitais/",
+    "enderecoOperacionalConfirmado": false,
+    "pendencias": [
+      "Número 20 confirmado documentalmente pela rede hospitalar; a fonte histórica indica s/n, e a entrada física ainda precisa ser conferida",
+      "Confirmar o ponto e o acesso do BLH na Maternidade Zacarias Júnior"
+    ]
+  },
+  {
+    "id": "se-posto-fernando-guedes-santa-isabel",
+    "termosIdentificacao": ["santa", "isabel"],
+    "enderecoPesquisa": "Avenida Simeão Sobral, s/n, Santo Antônio, Aracaju, Sergipe, Brasil",
+    "instituicaoPesquisa": "Hospital e Maternidade Santa Isabel, Avenida Simeão Sobral, Aracaju, Sergipe, Brasil",
+    "fonteEndereco": "https://saude.se.gov.br/hospitais/",
+    "enderecoOperacionalConfirmado": false,
+    "pendencias": [
+      "Confirmar o ponto e a entrada do posto de coleta, sem presumir que o centro do hospital seja seu acesso"
+    ]
+  },
+  {
+    "id": "se-posto-maternidade-lourdes-nogueira",
+    "termosIdentificacao": ["lourdes", "nogueira"],
+    "enderecoPesquisa": "Rua Procurador José Costa Cavalcante, 64, 17 de Março, Aracaju, Sergipe, Brasil",
+    "instituicaoPesquisa": "Maternidade Municipal Lourdes Nogueira, Aracaju, Sergipe, Brasil",
+    "fonteEndereco": "https://www.aracaju.se.gov.br/noticias/113932/convite-a-imprensa-prefeitura-de-aracaju-apresenta-novos-servicos-da-maternidade-lourdes-nogueira-nesta-segunda-feira-10",
+    "enderecoOperacionalConfirmado": false,
+    "pendencias": [
+      "Confirmar ponto e acesso específico do posto de coleta dentro da maternidade",
+      "Não confundir o posto próprio da maternidade com a instalação temporária do BLH Marly Sarney"
+    ]
+  }
+]

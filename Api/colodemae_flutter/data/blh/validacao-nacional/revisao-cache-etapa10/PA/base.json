@@ -1,0 +1,140 @@
+[
+  {
+    "chaveUnidade": "blh-cnes-9461493",
+    "nome": "Banco de Leite Humano de Barcarena",
+    "tipo": "BLH",
+    "cidade": "BARCARENA",
+    "estado": "PA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2752700",
+    "nome": "Banco de Leite Humano João Aprígio Guerra de Almeida",
+    "tipo": "BLH",
+    "cidade": "BELEM",
+    "estado": "PA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2678403",
+    "nome": "Banco de Leite Humano Maria Eunice Begot da Silva Dantas",
+    "tipo": "BLH",
+    "cidade": "BRAGANCA",
+    "estado": "PA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2619717",
+    "nome": "Banco de Leite Humano Mãe da Divina Providência",
+    "tipo": "BLH",
+    "cidade": "MARITUBA",
+    "estado": "PA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-5703425",
+    "nome": "Banco de Leite Humano Dra. Cynara Melo Souza",
+    "tipo": "BLH",
+    "cidade": "MARABA",
+    "estado": "PA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2615746",
+    "nome": "Banco de Leite Humano Dra. Lúcia Margarida Costa Campos",
+    "tipo": "BLH",
+    "cidade": "PRARAUAPEBAS",
+    "estado": "PA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  }
+]

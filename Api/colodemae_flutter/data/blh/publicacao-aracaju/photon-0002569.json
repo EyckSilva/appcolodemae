@@ -1,0 +1,137 @@
+{
+  "fonte": "https://photon.komoot.io/reverse?lat=-10.90619346346821&lon=-37.07967947461301&limit=5",
+  "consultadoEm": "2026-11-11T16:36:18.559901+00:00",
+  "resposta": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 378583837,
+          "osm_key": "highway",
+          "osm_value": "residential",
+          "type": "street",
+          "name": "Travessa Recife",
+          "district": "José Conrado de Araújo",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49085-000",
+          "countrycode": "BR",
+          "extent": [
+            -37.0797654,
+            -10.9057276,
+            -37.0793201,
+            -10.9057882
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0795427,
+            -10.9057579
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1118378049,
+          "osm_key": "amenity",
+          "osm_value": "school",
+          "type": "house",
+          "name": "EMEF Rachel Cortes Rollemberg",
+          "street": "Rua Natal",
+          "district": "José Conrado de Araújo",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49085-230",
+          "countrycode": "BR",
+          "extent": [
+            -37.0803066,
+            -10.9054776,
+            -37.0798381,
+            -10.906129
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0800764,
+            -10.9057981
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 81663450,
+          "osm_key": "highway",
+          "osm_value": "residential",
+          "type": "street",
+          "name": "Rua Recife",
+          "district": "José Conrado de Araújo",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49085-000",
+          "countrycode": "BR",
+          "extent": [
+            -37.0798111,
+            -10.9041842,
+            -37.0790975,
+            -10.9092879
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0794637,
+            -10.9067347
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 292494975,
+          "osm_key": "amenity",
+          "osm_value": "hospital",
+          "type": "house",
+          "name": "Maternidade Hildete Falcão Baptista",
+          "street": "Rua Recife",
+          "district": "José Conrado de Araújo",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49085-000",
+          "countrycode": "BR",
+          "extent": [
+            -37.0800346,
+            -10.906285,
+            -37.0794865,
+            -10.9074532
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0797595,
+            -10.9068691
+          ]
+        }
+      }
+    ]
+  },
+  "coordenadasFornecidas": {
+    "latitude": -10.90619346346821,
+    "longitude": -37.07967947461301
+  },
+  "aprovadoAutomaticamente": false,
+  "atribuicao": "OpenStreetMap contributors; ODbL; https://www.openstreetmap.org/copyright"
+}

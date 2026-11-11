@@ -52,36 +52,57 @@ class _DonateSheet extends StatelessWidget {
               child: Container(
                 width: 40,
                 height: 4,
-                decoration: BoxDecoration(color: palette.border2, borderRadius: BorderRadius.circular(999)),
+                decoration: BoxDecoration(
+                    color: palette.border2,
+                    borderRadius: BorderRadius.circular(999)),
               ),
             ),
             const SizedBox(height: 16),
             Text(
               'Quero doar leite',
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.w900, color: palette.textPrimary),
+              style: TextStyle(
+                  fontSize: 20,
+                  fontWeight: FontWeight.w900,
+                  color: palette.textPrimary),
             ),
             const SizedBox(height: 6),
             Text(
               'Sua doação pode ajudar bebês prematuros ou internados que mais precisam do leite humano '
               'pasteurizado.',
-              style: TextStyle(fontSize: 13, fontWeight: FontWeight.w600, color: palette.textMuted, height: 1.5),
+              style: TextStyle(
+                  fontSize: 13,
+                  fontWeight: FontWeight.w600,
+                  color: palette.textMuted,
+                  height: 1.5),
             ),
             const SizedBox(height: 20),
             Text(
               'QUEM PODE DOAR',
-              style: TextStyle(fontSize: 11, fontWeight: FontWeight.w900, letterSpacing: 1, color: palette.textMuted),
+              style: TextStyle(
+                  fontSize: 11,
+                  fontWeight: FontWeight.w900,
+                  letterSpacing: 1,
+                  color: palette.textMuted),
             ),
             const SizedBox(height: 10),
-            for (final item in _eligibility) _ChecklistRow(text: item, palette: palette),
+            for (final item in _eligibility)
+              _ChecklistRow(text: item, palette: palette),
             const SizedBox(height: 16),
             Text(
               'COMO FUNCIONA',
-              style: TextStyle(fontSize: 11, fontWeight: FontWeight.w900, letterSpacing: 1, color: palette.textMuted),
+              style: TextStyle(
+                  fontSize: 11,
+                  fontWeight: FontWeight.w900,
+                  letterSpacing: 1,
+                  color: palette.textMuted),
             ),
             const SizedBox(height: 10),
-            for (var i = 0; i < _steps.length; i++) _StepRow(index: i + 1, text: _steps[i], palette: palette),
+            for (var i = 0; i < _steps.length; i++)
+              _StepRow(index: i + 1, text: _steps[i], palette: palette),
             const SizedBox(height: 20),
-            PrimaryCtaButton(label: 'Entendi', onPressed: () => Navigator.of(context).maybePop()),
+            PrimaryCtaButton(
+                label: 'Entendi',
+                onPressed: () => Navigator.of(context).maybePop()),
           ],
         ),
       ),
@@ -106,14 +127,19 @@ class _ChecklistRow extends StatelessWidget {
             width: 20,
             height: 20,
             margin: const EdgeInsets.only(top: 1),
-            decoration: BoxDecoration(color: palette.textPrimary, shape: BoxShape.circle),
+            decoration: BoxDecoration(
+                color: palette.textPrimary, shape: BoxShape.circle),
             child: Icon(LucideIcons.check, size: 12, color: palette.surface),
           ),
           const SizedBox(width: 10),
           Expanded(
             child: Text(
               text,
-              style: TextStyle(fontSize: 13, fontWeight: FontWeight.w600, color: palette.textSecondary, height: 1.4),
+              style: TextStyle(
+                  fontSize: 13,
+                  fontWeight: FontWeight.w600,
+                  color: palette.textSecondary,
+                  height: 1.4),
             ),
           ),
         ],
@@ -123,7 +149,8 @@ class _ChecklistRow extends StatelessWidget {
 }
 
 class _StepRow extends StatelessWidget {
-  const _StepRow({required this.index, required this.text, required this.palette});
+  const _StepRow(
+      {required this.index, required this.text, required this.palette});
 
   final int index;
   final String text;
@@ -140,11 +167,15 @@ class _StepRow extends StatelessWidget {
             width: 20,
             height: 20,
             margin: const EdgeInsets.only(top: 1),
-            decoration: const BoxDecoration(color: AppPalette.button, shape: BoxShape.circle),
+            decoration: const BoxDecoration(
+                color: AppPalette.button, shape: BoxShape.circle),
             child: Center(
               child: Text(
                 '$index',
-                style: const TextStyle(fontSize: 11, fontWeight: FontWeight.w900, color: Colors.white),
+                style: const TextStyle(
+                    fontSize: 11,
+                    fontWeight: FontWeight.w900,
+                    color: Colors.white),
               ),
             ),
           ),
@@ -152,7 +183,11 @@ class _StepRow extends StatelessWidget {
           Expanded(
             child: Text(
               text,
-              style: TextStyle(fontSize: 13, fontWeight: FontWeight.w600, color: palette.textSecondary, height: 1.4),
+              style: TextStyle(
+                  fontSize: 13,
+                  fontWeight: FontWeight.w600,
+                  color: palette.textSecondary,
+                  height: 1.4),
             ),
           ),
         ],

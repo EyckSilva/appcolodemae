@@ -1,0 +1,241 @@
+{
+  "consultadoEm": "2026-11-11T15:19:38.588958+00:00",
+  "swaggerFonte": "https://apidadosabertos.saude.gov.br/static/swagger.json",
+  "sha256Swagger": "87dd3d684ddf5a0b6425a77ac7059461feaa35c66d33896a3fcc30807dbf41f6",
+  "endpoints": {
+    "/cnes/tipounidades": {
+      "parametros": [],
+      "resumo": "Obtém todos os tipos de unidade."
+    },
+    "/cnes/tipounidades/{codigo_tipo_unidade}": {
+      "parametros": [
+        {
+          "name": "codigo_tipo_unidade",
+          "in": "path",
+          "description": "código do tipo de unidade",
+          "required": true,
+          "type": "integer"
+        }
+      ],
+      "resumo": "Obtém tipo de unidade utilizando o código do tipo da unidade."
+    },
+    "/cnes/estabelecimentos": {
+      "parametros": [
+        {
+          "name": "codigo_tipo_unidade",
+          "in": "query",
+          "description": "Filtra estabelecimentos pelo código do tipo de unidade",
+          "required": false,
+          "type": "integer"
+        },
+        {
+          "name": "codigo_uf",
+          "in": "query",
+          "description": "Filtra pelo código do estado",
+          "required": false,
+          "type": "integer"
+        },
+        {
+          "name": "codigo_municipio",
+          "in": "query",
+          "description": "Filtra pelo código do município",
+          "required": false,
+          "type": "integer"
+        },
+        {
+          "name": "status",
+          "in": "query",
+          "description": "Filtra estabelecimentos que possuem status ativo (código 1) ou inativo (código 0).",
+          "required": false,
+          "type": "integer",
+          "enum": [
+            0,
+            1
+          ]
+        },
+        {
+          "name": "estabelecimento_possui_centro_cirurgico",
+          "in": "query",
+          "description": "Filtra estabelecimentos que possuem (código 1) ou não (código 0) centro cirúrgico.",
+          "required": false,
+          "type": "integer",
+          "enum": [
+            0,
+            1
+          ]
+        },
+        {
+          "name": "estabelecimento_possui_centro_obstetrico",
+          "in": "query",
+          "description": "Filtra estabelecimentos que possuem (código 1) ou não (código 0) centro obstétrico.",
+          "required": false,
+          "type": "integer",
+          "enum": [
+            0,
+            1
+          ]
+        },
+        {
+          "name": "data_atualizacao",
+          "in": "query",
+          "description": "Filtra estabelecimentos que foram atualizados a partir da data informada. Formato: YYYY-MM-DD",
+          "required": false,
+          "type": "string"
+        },
+        {
+          "name": "limit",
+          "in": "query",
+          "description": "Quantidade de itens retornados por página. Deve ser menor ou igual 20.",
+          "required": false,
+          "type": "integer",
+          "default": 100
+        },
+        {
+          "name": "offset",
+          "in": "query",
+          "description": "Número da página de itens que deve ser retornada. Observação: As páginas iniciam a contagem a partir de 0 (zero), por exemplo: offset=0",
+          "required": false,
+          "type": "integer",
+          "default": 0
+        }
+      ],
+      "resumo": "Obtém todos os estabelecimentos."
+    },
+    "/cnes/estabelecimentos/{codigo_cnes}": {
+      "parametros": [
+        {
+          "name": "codigo_cnes",
+          "in": "path",
+          "description": "código do estabelecimento",
+          "required": true,
+          "type": "integer"
+        }
+      ],
+      "resumo": "Obtém estabelecimento utilizando o código CNES."
+    },
+    "/assistencia-a-saude/cnes-estabelecimentos": {
+      "parametros": [
+        {
+          "name": "nu_comp",
+          "in": "query",
+          "description": "Competência (ano e mês) da informação",
+          "required": false,
+          "type": "integer"
+        },
+        {
+          "name": "co_ibge",
+          "in": "query",
+          "description": "Código IBGE do município",
+          "required": false,
+          "type": "integer"
+        },
+        {
+          "name": "co_cnes",
+          "in": "query",
+          "description": "Código CNES do estabelecimento de saúde",
+          "required": false,
+          "type": "string"
+        },
+        {
+          "name": "no_grupo_nat_jur",
+          "in": "query",
+          "description": "Nome do grupo da natureza jurídica",
+          "required": false,
+          "type": "string"
+        },
+        {
+          "name": "tp_gestao",
+          "in": "query",
+          "description": "Tipo de gestão do estabelecimento",
+          "required": false,
+          "type": "string"
+        },
+        {
+          "name": "limit",
+          "in": "query",
+          "description": "Quantidade de itens retornados por página. Deve ser menor ou igual 1000.",
+          "required": false,
+          "type": "integer",
+          "default": 100
+        },
+        {
+          "name": "offset",
+          "in": "query",
+          "description": "Número da página de itens que deve ser retornada. Observação: As páginas iniciam a contagem a partir de 0 (zero), por exemplo: offset=0",
+          "required": false,
+          "type": "integer",
+          "default": 0
+        }
+      ],
+      "resumo": "Informações essenciais sobre unidades ativas/desativadas do CNES, incluindo localização, gestão, natureza jurídica e tipo de estabelecimento."
+    },
+    "/assistencia-a-saude/cnes-servicos-especializados": {
+      "parametros": [
+        {
+          "name": "nu_comp",
+          "in": "query",
+          "description": "Competência (ano e mês) da informação",
+          "required": false,
+          "type": "integer"
+        },
+        {
+          "name": "co_ibge",
+          "in": "query",
+          "description": "Código IBGE do município",
+          "required": false,
+          "type": "integer"
+        },
+        {
+          "name": "co_cnes",
+          "in": "query",
+          "description": "Código CNES do estabelecimento de saúde",
+          "required": false,
+          "type": "string"
+        },
+        {
+          "name": "no_grupo_nat_jur",
+          "in": "query",
+          "description": "Nome do grupo da natureza jurídica",
+          "required": false,
+          "type": "string"
+        },
+        {
+          "name": "limit",
+          "in": "query",
+          "description": "Quantidade de itens retornados por página. Deve ser menor ou igual 1000.",
+          "required": false,
+          "type": "integer",
+          "default": 100
+        },
+        {
+          "name": "offset",
+          "in": "query",
+          "description": "Número da página de itens que deve ser retornada. Observação: As páginas iniciam a contagem a partir de 0 (zero), por exemplo: offset=0",
+          "required": false,
+          "type": "integer",
+          "default": 0
+        }
+      ],
+      "resumo": "Informações dos serviços especializados cadastrados nos estabelecimentos de saúde, incluindo código, descrição, classificação e demais características dos serviços disponibilizados."
+    }
+  },
+  "offsetObservado": "deslocamento de registros, nao numero de pagina",
+  "paginaCurtaNaoGaranteFim": true,
+  "competenciaServicosObservada": 202607,
+  "codigosExclusivosBlhPclhConfirmados": [],
+  "limiteConclusao": "Nenhum codigo exclusivo de BLH/PCLH identificado nos retornos/tabelas consultados; nao inferir inexistencia do servico.",
+  "fontesTabelas": [
+    {
+      "url": "https://cnes2.datasus.gov.br/mod_ind_especialidades.asp",
+      "arquivo": "cnes-servicos.html"
+    },
+    {
+      "url": "https://cnes2.datasus.gov.br/Mod_Ind_Especialidades.asp?VEstado=28&VMun=280030&VComp=202607&VTerc=00&VServico=136",
+      "arquivo": "cnes-class-136.html"
+    },
+    {
+      "url": "https://cnes2.datasus.gov.br/Mod_Ind_Especialidades.asp?VEstado=28&VMun=280030&VComp=202607&VTerc=00&VServico=112",
+      "arquivo": "cnes-class-112.html"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  {"id": "se-blh-marly-sarney", "cnes": "0002569", "relacao": "proprio", "termosNome": ["marly", "sarney"]},
+  {"id": "se-posto-fernando-guedes-santa-isabel", "cnes": "0002232", "relacao": "mantenedora", "termosNome": ["santa", "isabel"]},
+  {"id": "se-posto-maternidade-lourdes-nogueira", "cnes": "4099206", "relacao": "mantenedora", "termosNome": ["lourdes", "nogueira"]}
+]

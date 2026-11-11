@@ -1,0 +1,74 @@
+[
+  {
+    "chaveUnidade": "pclh-samambaia",
+    "nome": "Posto de Coleta de Samambaia – PCLH HRSAM",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "QS 614, conjunto C, lotes 1 e 2, Samambaia Norte, Distrito Federal",
+    "telefone": "(61) 3449-6850",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+    "consultadoEm": "2026-11-11T08:21:10.882456+00:00",
+    "fontesCampos": {
+      "nome": "https://amamentabrasilia.saude.df.gov.br/",
+      "tipo": "https://amamentabrasilia.saude.df.gov.br/",
+      "endereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "telefone": "https://saude.df.gov.br/banco-de-leite"
+    },
+    "pendencias": [
+      "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ]
+  },
+  {
+    "chaveUnidade": "pclh-sao-sebastiao",
+    "nome": "Posto de Coleta de São Sebastião – PCLH SS",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "Centro de Múltiplas Atividades, 10, São Sebastião, Distrito Federal",
+    "telefone": "(61) 99164-3334",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+    "consultadoEm": "2026-11-11T08:21:10.882456+00:00",
+    "fontesCampos": {
+      "nome": "https://amamentabrasilia.saude.df.gov.br/",
+      "tipo": "https://amamentabrasilia.saude.df.gov.br/",
+      "endereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "telefone": "https://saude.df.gov.br/banco-de-leite"
+    },
+    "pendencias": [
+      "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ]
+  },
+  {
+    "chaveUnidade": "pclh-riacho-fundo-i",
+    "nome": "Posto de Coleta de Riacho Fundo I – PCLH RFI",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "QN 1, conjunto 32, Riacho Fundo I, Distrito Federal",
+    "telefone": "(61) 98184-2098",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+    "consultadoEm": "2026-11-11T08:21:10.882456+00:00",
+    "fontesCampos": {
+      "nome": "https://amamentabrasilia.saude.df.gov.br/",
+      "tipo": "https://amamentabrasilia.saude.df.gov.br/",
+      "endereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "telefone": "https://saude.df.gov.br/banco-de-leite"
+    },
+    "pendencias": [
+      "Confirmar endereço completo, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ]
+  }
+]

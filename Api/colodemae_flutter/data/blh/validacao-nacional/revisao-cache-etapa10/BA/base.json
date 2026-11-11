@@ -1,0 +1,255 @@
+[
+  {
+    "chaveUnidade": "blh-cnes-2799278",
+    "nome": "Banco de Leite Humano do Hospital da Mulher - Inácia Pinto dos Santos.",
+    "tipo": "BLH",
+    "cidade": "FEIRA DE SANTANA",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2804034",
+    "nome": "Banco de Leite Humano de Guanambi",
+    "tipo": "BLH",
+    "cidade": "GUANAMBI",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2525569",
+    "nome": "Banco de Leite Humano do Hospital Manoel Novaes",
+    "tipo": "BLH",
+    "cidade": "ITABUNA",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-3972925",
+    "nome": "Banco de Leite Humano Hospital do Oeste",
+    "tipo": "BLH",
+    "cidade": "BARREIRAS",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-6602533",
+    "nome": "Banco de Leite do Hospital Estadual da Criança",
+    "tipo": "BLH",
+    "cidade": "FEIRA DE SANTANA",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-6923356",
+    "nome": "Banco de Leite Humano Santa Casa de Misericórdia São Judas Tadeu",
+    "tipo": "BLH",
+    "cidade": "JEQUIE",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0003794",
+    "nome": "Banco de Leite Humano do IPERBA",
+    "tipo": "BLH",
+    "cidade": "SALVADOR",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0003859",
+    "nome": "Banco de Leite do Hospital Geral Roberto Santos",
+    "tipo": "BLH",
+    "cidade": "SALVADOR",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0004731",
+    "nome": "Banco de Leite Humano da Maternidade Climério de Oliveira",
+    "tipo": "BLH",
+    "cidade": "SALVADOR",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-3956369",
+    "nome": "Banco de Leite Humano da Maternidade Professor José Maria de Magalhães Neto",
+    "tipo": "BLH",
+    "cidade": "SALVADOR",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2402564",
+    "nome": "Banco de Leite Humano do Hospital Municipal Esaú Matos",
+    "tipo": "BLH",
+    "cidade": "VITORIA DA CONQUISTA",
+    "estado": "BA",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  }
+]

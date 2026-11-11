@@ -1,0 +1,4331 @@
+{
+  "registros": [
+    {
+      "id": "ac-blh-cnes-2000296",
+      "nome": "Banco de Leite do Hospital da Mulher e da Criança do Juruá (HMCJ)",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ac-blh-cnes-2000733",
+      "nome": "Banco de Leite Humano da Maternidade e Clinica de Mulheres Bárbara Heliodora",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2005050",
+      "nome": "Banco de Leite Humano Ivete França Lima",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2009250",
+      "nome": "Banco de Leite Humano Dr. Carlos Roberto C. Perdigão",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2010631",
+      "nome": "Banco de Leite Humano Dra. Kátia Born",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "al-blh-cnes-2010151",
+      "nome": "Banco de Leite Humano da Santa Casa de Misericórdia de São Miguel dos Campos",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "am-blh-cnes-2019558",
+      "nome": "Banco de Leite Humano Fesinha Anzoategui",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "am-blh-cnes-3004104",
+      "nome": "Banco de Leite Humano da Galileia",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "am-blh-cnes-3151794",
+      "nome": "Banco de Leite Humano da Maternidade de Referência Ana Braga",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ap-blh-cnes-2020068",
+      "nome": "Banco de Leite Humano do Hospital da Mulher Mãe Luzia",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-2799278",
+      "nome": "Banco de Leite Humano do Hospital da Mulher - Inácia Pinto dos Santos.",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-2804034",
+      "nome": "Banco de Leite Humano de Guanambi",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-2525569",
+      "nome": "Banco de Leite Humano do Hospital Manoel Novaes",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-3972925",
+      "nome": "Banco de Leite Humano Hospital do Oeste",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-6602533",
+      "nome": "Banco de Leite do Hospital Estadual da Criança",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-6923356",
+      "nome": "Banco de Leite Humano Santa Casa de Misericórdia São Judas Tadeu",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-0003794",
+      "nome": "Banco de Leite Humano do IPERBA",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-0003859",
+      "nome": "Banco de Leite do Hospital Geral Roberto Santos",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-0004731",
+      "nome": "Banco de Leite Humano da Maternidade Climério de Oliveira",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-3956369",
+      "nome": "Banco de Leite Humano da Maternidade Professor José Maria de Magalhães Neto",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ba-blh-cnes-2402564",
+      "nome": "Banco de Leite Humano do Hospital Municipal Esaú Matos",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-2564211",
+      "nome": "Banco de Leite Humano do Hospital Maternidade São Vicente de Paulo",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-2481286",
+      "nome": "Banco de Leite Humano da Maternidade Escola Assis Chateaubriand",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-2497654",
+      "nome": "Banco de Leite Humano do Hospital Geral de Fortaleza",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-2499363",
+      "nome": "Banco de Leite Humano do Hospital Geral Dr. Cesar Cals",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-2563681",
+      "nome": "Banco de Leite Humano do Hospital Infantil Albert Sabin",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-6848710",
+      "nome": "Banco de Leite Humano do Hospital Regional Norte",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-7280416",
+      "nome": "Banco de Leite Humano de Juazeiro do Norte",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-2806215",
+      "nome": "Banco de Leite Humano do Hospital Municipal Dr. João Elísio de Holanda",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ce-blh-cnes-2328399",
+      "nome": "Banco de Leite Humano do Hospital e Maternidade Jesus Maria José",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010464",
+      "nome": "Banco de Leite Humano do Hospital Regional da Asa Norte",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010472",
+      "nome": "Banco de Leite Humano do Hosp. R. do Gama",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010480",
+      "nome": "Banco de Leite Humano do Hospital Regional de Ceilândia",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010499",
+      "nome": "Banco de Leite Humano do Hospital Regional de Taguatinga",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010502",
+      "nome": "Banco de Leite Humano do Hosp. R. de Sobradinho",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010529",
+      "nome": "Banco de Leite Humano do Hosp. R. de Planaltina",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010537",
+      "nome": "Banco de Leite Humano do Hospital Materno Infantil de Brasília",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010545",
+      "nome": "Banco de Leite Humano do Hospital Regional de Brazlândia",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-2645157",
+      "nome": "Banco de Leite Humano do Hospital Regional do Paranoá",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-5717515",
+      "nome": "Banco de Leite Humano do Hospital Regional de Santa Maria",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-pclh-samambaia",
+      "nome": "Posto de Coleta de Samambaia – PCLH HRSAM",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+        "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+        "Confirmar situação e dados cadastrais atuais",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-pclh-sao-sebastiao",
+      "nome": "Posto de Coleta de São Sebastião – PCLH SS",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+        "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+        "Confirmar situação e dados cadastrais atuais",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "df-pclh-riacho-fundo-i",
+      "nome": "Posto de Coleta de Riacho Fundo I – PCLH RFI",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço completo, CEP, horário e funcionamento atual",
+        "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+        "Confirmar situação e dados cadastrais atuais",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-2448521",
+      "nome": "Banco de Leite Humano Madre Gertrudes de São José",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-2485966",
+      "nome": "Banco de Leite Humano Prof. Dr. Severino Dantas Filho",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-2485729",
+      "nome": "Banco de Leite Humano Jurema Abranches",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-2678179",
+      "nome": "Banco de Leite Humano do Hosp. Infantil e Maternidade Dr. Alzir Bernardino Alves",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-0011746",
+      "nome": "Banco de Leite Humano Maternidade Unidade Pró Matre Santa Casa de Vitória",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "es-blh-cnes-0012017",
+      "nome": "Banco de Leite Humano do Hospital da Polícia Militar do Espírito Santo",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "go-blh-cnes-2361787",
+      "nome": "Banco de Leite Humano Dona Edna Cupertino",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "go-blh-cnes-9661190",
+      "nome": "Banco de Leite Humano de Anápolis",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "go-blh-cnes-2338564",
+      "nome": "Banco de Leite Humano da Maternidade Nascer Cidadão",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "go-blh-cnes-2339196",
+      "nome": "Banco de Leite Humano do Hospital Estadual da Mulher (HEMU)",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ma-blh-cnes-2453665",
+      "nome": "Banco de Leite Humano Dr. Fernando Vieira Chaves",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ma-blh-cnes-2452383",
+      "nome": "Banco de Leite Humano do Hospital Regional Materno Infantil de Imperatriz",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ma-blh-cnes-2309254",
+      "nome": "Banco de Leite Humano da Maternidade de Alta Complexidade do Maranhão",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-0026794",
+      "nome": "Banco de Leite Humano Hospital Sofia Feldman.",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-0026972",
+      "nome": "Banco de Leite Humano da Maternidade Odete Valadares",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2126494",
+      "nome": "Banco de Leite Humano Maria Augusta Resende Barbosa",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2119420",
+      "nome": "Banco de Leite Humano do Hospital Municipal Senhora Santana",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2222043",
+      "nome": "Banco de Leite Humano Miguel Silva Reis",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2153351",
+      "nome": "Banco de Leite Humano de Juiz de Fora",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2219638",
+      "nome": "Banco de Leite Humano do Hospital Aroldo Tourinho",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2775999",
+      "nome": "Banco de Leite Humano da Santa Casa de Misericordia de Passos",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2195437",
+      "nome": "Banco de Leite Humano do Hospital Santa Isabel",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2201666",
+      "nome": "Banco de Leite Humano de Uberaba - CAISM",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2761041",
+      "nome": "Banco de Leite Humano de Varginha",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mg-blh-cnes-2099454",
+      "nome": "Banco de Leite Humano do Hospital São Sebastião",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ms-blh-cnes-0009717",
+      "nome": "Banco de Leite Humano Irmã Maria José Machado - Santa Casa Campo Grande - MS",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ms-blh-cnes-0009725",
+      "nome": "Banco de Leite Humano do Hospital Regional de Mato Grosso do Sul",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ms-blh-cnes-0009768",
+      "nome": "Banco de Leite Humano Dr. João Aprígio",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mt-blh-cnes-2659107",
+      "nome": "Banco de Leite Humano Dr. José de Faria Vinagre",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mt-blh-cnes-2767953",
+      "nome": "Banco de Leite Humano do Hospital São Lucas",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "mt-blh-cnes-2396866",
+      "nome": "Banco de Leite Humano de Rondonópolis",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-9461493",
+      "nome": "Banco de Leite Humano de Barcarena",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-2752700",
+      "nome": "Banco de Leite Humano João Aprígio Guerra de Almeida",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-2678403",
+      "nome": "Banco de Leite Humano Maria Eunice Begot da Silva Dantas",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-2619717",
+      "nome": "Banco de Leite Humano Mãe da Divina Providência",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-5703425",
+      "nome": "Banco de Leite Humano Dra. Cynara Melo Souza",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pa-blh-cnes-2615746",
+      "nome": "Banco de Leite Humano Dra. Lúcia Margarida Costa Campos",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pb-blh-cnes-2362287",
+      "nome": "Banco de Leite Humano Dr. Virgílio Brasileiro",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pb-blh-cnes-2613476",
+      "nome": "Banco de Leite Humano Josefa Garcia Rolim",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pb-blh-cnes-2603802",
+      "nome": "Banco de Leite Humano Merijane Claudino da Silva",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pb-blh-cnes-2399644",
+      "nome": "Banco de Leite Humano Dra. Zilda Arns",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pb-blh-cnes-2707527",
+      "nome": "Banco de Leite Humano Anita Cabral",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pb-blh-cnes-2605414",
+      "nome": "Banco de Leite Humano Dra. Vilani Kehrle",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pe-blh-cnes-4306945",
+      "nome": "Banco de Leite Humano do Hospital da Mulher do Agreste",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pe-blh-cnes-2430711",
+      "nome": "Banco de Incentivo e Apoio ao Aleitamento Materno - BIAMA",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pe-blh-cnes-0000418",
+      "nome": "Banco de Leite Humano Dra. Sônia Bechara",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pe-blh-cnes-0000434",
+      "nome": "Banco de Leite Humano e Centro de Incentivo ao Aleitamento Materno do IMIP",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pe-blh-cnes-0000701",
+      "nome": "Banco de Leite Humano da Maternidade Professor Bandeira Filho",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pe-blh-cnes-2427427",
+      "nome": "Banco de Leite Humano Enfermeira Tereza Cristina de Andrade",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pe-blh-cnes-2711613",
+      "nome": "Banco de Leite Humano Amenaide Emereciano Teixeira",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pe-blh-cnes-7958838",
+      "nome": "Banco de Leite Humano CIAMA - HMR",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pi-blh-cnes-2323397",
+      "nome": "Banco de Leite Humano da Maternidade Dona Evangelina Rosa",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2439360",
+      "nome": "Banco de Leite Humano do Hospital da Providência / HPMI",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-0014109",
+      "nome": "Banco de Leite Humano do Hospital Santa Casa de Campo Mourão",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2738368",
+      "nome": "Banco de Leite Humano do Hospital Universitário do Oeste do Paraná",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-0015245",
+      "nome": "Banco de Leite Humano do Hospital Universitário Evangélico Mackenzie",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-0015369",
+      "nome": "Banco de Leite Humano do Hospital do Trabalhador",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2591049",
+      "nome": "Banco de Leite Humano de Foz do Iguaçu",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2741989",
+      "nome": "Banco de Leite Humano São Vicente de Paulo",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-6542638",
+      "nome": "Banco de Leite Humano do Hospital Universitário Materno Infantil - Ponta Grossa",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-4056752",
+      "nome": "Banco de Leite Humano Dr. Jorge Nisiide",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2781859",
+      "nome": "Banco de Leite Humano Maria Lucilia Monti Magalhães",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2587335",
+      "nome": "Banco de Leite Humano do Hospital Universitário Regional de Maringá",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-0017884",
+      "nome": "Banco de leite Humano São Lucas",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-2753278",
+      "nome": "Banco de Leite Humano do Hospital e Maternidade São José dos Pinhais",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "pr-blh-cnes-3005011",
+      "nome": "Banco de Leite Humano Norospar",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2298317",
+      "nome": "Banco de Leite Humano do Hospital dos Plantadores de Cana",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2290227",
+      "nome": "Banco de Leite Humano enfermeira Margareth Magalhães Costa e Silva",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2271826",
+      "nome": "Banco de Leite Humano do Hospital Maternidade Dr Mário Dutra de Castro",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2275562",
+      "nome": "Banco de Leite Humano do Hospital Municipal Alcides Carneiro- Petrópolis",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2269945",
+      "nome": "Banco de Leite Humano do Hospital Maternidade Alexander Fleming",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2270390",
+      "nome": "Banco de Leite Humano do Hospital Maternidade Herculano Pinheiro",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2270609",
+      "nome": "Banco de Leite Humano da Maternidade Leila Diniz",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2270714",
+      "nome": "Banco de Leite Humano Zuleika Nunes de Alencar",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2280248",
+      "nome": "Banco de Leite Humano do Hospital Maternidade Carmela Dutra",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-2295407",
+      "nome": "Banco de Leite Humano Maria Leonor Inocêncio Soares",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-7041624",
+      "nome": "Banco de Leite Humano Hospital da Mulher Mariska Ribeiro",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-6518893",
+      "nome": "Banco de Leite Humano do Hospital da Mulher Heloneida Studart",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rj-blh-cnes-0025135",
+      "nome": "Banco de Leite Humano do Hospital São João Batista",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2665778",
+      "nome": "Banco de Leite Humano de Caicó",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-4093577",
+      "nome": "Banco de Leite Humano do Mossoró Hospital Regional Parteira Maria Coreia",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2408570",
+      "nome": "Banco de Leite Humano do Hospital Dr. José Pedro Bezerra",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2409208",
+      "nome": "Banco de Leite Humano da Maternidade Escola Januário Cicco",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2679469",
+      "nome": "Banco de Leite Humano do Hospital Central Coronel Pedro Germano",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rn-blh-cnes-2473380",
+      "nome": "Banco de Leite Humano Maternidade do Divino Amor",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "ro-blh-cnes-4001303",
+      "nome": "Banco de Leite Humano Santa Ágata",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rr-blh-cnes-2566168",
+      "nome": "Banco de Leite Humano Dra. Marilurdes Albuquerque",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rs-blh-cnes-2241021",
+      "nome": "Banco de Leite Ama Tacchini",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rs-blh-cnes-2223538",
+      "nome": "Banco de Leite Humano do Hospital Geral de Caxias do Sul",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rs-blh-cnes-2261987",
+      "nome": "Banco de Leite Humano Santa Casa de Bagé",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rs-blh-cnes-2261057",
+      "nome": "Banco de Leite Humano do Hospital de Clínicas de Ijuí",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rs-blh-cnes-2237253",
+      "nome": "Banco de Leite Humano da Irmandade da Santa Casa de Misericórdia de Porto Alegre",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rs-blh-cnes-2237822",
+      "nome": "Banco de Leite Humano do Hospital Materno Infantil Presidente Vargas",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rs-blh-cnes-2259907",
+      "nome": "Banco de Leite Humano do Hospital Santo Ângelo",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "rs-blh-cnes-2254611",
+      "nome": "Banco de Leite Humano do Hospital Vida & Saúde",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-3137392",
+      "nome": "Banco de Leite Humano de Blumenau",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2303892",
+      "nome": "Banco de Leite Humano do Hospital São Francisco",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2537788",
+      "nome": "Banco de Leite Humano Hospital Regional do Oeste - Chapecó",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2594277",
+      "nome": "Banco de Leite Humano Doutor Dino Gorini",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2302101",
+      "nome": "Banco de Leite Humano do Hospital Helio Anjos Ortiz",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-0019283",
+      "nome": "Banco de Leite Humano e Central de Informações de Aleitamento Materno - (CIAM)",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2691868",
+      "nome": "Banco de Leite Humano do Hospital Infantil Joana de Gusmão",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2436477",
+      "nome": "Banco de Leite Humano da Maternidade Darcy Vargas",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2504332",
+      "nome": "Banco de Leite Humano do Hospital e Maternidade Teresa Ramos",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2379341",
+      "nome": "Banco de Leite Humano Alimente uma Vida - Maternidade D. Catarina Kuss",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2555646",
+      "nome": "Banco de Leite Humano do Hospital Regional de S.José Dr. Homero de Miranda Gomes",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2491710",
+      "nome": "Banco de Leite Humano do Hospital Nossa Senhora da Conceição",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2522691",
+      "nome": "Banco de Leite Humano do Hospital e Maternidade Marieta Konder Bornhausen",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2306344",
+      "nome": "Banco de Leite Humano do Hospital Jaraguá",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sc-blh-cnes-2521695",
+      "nome": "Banco de Leite Humano Sr. Klaus Schumacher",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "se-blh-marly-sarney",
+      "nome": "Banco de Leite Humano Marly Sarney",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+        "Revalidar telefone de atendimento",
+        "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município",
+        "Confirmar situação e dados cadastrais atuais",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "se-blh-irma-rafaela-pepel",
+      "nome": "Banco de Leite Humano Irmã Rafaela Pepel",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Endereço e telefone são evidências históricas publicadas em 2018; confirmar dados atuais e situação operacional",
+        "Obter coordenadas oficiais verificadas da unidade",
+        "Confirmar situação e dados cadastrais atuais",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "se-blh-zoed-bittencourt",
+      "nome": "Banco de Leite Humano Zóed Bittencourt",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço atual do BLH na Maternidade Zacarias Júnior: fontes cadastrais históricas divergem na grafia e numeração",
+        "Telefone proveniente de publicação de 2018; confirmar contato e situação operacional atuais",
+        "Obter coordenadas oficiais verificadas da unidade",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+        "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+        "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+        "Confirmar situação e dados cadastrais atuais",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+        "Obter telefone oficial específico para orientação de doadoras",
+        "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2077566",
+      "nome": "Banco de Leite Humano de Araçatuba",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-5366828",
+      "nome": "Banco de Leite Humano de Atibaia",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2791781",
+      "nome": "Banco de Leite Humano de Bauru",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2022621",
+      "nome": "Banco de Leite Humano Centro de Lactação da Maternidade de Campinas",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-7184956",
+      "nome": "Banco de Leite Humano Ceami de Caraguatatuba",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-3843076",
+      "nome": "Banco de Leite Humano Municipal de Guarulhos",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2027186",
+      "nome": "Banco de Leite Humano da Santa Casa de Misericórdia de Itapeva",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2081091",
+      "nome": "Banco de Leite Humano de Itapira",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2791722",
+      "nome": "Banco de Leite Humano da Irmandade de Misericórdia do Jaú",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-3012212",
+      "nome": "Banco de Leite Humano de Jundiaí",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2081458",
+      "nome": "Banco de Leite Humano Dr. Olindo de Luca",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-4844637",
+      "nome": "Banco de Leite Humano de Lins Maria Leosina D Atanasio",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2086050",
+      "nome": "Banco de Leite Humano de Marília - Dr. Cleyde Moerbeck Casadei",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2080052",
+      "nome": "Banco de Leite Humano de Mogi das Cruzes",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-0008036",
+      "nome": "Banco de Leite Humano do Hospital Municipal e Maternidade Amador Aguiar",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2038668",
+      "nome": "Banco de Leite Humano de Ourinhos",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2078503",
+      "nome": "Banco de Leite Humano da Santa Casa de Penapolis",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-9297715",
+      "nome": "Banco de Leite Humano do Hospital Municipal de Peruíbe",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2087057",
+      "nome": "Banco de Leite Humano Maria Gessy Cardoso Ribeiro",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-7247141",
+      "nome": "Banco de Leite Humano de Presidente Prudente",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2082888",
+      "nome": "Banco de Leite Humano Maria Aparecida Polastri Hartung",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-6020917",
+      "nome": "Banco de Leite Humano Maria Aparecida Pinheiro",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2027356",
+      "nome": "Banco de Leite Humano do Hospital da Mulher em São Bernardo do Campo",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2080931",
+      "nome": "Banco de Leite Humano Dr José Eduardo Ungari",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2705648",
+      "nome": "Banco de Leite Humano de São José do Rio Preto",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-0009628",
+      "nome": "Banco de Leite Humano do Hospital Municipal Dr. José de Carvalho Florence",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2083094",
+      "nome": "Banco de Leite Humano do Hospital Regional de Assis",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2748223",
+      "nome": "Banco de Leite Humano Marineuza Nunes de Souza",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2079798",
+      "nome": "Banco de Leite Humano do CAISM - UNICAMP",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2089327",
+      "nome": "Banco de Leite Humano do Hospital Padre Albino",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2792141",
+      "nome": "Banco de Leite Humano do Hospital Regional de Cotia - SECONCI - SP",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2705982",
+      "nome": "Banco de Leite Humano da Santa Casa de Franca",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2792176",
+      "nome": "Banco de Leite Humano do Hospital Geral de Itapecerica da Serra",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2082187",
+      "nome": "Banco de Leite Humano Enfa. Anália Heck - HC Ribeirão Preto - USP",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2080273",
+      "nome": "Banco de Leite Humano Dona Maria Lucia Alckimin",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2079720",
+      "nome": "Banco de Leite Humano Keiko Miyasaki Teruya",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2058502",
+      "nome": "Banco de Leite Humano do Hospital do Servidor Público Estadual",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2065665",
+      "nome": "Banco de Leite Humano do Hospital Maternidade Interlagos Waldemar Seyssel-Arrel",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2066092",
+      "nome": "Banco de Leite Humano do Hospital Geral de Pedreira",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2076926",
+      "nome": "Banco de Leite Humano do Hospital Universitário da USP",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2077523",
+      "nome": "Banco de Leite Humano do Hospital Ipiranga",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2077671",
+      "nome": "Banco de Leite Humano Gabriela Andrade",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2077701",
+      "nome": "Banco de Leite Humano Maria José Guardia Mattar - Hosp. Mat. Leonor M. Barros",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2078015",
+      "nome": "BLH do Centro Neonatal do Instituto da Criança e do Adolescente do HCFMUSP",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2079186",
+      "nome": "Banco de Leite Humano Cachoeirinha",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2082829",
+      "nome": "Banco de Leite Humano do Hospital Municipal Prof. Dr. Alípio Correa Netto",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2688689",
+      "nome": "Banco de Leite Humano da Santa Casa de São Paulo Hospital Central São Paulo",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2786680",
+      "nome": "Banco de Leite Humano do Hospital Municipal do Campo Limpo",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-6095666",
+      "nome": "Banco de Leite Humano de Barueri",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2081695",
+      "nome": "Banco de Leite Humano do Conjunto Hospitalar de Sorocaba",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2080664",
+      "nome": "Banco de Leite Humano Nossa Senhora de Chartres",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-3255603",
+      "nome": "Banco de Leite Humano de São Sebastião",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-6512089",
+      "nome": "Banco de Leite Humano de Taubaté",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "sp-blh-cnes-2716119",
+      "nome": "Banco de Leite Humano de Votuporanga",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "to-blh-cnes-2755165",
+      "nome": "Banco de leite Humano do Hospital Dom Orione",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "to-blh-cnes-2786109",
+      "nome": "Banco de Leite Humano do Hospital Regional Público de Gurupi",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "to-blh-cnes-2755157",
+      "nome": "Banco de Leite Humano do Hospital e Maternidade Pública Dona Regina",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    }
+  ],
+  "acoes": [
+    {
+      "id": "ac-blh-cnes-2000296",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ac-blh-cnes-2000733",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "al-blh-cnes-2005050",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "al-blh-cnes-2009250",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "al-blh-cnes-2010631",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "al-blh-cnes-2010151",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "am-blh-cnes-2019558",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "am-blh-cnes-3004104",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "am-blh-cnes-3151794",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ap-blh-cnes-2020068",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-2799278",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-2804034",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-2525569",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-3972925",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-6602533",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-6923356",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-0003794",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-0003859",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-0004731",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-3956369",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ba-blh-cnes-2402564",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-2564211",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-2481286",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-2497654",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-2499363",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-2563681",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-6848710",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-7280416",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-2806215",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ce-blh-cnes-2328399",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-0010464",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-0010472",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-0010480",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-0010499",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-0010502",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-0010529",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-0010537",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-0010545",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-2645157",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-blh-cnes-5717515",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-pclh-samambaia",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-pclh-sao-sebastiao",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "df-pclh-riacho-fundo-i",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "es-blh-cnes-2448521",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "es-blh-cnes-2485966",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "es-blh-cnes-2485729",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "es-blh-cnes-2678179",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "es-blh-cnes-0011746",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "es-blh-cnes-0012017",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "go-blh-cnes-2361787",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "go-blh-cnes-9661190",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "go-blh-cnes-2338564",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "go-blh-cnes-2339196",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ma-blh-cnes-2453665",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ma-blh-cnes-2452383",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ma-blh-cnes-2309254",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-0026794",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-0026972",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2126494",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2119420",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2222043",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2153351",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2219638",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2775999",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2195437",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2201666",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2761041",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mg-blh-cnes-2099454",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ms-blh-cnes-0009717",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ms-blh-cnes-0009725",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ms-blh-cnes-0009768",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mt-blh-cnes-2659107",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mt-blh-cnes-2767953",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "mt-blh-cnes-2396866",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pa-blh-cnes-9461493",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pa-blh-cnes-2752700",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pa-blh-cnes-2678403",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pa-blh-cnes-2619717",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pa-blh-cnes-5703425",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pa-blh-cnes-2615746",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pb-blh-cnes-2362287",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pb-blh-cnes-2613476",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pb-blh-cnes-2603802",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pb-blh-cnes-2399644",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pb-blh-cnes-2707527",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pb-blh-cnes-2605414",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pe-blh-cnes-4306945",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pe-blh-cnes-2430711",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pe-blh-cnes-0000418",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pe-blh-cnes-0000434",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pe-blh-cnes-0000701",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pe-blh-cnes-2427427",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pe-blh-cnes-2711613",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pe-blh-cnes-7958838",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pi-blh-cnes-2323397",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-2439360",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-0014109",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-2738368",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-0015245",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-0015369",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-2591049",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-2741989",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-6542638",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-4056752",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-2781859",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-2587335",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-0017884",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-2753278",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "pr-blh-cnes-3005011",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2298317",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2290227",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2271826",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2275562",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2269945",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2270390",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2270609",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2270714",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2280248",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-2295407",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-7041624",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-6518893",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rj-blh-cnes-0025135",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rn-blh-cnes-2665778",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rn-blh-cnes-4093577",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rn-blh-cnes-2408570",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rn-blh-cnes-2409208",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rn-blh-cnes-2679469",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rn-blh-cnes-2473380",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "ro-blh-cnes-4001303",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rr-blh-cnes-2566168",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rs-blh-cnes-2241021",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rs-blh-cnes-2223538",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rs-blh-cnes-2261987",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rs-blh-cnes-2261057",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rs-blh-cnes-2237253",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rs-blh-cnes-2237822",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rs-blh-cnes-2259907",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "rs-blh-cnes-2254611",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-3137392",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2303892",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2537788",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2594277",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2302101",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-0019283",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2691868",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2436477",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2504332",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2379341",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2555646",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2491710",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2522691",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2306344",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sc-blh-cnes-2521695",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "se-blh-marly-sarney",
+      "action": "unchanged",
+      "existeNoFirebase": true,
+      "ativoPersistido": false,
+      "publicadoPersistido": false,
+      "coordenadasVerificadasPersistidas": false,
+      "criadoEm": "2026-11-11T07:45:49.701000+00:00",
+      "atualizadoEm": "2026-11-11T07:45:49.701000+00:00",
+      "criadoNoFirestoreEm": "2026-11-11T07:45:49.718879+00:00",
+      "ultimaGravacaoFirestoreEm": "2026-11-11T07:45:49.718879+00:00"
+    },
+    {
+      "id": "se-blh-irma-rafaela-pepel",
+      "action": "unchanged",
+      "existeNoFirebase": true,
+      "ativoPersistido": false,
+      "publicadoPersistido": false,
+      "coordenadasVerificadasPersistidas": false,
+      "criadoEm": "2026-11-11T07:45:49.929000+00:00",
+      "atualizadoEm": "2026-11-11T07:45:49.929000+00:00",
+      "criadoNoFirestoreEm": "2026-11-11T07:45:49.951062+00:00",
+      "ultimaGravacaoFirestoreEm": "2026-11-11T07:45:49.951062+00:00"
+    },
+    {
+      "id": "se-blh-zoed-bittencourt",
+      "action": "unchanged",
+      "existeNoFirebase": true,
+      "ativoPersistido": false,
+      "publicadoPersistido": false,
+      "coordenadasVerificadasPersistidas": false,
+      "criadoEm": "2026-11-11T07:45:50.162000+00:00",
+      "atualizadoEm": "2026-11-11T07:45:50.162000+00:00",
+      "criadoNoFirestoreEm": "2026-11-11T07:45:50.179662+00:00",
+      "ultimaGravacaoFirestoreEm": "2026-11-11T07:45:50.179662+00:00"
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "action": "unchanged",
+      "existeNoFirebase": true,
+      "ativoPersistido": false,
+      "publicadoPersistido": false,
+      "coordenadasVerificadasPersistidas": false,
+      "criadoEm": "2026-11-11T07:45:50.394000+00:00",
+      "atualizadoEm": "2026-11-11T07:45:50.394000+00:00",
+      "criadoNoFirestoreEm": "2026-11-11T07:45:50.416255+00:00",
+      "ultimaGravacaoFirestoreEm": "2026-11-11T07:45:50.416255+00:00"
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "action": "unchanged",
+      "existeNoFirebase": true,
+      "ativoPersistido": false,
+      "publicadoPersistido": false,
+      "coordenadasVerificadasPersistidas": false,
+      "criadoEm": "2026-11-11T07:45:50.625000+00:00",
+      "atualizadoEm": "2026-11-11T07:45:50.625000+00:00",
+      "criadoNoFirestoreEm": "2026-11-11T07:45:50.645954+00:00",
+      "ultimaGravacaoFirestoreEm": "2026-11-11T07:45:50.645954+00:00"
+    },
+    {
+      "id": "sp-blh-cnes-2077566",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-5366828",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2791781",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2022621",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-7184956",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-3843076",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2027186",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2081091",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2791722",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-3012212",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2081458",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-4844637",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2086050",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2080052",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-0008036",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2038668",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2078503",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-9297715",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2087057",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-7247141",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2082888",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-6020917",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2027356",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2080931",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2705648",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-0009628",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2083094",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2748223",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2079798",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2089327",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2792141",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2705982",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2792176",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2082187",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2080273",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2079720",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2058502",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2065665",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2066092",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2076926",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2077523",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2077671",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2077701",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2078015",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2079186",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2082829",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2688689",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2786680",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-6095666",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2081695",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2080664",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-3255603",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-6512089",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "sp-blh-cnes-2716119",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "to-blh-cnes-2755165",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "to-blh-cnes-2786109",
+      "action": "create",
+      "existeNoFirebase": false
+    },
+    {
+      "id": "to-blh-cnes-2755157",
+      "action": "create",
+      "existeNoFirebase": false
+    }
+  ],
+  "modoAplicacao": false,
+  "gravacaoExecutada": false,
+  "politica": "create-only",
+  "resumoAcoes": {
+    "create": 210,
+    "unchanged": 5
+  }
+}

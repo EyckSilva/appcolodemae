@@ -1,0 +1,104 @@
+[
+  {
+    "id": "to-blh-cnes-2755165",
+    "nome": "Banco de leite Humano do Hospital Dom Orione",
+    "tipo": "BLH",
+    "cidade": "ARAGUAINA",
+    "estado": "TO",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 208,
+      "cnesInformadoNoAnexo": "2755165",
+      "mantenedora": "Hospital Dom Orione",
+      "municipioEntidade": "Palmas",
+      "municipioBLH": "ARAGUAINA",
+      "nomeNoAnexo": "Banco de leite Humano do Hospital Dom Orione",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "to-blh-cnes-2786109",
+    "nome": "Banco de Leite Humano do Hospital Regional Público de Gurupi",
+    "tipo": "BLH",
+    "cidade": "GURUPI",
+    "estado": "TO",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 209,
+      "cnesInformadoNoAnexo": "2786109",
+      "mantenedora": "Hospital Regional de Gurupi",
+      "municipioEntidade": "Palmas",
+      "municipioBLH": "GURUPI",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Regional Público de Gurupi",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "to-blh-cnes-2755157",
+    "nome": "Banco de Leite Humano do Hospital e Maternidade Pública Dona Regina",
+    "tipo": "BLH",
+    "cidade": "PALMAS",
+    "estado": "TO",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 210,
+      "cnesInformadoNoAnexo": "2755157",
+      "mantenedora": "Hospital e Maternidade Pública Dona Regina",
+      "municipioEntidade": "Palmas",
+      "municipioBLH": "PALMAS",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital e Maternidade Pública Dona Regina",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  }
+]

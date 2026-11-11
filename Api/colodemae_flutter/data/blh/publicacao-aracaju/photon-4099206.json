@@ -1,0 +1,166 @@
+{
+  "fonte": "https://photon.komoot.io/reverse?lat=-10.999583128695352&lon=-37.100241600455675&limit=5",
+  "consultadoEm": "2026-11-11T16:36:22.707915+00:00",
+  "resposta": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1004397878,
+          "osm_key": "highway",
+          "osm_value": "tertiary",
+          "type": "street",
+          "name": "Avenida João Batista Costa",
+          "district": "17 de Março",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49003-328",
+          "countrycode": "BR",
+          "extent": [
+            -37.1015854,
+            -10.9972812,
+            -37.0993164,
+            -11.0017319
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.1004545,
+            -10.9995047
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 841076721,
+          "osm_key": "building",
+          "osm_value": "hospital",
+          "type": "house",
+          "name": "Maternidade do 17 de Março",
+          "street": "Avenida João Batista Costa",
+          "district": "17 de Março",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49003-328",
+          "countrycode": "BR",
+          "extent": [
+            -37.1004748,
+            -10.9995376,
+            -37.0999221,
+            -11.0001219
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.1001997,
+            -10.9998136
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 667605727,
+          "osm_key": "highway",
+          "osm_value": "residential",
+          "type": "street",
+          "name": "Rua Promotora Maria da Conceição Ribeiro",
+          "district": "17 de Março",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49003-328",
+          "countrycode": "BR",
+          "extent": [
+            -37.1004607,
+            -10.9992453,
+            -37.0994633,
+            -10.9997517
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0999603,
+            -10.999495
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 1004397876,
+          "osm_key": "highway",
+          "osm_value": "tertiary",
+          "type": "street",
+          "name": "Avenida Vereador Manoel Nunes Resende",
+          "district": "17 de Março",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49003-328",
+          "countrycode": "BR",
+          "extent": [
+            -37.1019204,
+            -10.9972154,
+            -37.0994443,
+            -11.0021078
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.1006833,
+            -10.9996612
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 165358230,
+          "osm_key": "highway",
+          "osm_value": "residential",
+          "type": "street",
+          "name": "Acesso 14",
+          "district": "17 de Março",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49003-328",
+          "countrycode": "BR",
+          "extent": [
+            -37.1001461,
+            -10.9988943,
+            -37.0992532,
+            -10.9993369
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0996997,
+            -10.9991156
+          ]
+        }
+      }
+    ]
+  },
+  "coordenadasFornecidas": {
+    "latitude": -10.999583128695352,
+    "longitude": -37.100241600455675
+  },
+  "aprovadoAutomaticamente": false,
+  "atribuicao": "OpenStreetMap contributors; ODbL; https://www.openstreetmap.org/copyright"
+}

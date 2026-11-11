@@ -1,0 +1,1048 @@
+{
+  "geradoEm": "2026-11-11T08:40:37.571209+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "c71eaed3cadbf94e46a7b6f2e8b344ec07c25e78f4b924c7fbe3bc5d5d149af4",
+  "hashEnderecos": "8aabdfee41af154a9de4359c5948f565521e92ebbafc6c5805103cc5abfa874a",
+  "unidades": [
+    {
+      "id": "df-blh-cnes-0010464",
+      "nome": "Banco de Leite Humano do Hospital Regional da Asa Norte",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-0010464",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010472",
+      "nome": "Banco de Leite Humano do Hosp. R. do Gama",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-0010472",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010480",
+      "nome": "Banco de Leite Humano do Hospital Regional de Ceilândia",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-0010480",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010499",
+      "nome": "Banco de Leite Humano do Hospital Regional de Taguatinga",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-0010499",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010502",
+      "nome": "Banco de Leite Humano do Hosp. R. de Sobradinho",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-0010502",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010529",
+      "nome": "Banco de Leite Humano do Hosp. R. de Planaltina",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-0010529",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010537",
+      "nome": "Banco de Leite Humano do Hospital Materno Infantil de Brasília",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-0010537",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-0010545",
+      "nome": "Banco de Leite Humano do Hospital Regional de Brazlândia",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-0010545",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-2645157",
+      "nome": "Banco de Leite Humano do Hospital Regional do Paranoá",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-2645157",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-blh-cnes-5717515",
+      "nome": "Banco de Leite Humano do Hospital Regional de Santa Maria",
+      "estado": "DF",
+      "cidade": "BRASILIA",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-blh-cnes-5717515",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-pclh-samambaia",
+      "nome": "Posto de Coleta de Samambaia – PCLH HRSAM",
+      "estado": "DF",
+      "cidade": "Brasília",
+      "enderecoPesquisa": "QS 614, conjunto C, lotes 1 e 2, Samambaia Norte, Distrito Federal, Brasília, DF, Brasil",
+      "fonteEndereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-pclh-samambaia",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+            "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [
+        {
+          "texto": "QS 614, conjunto C, lotes 1 e 2, Samambaia Norte, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=QS+614%2C+conjunto+C%2C+lotes+1+e+2%2C+Samambaia+Norte%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T08:24:01.548283+00:00"
+        }
+      ],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [
+        {
+          "texto": "QS 614, conjunto C, lotes 1 e 2, Samambaia Norte, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=QS+614%2C+conjunto+C%2C+lotes+1+e+2%2C+Samambaia+Norte%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T08:24:01.548283+00:00"
+        },
+        {
+          "texto": "Posto de Coleta de Samambaia – PCLH HRSAM, QS 614, conjunto C, lotes 1 e 2, Samambaia Norte, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Posto+de+Coleta+de+Samambaia+%E2%80%93+PCLH+HRSAM%2C+QS+614%2C+conjunto+C%2C+lotes+1+e+2%2C+Samambaia+Norte%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": null
+        }
+      ],
+      "erros": [
+        "Cache ausente/expirado; pesquisa online não executada."
+      ],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+        "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-pclh-sao-sebastiao",
+      "nome": "Posto de Coleta de São Sebastião – PCLH SS",
+      "estado": "DF",
+      "cidade": "Brasília",
+      "enderecoPesquisa": "Centro de Múltiplas Atividades, 10, São Sebastião, Distrito Federal, Brasília, DF, Brasil",
+      "fonteEndereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-pclh-sao-sebastiao",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+            "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [
+        {
+          "texto": "Centro de Múltiplas Atividades, 10, São Sebastião, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Centro+de+M%C3%BAltiplas+Atividades%2C+10%2C+S%C3%A3o+Sebasti%C3%A3o%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T08:24:03.548530+00:00"
+        }
+      ],
+      "confianca": "nao_encontrado",
+      "candidatos": [
+        {
+          "candidatoId": "da8e73fb2bbdf683",
+          "nomeRetornado": "Escola Classe 303 de São Sebastião",
+          "latitude": -15.9034756,
+          "longitude": -47.7818539,
+          "fonte": "https://www.openstreetmap.org/way/399736816",
+          "consulta": "https://photon.komoot.io/api/?q=Centro+de+M%C3%BAltiplas+Atividades%2C+10%2C+S%C3%A3o+Sebasti%C3%A3o%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 399736816,
+            "osm_key": "amenity",
+            "osm_value": "school",
+            "type": "house",
+            "name": "Escola Classe 303 de São Sebastião",
+            "street": "Quadra 303",
+            "district": "Setor Residencial Oeste Sao Sebastiao",
+            "city": "Brasília",
+            "state": "Federal District",
+            "country": "Brazil",
+            "postcode": "71692-805",
+            "countrycode": "BR",
+            "extent": [
+              -47.7824888,
+              -15.9029015,
+              -47.7812203,
+              -15.9040445
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Estado divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-15.9034756%2C-47.7818539",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-15.9034756&mlon=-47.7818539#map=18/-15.9034756/-47.7818539",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/399736816"
+        },
+        {
+          "candidatoId": "3a837aeb39b6dad2",
+          "nomeRetornado": "Escola Classe 104 de São Sebastião",
+          "latitude": -15.8958501,
+          "longitude": -47.7825772,
+          "fonte": "https://www.openstreetmap.org/way/399737102",
+          "consulta": "https://photon.komoot.io/api/?q=Centro+de+M%C3%BAltiplas+Atividades%2C+10%2C+S%C3%A3o+Sebasti%C3%A3o%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 399737102,
+            "osm_key": "amenity",
+            "osm_value": "school",
+            "type": "house",
+            "name": "Escola Classe 104 de São Sebastião",
+            "street": "Quadra 104",
+            "locality": "Quadra 104",
+            "district": "Setor Residencial Oeste Sao Sebastiao",
+            "city": "Brasília",
+            "state": "Federal District",
+            "country": "Brazil",
+            "postcode": "71692-300",
+            "countrycode": "BR",
+            "extent": [
+              -47.7831476,
+              -15.8953012,
+              -47.7820059,
+              -15.896431
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Estado divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-15.8958501%2C-47.7825772",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-15.8958501&mlon=-47.7825772#map=18/-15.8958501/-47.7825772",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/399737102"
+        },
+        {
+          "candidatoId": "8de5f0f0759e3850",
+          "nomeRetornado": "CEI 01 de São Sebastião",
+          "latitude": -15.9006578,
+          "longitude": -47.7761983,
+          "fonte": "https://www.openstreetmap.org/way/399735801",
+          "consulta": "https://photon.komoot.io/api/?q=Centro+de+M%C3%BAltiplas+Atividades%2C+10%2C+S%C3%A3o+Sebasti%C3%A3o%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 399735801,
+            "osm_key": "amenity",
+            "osm_value": "kindergarten",
+            "type": "house",
+            "name": "CEI 01 de São Sebastião",
+            "street": "Quadra 101",
+            "locality": "Quadra 101",
+            "district": "Setor Residencial Oeste Sao Sebastiao",
+            "city": "Brasília",
+            "state": "Federal District",
+            "country": "Brazil",
+            "postcode": "71692-050",
+            "countrycode": "BR",
+            "extent": [
+              -47.7765572,
+              -15.9003183,
+              -47.7758375,
+              -15.9009946
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Estado divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-15.9006578%2C-47.7761983",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-15.9006578&mlon=-47.7761983#map=18/-15.9006578/-47.7761983",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/399735801"
+        },
+        {
+          "candidatoId": "d4a50305e7f8625d",
+          "nomeRetornado": "Escola São Francisco de Sales",
+          "latitude": -15.8866268,
+          "longitude": -47.8014738,
+          "fonte": "https://www.openstreetmap.org/way/1552026693",
+          "consulta": "https://photon.komoot.io/api/?q=Centro+de+M%C3%BAltiplas+Atividades%2C+10%2C+S%C3%A3o+Sebasti%C3%A3o%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 1552026693,
+            "osm_key": "amenity",
+            "osm_value": "school",
+            "type": "house",
+            "name": "Escola São Francisco de Sales",
+            "street": "EQ 09/10",
+            "district": "Jardim Botanico 3",
+            "city": "Brasília",
+            "state": "Federal District",
+            "country": "Brazil",
+            "postcode": "71681-515",
+            "countrycode": "BR",
+            "extent": [
+              -47.8017274,
+              -15.886272,
+              -47.8011862,
+              -15.8868696
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Estado divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-15.8866268%2C-47.8014738",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-15.8866268&mlon=-47.8014738#map=18/-15.8866268/-47.8014738",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/1552026693"
+        },
+        {
+          "candidatoId": "3b59718e0253acd3",
+          "nomeRetornado": "Centro de Ensino Fundamental Cerâmica São Paulo",
+          "latitude": -15.8876599,
+          "longitude": -47.7788405,
+          "fonte": "https://www.openstreetmap.org/way/399741067",
+          "consulta": "https://photon.komoot.io/api/?q=Centro+de+M%C3%BAltiplas+Atividades%2C+10%2C+S%C3%A3o+Sebasti%C3%A3o%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 399741067,
+            "osm_key": "amenity",
+            "osm_value": "school",
+            "type": "house",
+            "housenumber": "101",
+            "name": "Centro de Ensino Fundamental Cerâmica São Paulo",
+            "street": "Rua 1",
+            "district": "Setor Tradicional Sao Sebastiao",
+            "city": "Brasília",
+            "state": "Federal District",
+            "country": "Brazil",
+            "postcode": "71691-101",
+            "countrycode": "BR",
+            "extent": [
+              -47.7793114,
+              -15.8872449,
+              -47.7783738,
+              -15.8881042
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Estado divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Número retornado diverge do endereço oficial de pesquisa",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-15.8876599%2C-47.7788405",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-15.8876599&mlon=-47.7788405#map=18/-15.8876599/-47.7788405",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/399741067"
+        }
+      ],
+      "consultas": [
+        {
+          "texto": "Centro de Múltiplas Atividades, 10, São Sebastião, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Centro+de+M%C3%BAltiplas+Atividades%2C+10%2C+S%C3%A3o+Sebasti%C3%A3o%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T08:24:03.548530+00:00"
+        },
+        {
+          "texto": "Posto de Coleta de São Sebastião – PCLH SS, Centro de Múltiplas Atividades, 10, São Sebastião, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Posto+de+Coleta+de+S%C3%A3o+Sebasti%C3%A3o+%E2%80%93+PCLH+SS%2C+Centro+de+M%C3%BAltiplas+Atividades%2C+10%2C+S%C3%A3o+Sebasti%C3%A3o%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": null
+        }
+      ],
+      "erros": [
+        "Cache ausente/expirado; pesquisa online não executada."
+      ],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+        "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "df-pclh-riacho-fundo-i",
+      "nome": "Posto de Coleta de Riacho Fundo I – PCLH RFI",
+      "estado": "DF",
+      "cidade": "Brasília",
+      "enderecoPesquisa": "QN 1, conjunto 32, Riacho Fundo I, Distrito Federal, Brasília, DF, Brasil",
+      "fonteEndereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/DF/coordenadas.candidatas.json",
+        "hashRelatorio": "30ae70545d215819c09dbe59863978ef877b3dc19c63fec31fcbea1cf60e5e4a",
+        "revisao": "data/blh/nacional/DF/aprovacao-manual.json",
+        "hashRevisao": "829517ec6dc0f3e2e90ab8263f1f8ea044b19c31de8428221e5b5cf9e68cd1ed",
+        "decisaoAnterior": {
+          "id": "df-pclh-riacho-fundo-i",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Confirmar endereço completo, CEP, horário e funcionamento atual",
+            "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [
+        {
+          "texto": "QN 1, conjunto 32, Riacho Fundo I, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=QN+1%2C+conjunto+32%2C+Riacho+Fundo+I%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T08:24:05.548839+00:00"
+        }
+      ],
+      "confianca": "nao_encontrado",
+      "candidatos": [
+        {
+          "candidatoId": "9f224d0bde3e3842",
+          "nomeRetornado": "QN 32 Conjunto 10",
+          "latitude": -15.9011191,
+          "longitude": -48.0365859,
+          "fonte": "https://www.openstreetmap.org/way/443826753",
+          "consulta": "https://photon.komoot.io/api/?q=QN+1%2C+conjunto+32%2C+Riacho+Fundo+I%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 443826753,
+            "osm_key": "landuse",
+            "osm_value": "residential",
+            "type": "locality",
+            "name": "QN 32 Conjunto 10",
+            "street": "QN 32",
+            "district": "Riacho Fundo 2",
+            "city": "Brasília",
+            "state": "Federal District",
+            "country": "Brazil",
+            "countrycode": "BR",
+            "extent": [
+              -48.0371799,
+              -15.9003283,
+              -48.0360264,
+              -15.9017386
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Estado divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-15.9011191%2C-48.0365859",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-15.9011191&mlon=-48.0365859#map=18/-15.9011191/-48.0365859",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/443826753"
+        }
+      ],
+      "consultas": [
+        {
+          "texto": "QN 1, conjunto 32, Riacho Fundo I, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=QN+1%2C+conjunto+32%2C+Riacho+Fundo+I%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T08:24:05.548839+00:00"
+        },
+        {
+          "texto": "Posto de Coleta de Riacho Fundo I – PCLH RFI, QN 1, conjunto 32, Riacho Fundo I, Distrito Federal, Brasília, DF, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Posto+de+Coleta+de+Riacho+Fundo+I+%E2%80%93+PCLH+RFI%2C+QN+1%2C+conjunto+32%2C+Riacho+Fundo+I%2C+Distrito+Federal%2C+Bras%C3%ADlia%2C+DF%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": null
+        }
+      ],
+      "erros": [
+        "Cache ausente/expirado; pesquisa online não executada."
+      ],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço completo, CEP, horário e funcionamento atual",
+        "Geocodificar endereço oficial e validar manualmente o ponto da unidade",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ],
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "bf1171edcc7c8fc512633097180cf4a2fa7ebb9d1256ffaf337c01629346639e"
+}

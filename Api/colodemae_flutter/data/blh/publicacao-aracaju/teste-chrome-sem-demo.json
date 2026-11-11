@@ -1,0 +1,10 @@
+{
+  "comando": "flutter run -d chrome --debug --no-pub --web-port=8765",
+  "BLH_DEMO_definido": false,
+  "resultado": "Compilacao iniciada, Chrome conectado ao debug service, entrypoint main iniciado sem excecao observada; aplicacao encerrada ao fim do teste.",
+  "loginRealComCredenciais": "nao_executado",
+  "exibicaoRealDasTresUnidades": "pendente_autorizacao_e_publicacao",
+  "testeDeWidgetsSemDemo": "68 testes Flutter passaram, incluindo projecao publicada simulada e fluxo municipal sem flag.",
+  "gravacaoFirebase": false,
+  "registradoEm": "2026-11-11T16:54:09.863658+00:00"
+}

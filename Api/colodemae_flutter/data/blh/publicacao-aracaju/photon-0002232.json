@@ -1,0 +1,170 @@
+{
+  "fonte": "https://photon.komoot.io/reverse?lat=-10.902491696685145&lon=-37.062623903449044&limit=5",
+  "consultadoEm": "2026-11-11T16:36:26.778105+00:00",
+  "resposta": {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 292330063,
+          "osm_key": "amenity",
+          "osm_value": "hospital",
+          "type": "house",
+          "name": "Hospital Santa Isabel",
+          "street": "Rua Deodato Maia",
+          "locality": "Loteamento Residencial Porto Ricco",
+          "district": "18 do Forte",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49072-490",
+          "countrycode": "BR",
+          "extent": [
+            -37.0632859,
+            -10.9021746,
+            -37.062216,
+            -10.9034155
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0629984,
+            -10.9030289
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 82695291,
+          "osm_key": "highway",
+          "osm_value": "residential",
+          "type": "street",
+          "name": "Rua Deodato Maia",
+          "locality": "Loteamento Residencial Porto Ricco",
+          "district": "18 do Forte",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49072-490",
+          "countrycode": "BR",
+          "extent": [
+            -37.0648862,
+            -10.9019284,
+            -37.0612946,
+            -10.9030395
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0631389,
+            -10.9019312
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 82695299,
+          "osm_key": "highway",
+          "osm_value": "residential",
+          "type": "street",
+          "name": "Travessa Monte Castelo",
+          "district": "18 do Forte",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49072-490",
+          "countrycode": "BR",
+          "extent": [
+            -37.0623993,
+            -10.9009336,
+            -37.0619166,
+            -10.9022918
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0619196,
+            -10.9015254
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 167282521,
+          "osm_key": "highway",
+          "osm_value": "residential",
+          "type": "street",
+          "name": "Avenida Minas Gerais",
+          "district": "Santo Antônio",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49072-490",
+          "countrycode": "BR",
+          "extent": [
+            -37.0618177,
+            -10.9030673,
+            -37.0613217,
+            -10.9038263
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0615586,
+            -10.9034547
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "osm_type": "W",
+          "osm_id": 292330064,
+          "osm_key": "amenity",
+          "osm_value": "hospital",
+          "type": "house",
+          "name": "Hospital da Polícia Militar",
+          "street": "Avenida Minas Gerais",
+          "locality": "Loteamento Residencial Porto Ricco",
+          "district": "18 do Forte",
+          "city": "Aracaju",
+          "state": "Sergipe",
+          "country": "Brasil",
+          "postcode": "49072-490",
+          "countrycode": "BR",
+          "extent": [
+            -37.0640719,
+            -10.9035089,
+            -37.0629806,
+            -10.904259
+          ]
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -37.0635275,
+            -10.9037176
+          ]
+        }
+      }
+    ]
+  },
+  "coordenadasFornecidas": {
+    "latitude": -10.902491696685145,
+    "longitude": -37.062623903449044
+  },
+  "aprovadoAutomaticamente": false,
+  "atribuicao": "OpenStreetMap contributors; ODbL; https://www.openstreetmap.org/copyright"
+}

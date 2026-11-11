@@ -1,3 +1,5 @@
+import 'dart:async';
+
 import 'package:flutter/material.dart';
 
 import '../../app/theme/app_palette.dart';
@@ -13,7 +15,9 @@ class SplashScreen extends StatefulWidget {
   State<SplashScreen> createState() => _SplashScreenState();
 }
 
-class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMixin {
+class _SplashScreenState extends State<SplashScreen>
+    with TickerProviderStateMixin {
+  Timer? _timer;
   late final AnimationController _floatController = AnimationController(
     vsync: this,
     duration: const Duration(seconds: 3),
@@ -27,11 +31,12 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
   @override
   void initState() {
     super.initState();
-    Future.delayed(const Duration(milliseconds: 2600), widget.onDone);
+    _timer = Timer(const Duration(milliseconds: 2600), widget.onDone);
   }
 
   @override
   void dispose() {
+    _timer?.cancel();
     _floatController.dispose();
     _pulseController.dispose();
     super.dispose();
@@ -41,60 +46,78 @@ class _SplashScreenState extends State<SplashScreen> with TickerProviderStateMix
   Widget build(BuildContext context) {
     final palette = context.palette;
 
-    return Container(
-      decoration: BoxDecoration(
-        gradient: LinearGradient(
-          begin: Alignment.topLeft,
-          end: Alignment.bottomRight,
-          colors: [palette.peachSoft, palette.lilacSoft, palette.roseSoft],
-          stops: const [0, 0.6, 1],
+    return Material(
+      type: MaterialType.transparency,
+      child: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [palette.peachSoft, palette.lilacSoft, palette.roseSoft],
+            stops: const [0, 0.6, 1],
+          ),
         ),
-      ),
-      child: Column(
-        mainAxisAlignment: MainAxisAlignment.center,
-        children: [
-          AnimatedBuilder(
-            animation: _floatController,
-            builder: (context, child) {
-              final dy = -6 * Curves.easeInOut.transform(_floatController.value);
-              return Transform.translate(offset: Offset(0, dy), child: child);
-            },
-            child: const SplashIllustration(size: 128),
-          ),
-          const SizedBox(height: 32),
-          Text(
-            'Colo de Mãe',
-            style: TextStyle(fontSize: 34, fontWeight: FontWeight.w900, color: palette.textPrimary, height: 1),
-          ),
-          const SizedBox(height: 6),
-          Text(
-            'apoio, amor e amamentação',
-            style: TextStyle(
-              fontSize: 14,
-              fontWeight: FontWeight.w700,
-              fontStyle: FontStyle.italic,
-              color: palette.textMuted,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            AnimatedBuilder(
+              animation: _floatController,
+              builder: (context, child) {
+                final dy =
+                    -6 * Curves.easeInOut.transform(_floatController.value);
+                return Transform.translate(offset: Offset(0, dy), child: child);
+              },
+              child: const SplashIllustration(size: 128),
             ),
-          ),
-          const SizedBox(height: 28),
-          Row(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              _PulseDot(controller: _pulseController, delay: 0, color: palette.rose),
-              const SizedBox(width: 10),
-              _PulseDot(controller: _pulseController, delay: 150, color: palette.lilac),
-              const SizedBox(width: 10),
-              _PulseDot(controller: _pulseController, delay: 300, color: palette.peach),
-            ],
-          ),
-        ],
+            const SizedBox(height: 32),
+            Text(
+              'Colo de Mãe',
+              style: TextStyle(
+                  fontSize: 34,
+                  fontWeight: FontWeight.w900,
+                  color: palette.textPrimary,
+                  height: 1),
+            ),
+            const SizedBox(height: 6),
+            Text(
+              'apoio, amor e amamentação',
+              style: TextStyle(
+                fontSize: 14,
+                fontWeight: FontWeight.w700,
+                fontStyle: FontStyle.italic,
+                color: palette.textMuted,
+              ),
+            ),
+            const SizedBox(height: 28),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.center,
+              children: [
+                _PulseDot(
+                    controller: _pulseController,
+                    delay: 0,
+                    color: palette.rose),
+                const SizedBox(width: 10),
+                _PulseDot(
+                    controller: _pulseController,
+                    delay: 150,
+                    color: palette.lilac),
+                const SizedBox(width: 10),
+                _PulseDot(
+                    controller: _pulseController,
+                    delay: 300,
+                    color: palette.peach),
+              ],
+            ),
+          ],
+        ),
       ),
     );
   }
 }
 
 class _PulseDot extends StatelessWidget {
-  const _PulseDot({required this.controller, required this.delay, required this.color});
+  const _PulseDot(
+      {required this.controller, required this.delay, required this.color});
 
   final AnimationController controller;
   final int delay;

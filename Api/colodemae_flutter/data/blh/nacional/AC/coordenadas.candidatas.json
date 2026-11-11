@@ -1,0 +1,48 @@
+{
+  "geradoEm": "2026-11-11T08:24:00.738192+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "7a0687307529177b816d65760d1502c5e8513dc294d4795aae26813d877ae8fd",
+  "hashEnderecos": "9cd429fd18fb6918461f7af1c6ce006d5b78ecc2d5a07c38c9e5d8596715b97c",
+  "unidades": [
+    {
+      "id": "ac-blh-cnes-2000296",
+      "nome": "Banco de Leite do Hospital da Mulher e da Criança do Juruá (HMCJ)",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    },
+    {
+      "id": "ac-blh-cnes-2000733",
+      "nome": "Banco de Leite Humano da Maternidade e Clinica de Mulheres Bárbara Heliodora",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "enderecoOperacionalConfirmado": false,
+      "consultas": [],
+      "candidatos": [],
+      "erros": [],
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+      ]
+    }
+  ],
+  "requisicoesNestaExecucao": 0,
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "08d260cf246b2b5f20bea3b2a5532bddd8e611ee2be0c390b38bb47173b6e9e1"
+}

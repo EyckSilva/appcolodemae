@@ -1,0 +1,11 @@
+{
+  "origem": "Coordenadas fornecidas manualmente pelo responsável pelo projeto nesta conversa",
+  "servicoInformado": "Google Maps",
+  "aprovacaoGeograficaConcedida": false,
+  "autorizacaoProducaoConcedida": false,
+  "unidades": [
+    {"id": "se-blh-marly-sarney", "cnesEstabelecimento": "0002569", "relacaoCnes": "proprio", "latitude": -10.90619346346821, "longitude": -37.07967947461301},
+    {"id": "se-posto-maternidade-lourdes-nogueira", "cnesEstabelecimento": "4099206", "relacaoCnes": "mantenedora", "latitude": -10.999583128695352, "longitude": -37.100241600455675},
+    {"id": "se-posto-fernando-guedes-santa-isabel", "cnesEstabelecimento": "0002232", "relacaoCnes": "mantenedora", "latitude": -10.902491696685145, "longitude": -37.062623903449044}
+  ]
+}

@@ -1,0 +1,186 @@
+[
+  {
+    "chaveUnidade": "blh-cnes-2241021",
+    "nome": "Banco de Leite Ama Tacchini",
+    "tipo": "BLH",
+    "cidade": "BENTO GONCALVES",
+    "estado": "RS",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2223538",
+    "nome": "Banco de Leite Humano do Hospital Geral de Caxias do Sul",
+    "tipo": "BLH",
+    "cidade": "CAXIAS DO SUL",
+    "estado": "RS",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2261987",
+    "nome": "Banco de Leite Humano Santa Casa de Bagé",
+    "tipo": "BLH",
+    "cidade": "BAGE",
+    "estado": "RS",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2261057",
+    "nome": "Banco de Leite Humano do Hospital de Clínicas de Ijuí",
+    "tipo": "BLH",
+    "cidade": "IJUI",
+    "estado": "RS",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2237253",
+    "nome": "Banco de Leite Humano da Irmandade da Santa Casa de Misericórdia de Porto Alegre",
+    "tipo": "BLH",
+    "cidade": "PORTO ALEGRE",
+    "estado": "RS",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2237822",
+    "nome": "Banco de Leite Humano do Hospital Materno Infantil Presidente Vargas",
+    "tipo": "BLH",
+    "cidade": "PORTO ALEGRE",
+    "estado": "RS",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2259907",
+    "nome": "Banco de Leite Humano do Hospital Santo Ângelo",
+    "tipo": "BLH",
+    "cidade": "SANTO ANGELO",
+    "estado": "RS",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2254611",
+    "nome": "Banco de Leite Humano do Hospital Vida & Saúde",
+    "tipo": "BLH",
+    "cidade": "SANTA ROSA",
+    "estado": "RS",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  }
+]

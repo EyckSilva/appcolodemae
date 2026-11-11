@@ -1,0 +1,304 @@
+[
+  {
+    "chaveUnidade": "blh-cnes-0010464",
+    "nome": "Banco de Leite Humano do Hospital Regional da Asa Norte",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0010472",
+    "nome": "Banco de Leite Humano do Hosp. R. do Gama",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0010480",
+    "nome": "Banco de Leite Humano do Hospital Regional de Ceilândia",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0010499",
+    "nome": "Banco de Leite Humano do Hospital Regional de Taguatinga",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0010502",
+    "nome": "Banco de Leite Humano do Hosp. R. de Sobradinho",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0010529",
+    "nome": "Banco de Leite Humano do Hosp. R. de Planaltina",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0010537",
+    "nome": "Banco de Leite Humano do Hospital Materno Infantil de Brasília",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-0010545",
+    "nome": "Banco de Leite Humano do Hospital Regional de Brazlândia",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-2645157",
+    "nome": "Banco de Leite Humano do Hospital Regional do Paranoá",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "blh-cnes-5717515",
+    "nome": "Banco de Leite Humano do Hospital Regional de Santa Maria",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+    "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+    "fontesCampos": {
+      "nome": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "tipo": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "cidade": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "estado": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html"
+    },
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ]
+  },
+  {
+    "chaveUnidade": "pclh-samambaia",
+    "nome": "Posto de Coleta de Samambaia – PCLH HRSAM",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "QS 614, conjunto C, lotes 1 e 2, Samambaia Norte, Distrito Federal",
+    "telefone": "(61) 3449-6850",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+    "consultadoEm": "2026-11-11T08:21:10.882456+00:00",
+    "fontesCampos": {
+      "nome": "https://amamentabrasilia.saude.df.gov.br/",
+      "tipo": "https://amamentabrasilia.saude.df.gov.br/",
+      "endereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "telefone": "https://saude.df.gov.br/banco-de-leite"
+    },
+    "pendencias": [
+      "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ]
+  },
+  {
+    "chaveUnidade": "pclh-sao-sebastiao",
+    "nome": "Posto de Coleta de São Sebastião – PCLH SS",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "Centro de Múltiplas Atividades, 10, São Sebastião, Distrito Federal",
+    "telefone": "(61) 99164-3334",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+    "consultadoEm": "2026-11-11T08:21:10.882456+00:00",
+    "fontesCampos": {
+      "nome": "https://amamentabrasilia.saude.df.gov.br/",
+      "tipo": "https://amamentabrasilia.saude.df.gov.br/",
+      "endereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "telefone": "https://saude.df.gov.br/banco-de-leite"
+    },
+    "pendencias": [
+      "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ]
+  },
+  {
+    "chaveUnidade": "pclh-riacho-fundo-i",
+    "nome": "Posto de Coleta de Riacho Fundo I – PCLH RFI",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "endereco": "QN 1, conjunto 32, Riacho Fundo I, Distrito Federal",
+    "telefone": "(61) 98184-2098",
+    "ativo": false,
+    "coordenadasVerificadas": false,
+    "verificacao": "pendente",
+    "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+    "consultadoEm": "2026-11-11T08:21:10.882456+00:00",
+    "fontesCampos": {
+      "nome": "https://amamentabrasilia.saude.df.gov.br/",
+      "tipo": "https://amamentabrasilia.saude.df.gov.br/",
+      "endereco": "https://amamentabrasilia.saude.df.gov.br/",
+      "telefone": "https://saude.df.gov.br/banco-de-leite"
+    },
+    "pendencias": [
+      "Confirmar endereço completo, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ]
+  }
+]

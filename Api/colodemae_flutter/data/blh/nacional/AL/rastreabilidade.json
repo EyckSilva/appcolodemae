@@ -1,0 +1,138 @@
+[
+  {
+    "id": "al-blh-cnes-2005050",
+    "nome": "Banco de Leite Humano Ivete França Lima",
+    "tipo": "BLH",
+    "cidade": "ARAPIRACA",
+    "estado": "AL",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 3,
+      "cnesInformadoNoAnexo": "2005050",
+      "mantenedora": "Hospital Regional de Arapiraca",
+      "municipioEntidade": "Arapiraca",
+      "municipioBLH": "ARAPIRACA",
+      "nomeNoAnexo": "Banco de Leite Humano Ivete França Lima",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "al-blh-cnes-2009250",
+    "nome": "Banco de Leite Humano Dr. Carlos Roberto C. Perdigão",
+    "tipo": "BLH",
+    "cidade": "MACEIO",
+    "estado": "AL",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 4,
+      "cnesInformadoNoAnexo": "2009250",
+      "mantenedora": "Maternidade Escola Santa Monica",
+      "municipioEntidade": "Maceió",
+      "municipioBLH": "MACEIO",
+      "nomeNoAnexo": "Banco de Leite Humano Dr. Carlos Roberto C. Perdigão",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "al-blh-cnes-2010631",
+    "nome": "Banco de Leite Humano Dra. Kátia Born",
+    "tipo": "BLH",
+    "cidade": "PALMEIRA DOS INDIOS",
+    "estado": "AL",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 5,
+      "cnesInformadoNoAnexo": "2010631",
+      "mantenedora": "Hospital Regional Santa Rita e Maternidade Santa Olimpia",
+      "municipioEntidade": "Palmeira dos Índios",
+      "municipioBLH": "PALMEIRA DOS INDIOS",
+      "nomeNoAnexo": "Banco de Leite Humano Dra. Kátia Born",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "al-blh-cnes-2010151",
+    "nome": "Banco de Leite Humano da Santa Casa de Misericórdia de São Miguel dos Campos",
+    "tipo": "BLH",
+    "cidade": "SAO MIGUEL DOS CAMPOS",
+    "estado": "AL",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 6,
+      "cnesInformadoNoAnexo": "2010151",
+      "mantenedora": "Santa Casa de Misericórdia de São Miguel dos Campos",
+      "municipioEntidade": "São Miguel dos Campos",
+      "municipioBLH": "SAO MIGUEL DOS CAMPOS",
+      "nomeNoAnexo": "Banco de Leite Humano da Santa Casa de Misericórdia de São Miguel dos Campos",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  }
+]

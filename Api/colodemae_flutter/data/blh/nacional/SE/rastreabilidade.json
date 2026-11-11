@@ -1,0 +1,294 @@
+[
+  {
+    "id": "se-blh-marly-sarney",
+    "nome": "Banco de Leite Humano Marly Sarney",
+    "tipo": "BLH",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "classe": "ambiguos_conflitantes",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 3,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+      "Revalidar telefone de atendimento",
+      "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 151,
+      "cnesInformadoNoAnexo": "5714397",
+      "mantenedora": "Maternidade Nossa Senhora de Lourdes",
+      "municipioEntidade": "Aracaju",
+      "municipioBLH": "ARACAJU",
+      "nomeNoAnexo": "Banco de Leite Humano Marly Sarney",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": true
+    },
+    "relatorioGeografico": "../../geografia/sergipe.candidatas.json",
+    "aprovacaoManual": "../../geografia/sergipe.aprovacao-manual.json",
+    "candidatos": [
+      {
+        "id": "d2eba1ecb68765d3",
+        "latitude": -10.9068629,
+        "longitude": -37.0757296,
+        "fonte": "https://www.openstreetmap.org/way/81660854",
+        "passivelRevisao": false
+      },
+      {
+        "id": "9aa19507be9cfcb1",
+        "latitude": -10.9051793,
+        "longitude": -37.0867168,
+        "fonte": "https://www.openstreetmap.org/way/82695727",
+        "passivelRevisao": false
+      },
+      {
+        "id": "4de6e52e73806178",
+        "latitude": -10.9062834,
+        "longitude": -37.081574,
+        "fonte": "https://www.openstreetmap.org/way/627407766",
+        "passivelRevisao": false
+      }
+    ]
+  },
+  {
+    "id": "se-blh-irma-rafaela-pepel",
+    "nome": "Banco de Leite Humano Irmã Rafaela Pepel",
+    "tipo": "BLH",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "classe": "aguardando_validacao",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 10,
+    "quantidadeCandidatasRevisaveis": 1,
+    "pendencias": [
+      "Endereço e telefone são evidências históricas publicadas em 2018; confirmar dados atuais e situação operacional",
+      "Obter coordenadas oficiais verificadas da unidade"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 153,
+      "cnesInformadoNoAnexo": "2546027",
+      "mantenedora": "Hospital e Maternidade São José",
+      "municipioEntidade": "Itabaiana",
+      "municipioBLH": "ITABAIANA",
+      "nomeNoAnexo": "Banco de Leite Humano Irmã Rafaela Pepel",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": true
+    },
+    "relatorioGeografico": "../../geografia/sergipe.candidatas.json",
+    "aprovacaoManual": "../../geografia/sergipe.aprovacao-manual.json",
+    "candidatos": [
+      {
+        "id": "684fcb3a31707d84",
+        "latitude": -10.6891183,
+        "longitude": -37.4283049,
+        "fonte": "https://www.openstreetmap.org/way/274363147",
+        "passivelRevisao": false
+      },
+      {
+        "id": "cd6ba153f13e1061",
+        "latitude": -10.2141173,
+        "longitude": -36.837687,
+        "fonte": "https://www.openstreetmap.org/way/352850145",
+        "passivelRevisao": false
+      },
+      {
+        "id": "c9d809f6e50e78f4",
+        "latitude": -11.2719307,
+        "longitude": -37.7859427,
+        "fonte": "https://www.openstreetmap.org/way/273511233",
+        "passivelRevisao": false
+      },
+      {
+        "id": "9890eae4df0ce70b",
+        "latitude": -11.2710423,
+        "longitude": -37.7850616,
+        "fonte": "https://www.openstreetmap.org/way/365897077",
+        "passivelRevisao": false
+      },
+      {
+        "id": "8901d8e13123f33f",
+        "latitude": -10.8887428,
+        "longitude": -37.0815746,
+        "fonte": "https://www.openstreetmap.org/way/1364086502",
+        "passivelRevisao": false
+      },
+      {
+        "id": "b59bad9f784ce521",
+        "latitude": -10.6899469,
+        "longitude": -37.4270522,
+        "fonte": "https://www.openstreetmap.org/way/289828055",
+        "passivelRevisao": true
+      },
+      {
+        "id": "d4a1fa02b3385661",
+        "latitude": -19.5415717,
+        "longitude": -40.6301912,
+        "fonte": "https://www.openstreetmap.org/way/578677567",
+        "passivelRevisao": false
+      },
+      {
+        "id": "104abf6dfaf27434",
+        "latitude": -26.9501959,
+        "longitude": -50.1365705,
+        "fonte": "https://www.openstreetmap.org/way/478316201",
+        "passivelRevisao": false
+      },
+      {
+        "id": "fc8697b5fc8c8bde",
+        "latitude": -20.665508,
+        "longitude": -43.7991601,
+        "fonte": "https://www.openstreetmap.org/way/149725804",
+        "passivelRevisao": false
+      },
+      {
+        "id": "0090235587d23a9c",
+        "latitude": -20.0236652,
+        "longitude": -48.9387275,
+        "fonte": "https://www.openstreetmap.org/node/2626639723",
+        "passivelRevisao": false
+      }
+    ]
+  },
+  {
+    "id": "se-blh-zoed-bittencourt",
+    "nome": "Banco de Leite Humano Zóed Bittencourt",
+    "tipo": "BLH",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "classe": "ambiguos_conflitantes",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 3,
+    "quantidadeCandidatasRevisaveis": 2,
+    "pendencias": [
+      "Confirmar endereço atual do BLH na Maternidade Zacarias Júnior: fontes cadastrais históricas divergem na grafia e numeração",
+      "Telefone proveniente de publicação de 2018; confirmar contato e situação operacional atuais",
+      "Obter coordenadas oficiais verificadas da unidade"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 152,
+      "cnesInformadoNoAnexo": "2503824",
+      "mantenedora": "Maternidade Zacarias Júnior",
+      "municipioEntidade": "Aracaju",
+      "municipioBLH": "LAGARTO",
+      "nomeNoAnexo": "Banco de Leite Humano Zóed Bittencourt",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": true
+    },
+    "relatorioGeografico": "../../geografia/sergipe.candidatas.json",
+    "aprovacaoManual": "../../geografia/sergipe.aprovacao-manual.json",
+    "candidatos": [
+      {
+        "id": "3ec121c073b321da",
+        "latitude": -10.9128411,
+        "longitude": -37.6726695,
+        "fonte": "https://www.openstreetmap.org/way/289560845",
+        "passivelRevisao": false
+      },
+      {
+        "id": "d4afde0a4141d235",
+        "latitude": -10.9125906,
+        "longitude": -37.6731797,
+        "fonte": "https://www.openstreetmap.org/way/272971058",
+        "passivelRevisao": true
+      },
+      {
+        "id": "f7939c621de76d9f",
+        "latitude": -10.9136426,
+        "longitude": -37.6696658,
+        "fonte": "https://www.openstreetmap.org/way/267159389",
+        "passivelRevisao": true
+      }
+    ]
+  },
+  {
+    "id": "se-posto-fernando-guedes-santa-isabel",
+    "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+    "tipo": "Posto de Coleta",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "classe": "ambiguos_conflitantes",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 3,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+      "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+      "Confirmar situação operacional e obter coordenadas oficiais verificadas"
+    ],
+    "documentacao": {
+      "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+    },
+    "relatorioGeografico": "../../geografia/sergipe.candidatas.json",
+    "aprovacaoManual": "../../geografia/sergipe.aprovacao-manual.json",
+    "candidatos": [
+      {
+        "id": "3e3e5b64c6aa673c",
+        "latitude": -10.9030839,
+        "longitude": -37.0598883,
+        "fonte": "https://www.openstreetmap.org/way/186050412",
+        "passivelRevisao": false
+      },
+      {
+        "id": "e88e4eb924ccac9d",
+        "latitude": -10.9030508,
+        "longitude": -37.0555976,
+        "fonte": "https://www.openstreetmap.org/way/1092329629",
+        "passivelRevisao": false
+      },
+      {
+        "id": "ca6721a181ff103b",
+        "latitude": -10.9030722,
+        "longitude": -37.0603974,
+        "fonte": "https://www.openstreetmap.org/way/642770545",
+        "passivelRevisao": false
+      }
+    ]
+  },
+  {
+    "id": "se-posto-maternidade-lourdes-nogueira",
+    "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+    "tipo": "Posto de Coleta",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "classe": "ambiguos_conflitantes",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 1,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+      "Obter telefone oficial específico para orientação de doadoras",
+      "Confirmar situação operacional e obter coordenadas oficiais verificadas"
+    ],
+    "documentacao": {
+      "fonte": "https://www.aracaju.se.gov.br/noticias/118605/agosto-dourado-prefeitura-fortalece-acoes-de-incentivo-a-amamentacao-e-doacao-de-leite-humano"
+    },
+    "relatorioGeografico": "../../geografia/sergipe.candidatas.json",
+    "aprovacaoManual": "../../geografia/sergipe.aprovacao-manual.json",
+    "candidatos": [
+      {
+        "id": "d6e4a3dbb58a4e36",
+        "latitude": -10.9213093,
+        "longitude": -37.0817916,
+        "fonte": "https://www.openstreetmap.org/way/362138513",
+        "passivelRevisao": false
+      }
+    ]
+  }
+]

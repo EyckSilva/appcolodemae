@@ -1,0 +1,85 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function proprietaria(uid) {
+      return request.auth != null && request.auth.uid == uid;
+    }
+
+    function perfilValido() {
+      let perfil = request.resource.data;
+      return perfil.keys().hasAll(['nome', 'email', 'criadoEm', 'atualizadoEm'])
+        && perfil.keys().hasOnly(['nome', 'email', 'criadoEm', 'atualizadoEm'])
+        && perfil.nome is string
+        && perfil.nome.size() >= 2 && perfil.nome.size() <= 200
+        && perfil.nome.matches('.*[^ ].*')
+        && perfil.email is string
+        && perfil.email.size() <= 320
+        && perfil.email == request.auth.token.email
+        && perfil.criadoEm is timestamp
+        && perfil.atualizadoEm is timestamp;
+    }
+
+    match /usuarios/{uid} {
+      allow get: if proprietaria(uid);
+      allow list, delete: if false;
+      allow create: if proprietaria(uid) && perfilValido()
+        && request.resource.data.criadoEm == request.time
+        && request.resource.data.atualizadoEm == request.time;
+      allow update: if proprietaria(uid) && perfilValido()
+        && request.resource.data.criadoEm == resource.data.criadoEm
+        && request.resource.data.atualizadoEm == request.time
+        && request.resource.data.diff(resource.data).affectedKeys()
+          .hasOnly(['nome', 'email', 'atualizadoEm']);
+
+      match /bebes/{bebeId} {
+        function bebeValido() {
+          let bebe = request.resource.data;
+          return bebe.nome is string && bebe.nome.size() > 0
+            && bebe.nome.size() <= 200 && bebe.nome.matches('.*[^ ].*')
+            && bebe.nascimento is timestamp
+            && bebe.nascimento <= request.time + duration.value(1, 'd')
+            && bebe.criadoEm is timestamp && bebe.atualizadoEm == request.time;
+        }
+        allow read: if proprietaria(uid);
+        allow create: if proprietaria(uid) && bebeValido()
+          && request.resource.data.keys().hasOnly(['nome', 'nascimento', 'criadoEm', 'atualizadoEm'])
+          && request.resource.data.criadoEm == request.time;
+        allow update: if proprietaria(uid) && bebeValido()
+          && request.resource.data.criadoEm == resource.data.criadoEm
+          && request.resource.data.diff(resource.data).affectedKeys()
+            .hasOnly(['nome', 'nascimento', 'atualizadoEm']);
+        allow delete: if false;
+      }
+
+      match /preferencias/notificacoes {
+        function preferenciasValidas() {
+          let prefs = request.resource.data;
+          return prefs.lembretesEducativos is bool && prefs.desafio15Dias is bool
+            && prefs.criadoEm is timestamp && prefs.atualizadoEm == request.time;
+        }
+        allow get: if proprietaria(uid);
+        allow create: if proprietaria(uid) && preferenciasValidas()
+          && request.resource.data.keys().hasOnly(['lembretesEducativos', 'desafio15Dias', 'criadoEm', 'atualizadoEm'])
+          && request.resource.data.criadoEm == request.time;
+        allow update: if proprietaria(uid) && preferenciasValidas()
+          && request.resource.data.criadoEm == resource.data.criadoEm
+          && request.resource.data.diff(resource.data).affectedKeys()
+            .hasOnly(['lembretesEducativos', 'desafio15Dias', 'atualizadoEm']);
+        allow list, delete: if false;
+      }
+    }
+
+    // Catálogo verificado: usuárias autenticadas consultam somente publicações
+    // ativas. Escritas são exclusivas do processo administrativo via IAM.
+    match /bancos_leite/{unidadeId} {
+      allow read: if request.auth != null
+        && resource.data.ativo == true && resource.data.publicado == true;
+      allow create, update, delete: if false;
+    }
+
+    // Qualquer outra coleção permanece inacessível pelos clientes.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

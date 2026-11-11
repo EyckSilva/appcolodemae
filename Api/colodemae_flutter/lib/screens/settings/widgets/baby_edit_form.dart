@@ -7,9 +7,13 @@ import '../../../models/baby.dart';
 
 /// Formulário de edição do nome e da data de nascimento do bebê (RF02).
 class BabyEditForm extends StatefulWidget {
-  const BabyEditForm({super.key, required this.baby, required this.onSave, required this.onCancel});
+  const BabyEditForm(
+      {super.key,
+      required this.baby,
+      required this.onSave,
+      required this.onCancel});
 
-  final Baby baby;
+  final Baby? baby;
   final ValueChanged<Baby> onSave;
   final VoidCallback onCancel;
 
@@ -18,8 +22,9 @@ class BabyEditForm extends StatefulWidget {
 }
 
 class _BabyEditFormState extends State<BabyEditForm> {
-  late final TextEditingController _nameController = TextEditingController(text: widget.baby.name);
-  late DateTime _birthDate = widget.baby.birthDate;
+  late final TextEditingController _nameController =
+      TextEditingController(text: widget.baby?.name ?? '');
+  late DateTime _birthDate = widget.baby?.birthDate ?? DateTime.now();
 
   @override
   void dispose() {
@@ -29,11 +34,18 @@ class _BabyEditFormState extends State<BabyEditForm> {
 
   Future<void> _pickDate() async {
     final now = DateTime.now();
+    final today = DateTime(now.year, now.month, now.day);
+    final firstDate = DateTime(now.year - 2, now.month, now.day);
+    final initialDate = _birthDate.isBefore(firstDate)
+        ? firstDate
+        : _birthDate.isAfter(today)
+            ? today
+            : _birthDate;
     final picked = await showDatePicker(
       context: context,
-      initialDate: _birthDate,
-      firstDate: DateTime(now.year - 5),
-      lastDate: now,
+      initialDate: initialDate,
+      firstDate: firstDate,
+      lastDate: today,
     );
     if (picked != null) setState(() => _birthDate = picked);
   }
@@ -47,14 +59,25 @@ class _BabyEditFormState extends State<BabyEditForm> {
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
-          Text('Nome do bebê', style: TextStyle(fontSize: 12, fontWeight: FontWeight.w800, color: palette.textMuted)),
+          Text('Nome do bebê',
+              style: TextStyle(
+                  fontSize: 12,
+                  fontWeight: FontWeight.w800,
+                  color: palette.textMuted)),
           const SizedBox(height: 6),
           TextField(
             controller: _nameController,
-            style: TextStyle(fontSize: 14, fontWeight: FontWeight.w700, color: palette.textPrimary),
+            style: TextStyle(
+                fontSize: 14,
+                fontWeight: FontWeight.w700,
+                color: palette.textPrimary),
           ),
           const SizedBox(height: 16),
-          Text('Data de nascimento', style: TextStyle(fontSize: 12, fontWeight: FontWeight.w800, color: palette.textMuted)),
+          Text('Data de nascimento',
+              style: TextStyle(
+                  fontSize: 12,
+                  fontWeight: FontWeight.w800,
+                  color: palette.textMuted)),
           const SizedBox(height: 6),
           InkWell(
             borderRadius: BorderRadius.circular(AppRadius.sm),
@@ -69,7 +92,10 @@ class _BabyEditFormState extends State<BabyEditForm> {
               ),
               child: Text(
                 formatDateBr(_birthDate),
-                style: TextStyle(fontSize: 14, fontWeight: FontWeight.w700, color: palette.textPrimary),
+                style: TextStyle(
+                    fontSize: 14,
+                    fontWeight: FontWeight.w700,
+                    color: palette.textPrimary),
               ),
             ),
           ),
@@ -81,7 +107,8 @@ class _BabyEditFormState extends State<BabyEditForm> {
                   onPressed: widget.onCancel,
                   style: OutlinedButton.styleFrom(
                     minimumSize: const Size.fromHeight(44),
-                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(AppRadius.sm)),
+                    shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(AppRadius.sm)),
                   ),
                   child: const Text('Cancelar'),
                 ),
@@ -91,14 +118,15 @@ class _BabyEditFormState extends State<BabyEditForm> {
                 child: ElevatedButton(
                   onPressed: () {
                     final name = _nameController.text.trim();
-                    widget.onSave(widget.baby.copyWith(
-                      name: name.isEmpty ? widget.baby.name : name,
+                    widget.onSave(Baby(
+                      name: name.isEmpty ? widget.baby?.name ?? '' : name,
                       birthDate: _birthDate,
                     ));
                   },
                   style: ElevatedButton.styleFrom(
                     minimumSize: const Size.fromHeight(44),
-                    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(AppRadius.sm)),
+                    shape: RoundedRectangleBorder(
+                        borderRadius: BorderRadius.circular(AppRadius.sm)),
                   ),
                   child: const Text('Salvar'),
                 ),

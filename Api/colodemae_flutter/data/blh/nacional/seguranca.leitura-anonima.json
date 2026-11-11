@@ -1,0 +1,25 @@
+{
+  "executadoEm": "2026-11-11T08:26:33.743328+00:00",
+  "projeto": "colo-de-mae-3510f",
+  "verificacoes": [
+    {
+      "operacao": "GET sem autenticar",
+      "alvo": "/se-blh-marly-sarney",
+      "http": 403,
+      "acessoNegado": true
+    },
+    {
+      "operacao": "GET sem autenticar",
+      "alvo": "/df-pclh-samambaia",
+      "http": 403,
+      "acessoNegado": true
+    },
+    {
+      "operacao": "GET sem autenticar",
+      "alvo": "?pageSize=1",
+      "http": 403,
+      "acessoNegado": true
+    }
+  ],
+  "limitacao": "Sem escrita em produ??o; matriz de clientes autenticados exige Emulator Suite e Java."
+}

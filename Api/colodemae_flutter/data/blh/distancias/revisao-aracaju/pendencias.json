@@ -1,0 +1,15 @@
+{
+  "coordenadasAprovadas": 0,
+  "ids": [
+    "se-blh-marly-sarney",
+    "se-posto-fernando-guedes-santa-isabel",
+    "se-posto-maternidade-lourdes-nogueira"
+  ],
+  "fluxoRevisao": "tools/geocode_blh.py generate/export-approved",
+  "historicosPreservados": [
+    "data/blh/geografia/sergipe.candidatas.json",
+    "data/blh/geografia/sergipe.aprovacao-manual.json",
+    "data/blh/demas/coleta-aracaju-validada/relatorio.json"
+  ],
+  "observacao": "Coordenadas cadastrais DEMAS e candidatas não são importadas como verificadas."
+}

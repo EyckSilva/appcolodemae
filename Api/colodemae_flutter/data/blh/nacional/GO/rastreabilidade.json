@@ -1,0 +1,138 @@
+[
+  {
+    "id": "go-blh-cnes-2361787",
+    "nome": "Banco de Leite Humano Dona Edna Cupertino",
+    "tipo": "BLH",
+    "cidade": "ANAPOLIS",
+    "estado": "GO",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 47,
+      "cnesInformadoNoAnexo": "2361787",
+      "mantenedora": "Santa Casa de Misericordia de Anápolis",
+      "municipioEntidade": "Anápolis",
+      "municipioBLH": "ANAPOLIS",
+      "nomeNoAnexo": "Banco de Leite Humano Dona Edna Cupertino",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "go-blh-cnes-9661190",
+    "nome": "Banco de Leite Humano de Anápolis",
+    "tipo": "BLH",
+    "cidade": "ANAPOLIS",
+    "estado": "GO",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 48,
+      "cnesInformadoNoAnexo": "9661190",
+      "mantenedora": "Prefeitura Municipal de Anápolis",
+      "municipioEntidade": "Anápolis",
+      "municipioBLH": "ANAPOLIS",
+      "nomeNoAnexo": "Banco de Leite Humano de Anápolis",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "go-blh-cnes-2338564",
+    "nome": "Banco de Leite Humano da Maternidade Nascer Cidadão",
+    "tipo": "BLH",
+    "cidade": "GOIANIA",
+    "estado": "GO",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 49,
+      "cnesInformadoNoAnexo": "2338564",
+      "mantenedora": "Maternidade Nascer Cidadão",
+      "municipioEntidade": "Goiânia",
+      "municipioBLH": "GOIANIA",
+      "nomeNoAnexo": "Banco de Leite Humano da Maternidade Nascer Cidadão",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "go-blh-cnes-2339196",
+    "nome": "Banco de Leite Humano do Hospital Estadual da Mulher (HEMU)",
+    "tipo": "BLH",
+    "cidade": "GOIANIA",
+    "estado": "GO",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 50,
+      "cnesInformadoNoAnexo": "2339196",
+      "mantenedora": "Hospital Estadual da Mulher (HEMU)",
+      "municipioEntidade": "Goiânia",
+      "municipioBLH": "GOIANIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Estadual da Mulher (HEMU)",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  }
+]

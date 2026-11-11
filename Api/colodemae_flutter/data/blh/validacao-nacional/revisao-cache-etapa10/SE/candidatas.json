@@ -1,0 +1,1419 @@
+{
+  "geradoEm": "2026-11-11T08:40:37.654224+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "b743bb6ed778db9ca03472f25a816a73137c8b58ee1eaa4357f7698bf6d4eb7c",
+  "hashEnderecos": "621e10b8d817b8a815527d6617cf51196ce7253960f68118da6b2246411d566f",
+  "unidades": [
+    {
+      "id": "se-blh-marly-sarney",
+      "nome": "Banco de Leite Humano Marly Sarney",
+      "estado": "SE",
+      "cidade": "Aracaju",
+      "enderecoPesquisa": "Rua Mato Grosso, s/n, José Conrado de Araújo, Aracaju, Sergipe, Brasil",
+      "fonteEndereco": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/geografia/sergipe.candidatas.json",
+        "hashRelatorio": "2d6c75098b86ed8967512e9a247a4fbc1f42574fa7ecece78434ed945de7c5a9",
+        "revisao": "data/blh/geografia/sergipe.aprovacao-manual.json",
+        "hashRevisao": "4b46dcd4c1871d0aff36c7736437e2e6fa5e054a67a724f83f9d38d64d8c7fad",
+        "decisaoAnterior": {
+          "id": "se-blh-marly-sarney",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+            "Revalidar telefone de atendimento",
+            "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município",
+            "Confirmar retorno ao endereço da Rua Mato Grosso após funcionamento temporário na Lourdes Nogueira",
+            "Não confundir o prédio do BLH com o Hospital da Criança ou com o posto da Lourdes Nogueira",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [
+        {
+          "texto": "Rua Mato Grosso, s/n, José Conrado de Araújo, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Rua+Mato+Grosso%2C+s%2Fn%2C+Jos%C3%A9+Conrado+de+Ara%C3%BAjo%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:00.544652+00:00"
+        },
+        {
+          "texto": "Banco de Leite Humano Marly Sarney, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Banco+de+Leite+Humano+Marly+Sarney%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:02.544971+00:00"
+        }
+      ],
+      "confianca": "nao_encontrado",
+      "candidatos": [
+        {
+          "candidatoId": "d2eba1ecb68765d3",
+          "nomeRetornado": "Rua Mato Grosso",
+          "latitude": -10.9068629,
+          "longitude": -37.0757296,
+          "fonte": "https://www.openstreetmap.org/way/81660854",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Mato+Grosso%2C+s%2Fn%2C+Jos%C3%A9+Conrado+de+Ara%C3%BAjo%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 81660854,
+            "osm_key": "highway",
+            "osm_value": "tertiary",
+            "type": "street",
+            "name": "Rua Mato Grosso",
+            "district": "José Conrado de Araújo",
+            "city": "Aracaju",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49075-420",
+            "countrycode": "BR",
+            "extent": [
+              -37.084042,
+              -10.9055866,
+              -37.0674015,
+              -10.9080272
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9068629%2C-37.0757296",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9068629&mlon=-37.0757296#map=18/-10.9068629/-37.0757296",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/81660854"
+        },
+        {
+          "candidatoId": "9aa19507be9cfcb1",
+          "nomeRetornado": "Rua Mato Grosso",
+          "latitude": -10.9051793,
+          "longitude": -37.0867168,
+          "fonte": "https://www.openstreetmap.org/way/82695727",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Mato+Grosso%2C+s%2Fn%2C+Jos%C3%A9+Conrado+de+Ara%C3%BAjo%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 82695727,
+            "osm_key": "highway",
+            "osm_value": "residential",
+            "type": "street",
+            "name": "Rua Mato Grosso",
+            "district": "José Conrado de Araújo",
+            "city": "Aracaju",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49085-380",
+            "countrycode": "BR",
+            "extent": [
+              -37.0877409,
+              -10.9050165,
+              -37.0856901,
+              -10.9053252
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9051793%2C-37.0867168",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9051793&mlon=-37.0867168#map=18/-10.9051793/-37.0867168",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/82695727"
+        },
+        {
+          "candidatoId": "4de6e52e73806178",
+          "nomeRetornado": "Paróquia Sagrado Coração de Jesus",
+          "latitude": -10.9062834,
+          "longitude": -37.081574,
+          "fonte": "https://www.openstreetmap.org/way/627407766",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Mato+Grosso%2C+s%2Fn%2C+Jos%C3%A9+Conrado+de+Ara%C3%BAjo%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 627407766,
+            "osm_key": "landuse",
+            "osm_value": "religious",
+            "type": "other",
+            "name": "Paróquia Sagrado Coração de Jesus",
+            "street": "Rua Mato Grosso",
+            "locality": "Loteamento Residencial Porto Ricco",
+            "district": "José Conrado de Araújo",
+            "city": "Aracaju",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "countrycode": "BR",
+            "extent": [
+              -37.0818031,
+              -10.9059977,
+              -37.0813361,
+              -10.9065873
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9062834%2C-37.081574",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9062834&mlon=-37.081574#map=18/-10.9062834/-37.081574",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": true,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/627407766"
+        }
+      ],
+      "consultas": [
+        {
+          "texto": "Rua Mato Grosso, s/n, José Conrado de Araújo, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Rua+Mato+Grosso%2C+s%2Fn%2C+Jos%C3%A9+Conrado+de+Ara%C3%BAjo%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:00.544652+00:00"
+        },
+        {
+          "texto": "Maternidade Nossa Senhora de Lourdes, Rua Mato Grosso, s/n, José Conrado de Araújo, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Maternidade+Nossa+Senhora+de+Lourdes%2C+Rua+Mato+Grosso%2C+s%2Fn%2C+Jos%C3%A9+Conrado+de+Ara%C3%BAjo%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": null
+        }
+      ],
+      "erros": [
+        "Cache ausente/expirado; pesquisa online não executada."
+      ],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+        "Revalidar telefone de atendimento",
+        "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município",
+        "Confirmar retorno ao endereço da Rua Mato Grosso após funcionamento temporário na Lourdes Nogueira",
+        "Não confundir o prédio do BLH com o Hospital da Criança ou com o posto da Lourdes Nogueira",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "se-blh-irma-rafaela-pepel",
+      "nome": "Banco de Leite Humano Irmã Rafaela Pepel",
+      "estado": "SE",
+      "cidade": "Itabaiana",
+      "enderecoPesquisa": "Rua Jackson de Figueiredo, 401, Centro, Itabaiana, Sergipe, Brasil",
+      "fonteEndereco": "https://cnes2.datasus.gov.br/Mod_Basico.asp?VCo_Unidade=2802902546027",
+      "confirmacaoDocumental": {
+        "enderecoConfirmado": true,
+        "vinculoBlhConfirmado": true,
+        "coordenadasGpsConfirmadas": false,
+        "funcionamentoAtualConfirmado": false,
+        "origem": "Confirmação textual da usuária, com referências oficiais; escopo limitado a endereço e vinculação institucional",
+        "fontes": [
+          "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/",
+          "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+        ]
+      },
+      "historicoAnterior": {
+        "relatorio": "data/blh/geografia/sergipe.candidatas.json",
+        "hashRelatorio": "2d6c75098b86ed8967512e9a247a4fbc1f42574fa7ecece78434ed945de7c5a9",
+        "revisao": "data/blh/geografia/sergipe.aprovacao-manual.json",
+        "hashRevisao": "4b46dcd4c1871d0aff36c7736437e2e6fa5e054a67a724f83f9d38d64d8c7fad",
+        "decisaoAnterior": {
+          "id": "se-blh-irma-rafaela-pepel",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Endereço e telefone são evidências históricas publicadas em 2018; confirmar dados atuais e situação operacional",
+            "Obter coordenadas oficiais verificadas da unidade",
+            "Confirmar posição e acesso do BLH dentro do Hospital e Maternidade São José",
+            "Confirmar funcionamento durante ou após a reforma anunciada em publicações de 2025",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [
+        {
+          "texto": "Rua Jackson de Figueiredo, 401, Centro, Itabaiana, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Rua+Jackson+de+Figueiredo%2C+401%2C+Centro%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:04.545437+00:00"
+        },
+        {
+          "texto": "Hospital e Maternidade São José, Itabaiana, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Hospital+e+Maternidade+S%C3%A3o+Jos%C3%A9%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:06.545887+00:00"
+        }
+      ],
+      "confianca": "baixa",
+      "candidatos": [
+        {
+          "candidatoId": "684fcb3a31707d84",
+          "nomeRetornado": "Rua Jackson de Figueiredo",
+          "latitude": -10.6891183,
+          "longitude": -37.4283049,
+          "fonte": "https://www.openstreetmap.org/way/274363147",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Jackson+de+Figueiredo%2C+401%2C+Centro%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 274363147,
+            "osm_key": "highway",
+            "osm_value": "residential",
+            "type": "street",
+            "name": "Rua Jackson de Figueiredo",
+            "district": "Centro",
+            "city": "Itabaiana",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49500-103",
+            "countrycode": "BR",
+            "extent": [
+              -37.4299559,
+              -10.688434,
+              -37.4266515,
+              -10.6897972
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.6891183%2C-37.4283049",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.6891183&mlon=-37.4283049#map=18/-10.6891183/-37.4283049",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/274363147"
+        },
+        {
+          "candidatoId": "cd6ba153f13e1061",
+          "nomeRetornado": "Rua Jackson de Figueiredo",
+          "latitude": -10.2141173,
+          "longitude": -36.837687,
+          "fonte": "https://www.openstreetmap.org/way/352850145",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Jackson+de+Figueiredo%2C+401%2C+Centro%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 352850145,
+            "osm_key": "highway",
+            "osm_value": "tertiary",
+            "type": "street",
+            "name": "Rua Jackson de Figueiredo",
+            "district": "Centro",
+            "city": "Propriá",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49900-000",
+            "countrycode": "BR",
+            "extent": [
+              -36.8378356,
+              -10.2135934,
+              -36.8375384,
+              -10.2146412
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": false,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Município divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.2141173%2C-36.837687",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.2141173&mlon=-36.837687#map=18/-10.2141173/-36.837687",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/352850145"
+        },
+        {
+          "candidatoId": "c9d809f6e50e78f4",
+          "nomeRetornado": "Rua Jackson de Figueiredo",
+          "latitude": -11.2719307,
+          "longitude": -37.7859427,
+          "fonte": "https://www.openstreetmap.org/way/273511233",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Jackson+de+Figueiredo%2C+401%2C+Centro%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 273511233,
+            "osm_key": "highway",
+            "osm_value": "secondary",
+            "type": "street",
+            "name": "Rua Jackson de Figueiredo",
+            "district": "Itabaianinha",
+            "city": "Itabaianinha",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "countrycode": "BR",
+            "extent": [
+              -37.7866884,
+              -11.2707446,
+              -37.7851682,
+              -11.273135
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": false,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Município divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-11.2719307%2C-37.7859427",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-11.2719307&mlon=-37.7859427#map=18/-11.2719307/-37.7859427",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/273511233"
+        },
+        {
+          "candidatoId": "9890eae4df0ce70b",
+          "nomeRetornado": "Rua Jackson de Figueiredo",
+          "latitude": -11.2710423,
+          "longitude": -37.7850616,
+          "fonte": "https://www.openstreetmap.org/way/365897077",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Jackson+de+Figueiredo%2C+401%2C+Centro%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 365897077,
+            "osm_key": "highway",
+            "osm_value": "residential",
+            "type": "street",
+            "name": "Rua Jackson de Figueiredo",
+            "district": "Itabaianinha",
+            "city": "Itabaianinha",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "countrycode": "BR",
+            "extent": [
+              -37.7851682,
+              -11.2707446,
+              -37.785024,
+              -11.2713509
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": false,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Município divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-11.2710423%2C-37.7850616",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-11.2710423&mlon=-37.7850616#map=18/-11.2710423/-37.7850616",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/365897077"
+        },
+        {
+          "candidatoId": "8901d8e13123f33f",
+          "nomeRetornado": "Centro de Excelência Gov. Augusto Franco",
+          "latitude": -10.8887428,
+          "longitude": -37.0815746,
+          "fonte": "https://www.openstreetmap.org/way/1364086502",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Jackson+de+Figueiredo%2C+401%2C+Centro%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 1364086502,
+            "osm_key": "building",
+            "osm_value": "school",
+            "type": "house",
+            "name": "Centro de Excelência Gov. Augusto Franco",
+            "street": "Rua Jackson Figueiredo",
+            "district": "Santos Dumont",
+            "city": "Aracaju",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49087-580",
+            "countrycode": "BR",
+            "extent": [
+              -37.0820114,
+              -10.8882098,
+              -37.0813958,
+              -10.8892478
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": false,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Município divergente ou não informado pelo provedor",
+            "Nome não confirma a instituição procurada",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.8887428%2C-37.0815746",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.8887428&mlon=-37.0815746#map=18/-10.8887428/-37.0815746",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": true,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/1364086502"
+        },
+        {
+          "candidatoId": "b59bad9f784ce521",
+          "nomeRetornado": "Maternidade São josé",
+          "latitude": -10.6899469,
+          "longitude": -37.4270522,
+          "fonte": "https://www.openstreetmap.org/way/289828055",
+          "consulta": "https://photon.komoot.io/api/?q=Hospital+e+Maternidade+S%C3%A3o+Jos%C3%A9%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 289828055,
+            "osm_key": "amenity",
+            "osm_value": "clinic",
+            "type": "house",
+            "name": "Maternidade São josé",
+            "street": "Rua Jackson de Figueiredo",
+            "district": "Centro",
+            "city": "Itabaiana",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49500-103",
+            "countrycode": "BR",
+            "extent": [
+              -37.4274308,
+              -10.6895902,
+              -37.4266895,
+              -10.6903289
+            ]
+          },
+          "precisaoEstimada": "POI/edificação de saúde; confirmar ponto e acesso da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": true,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": true,
+          "divergencias": [
+            "Provedor não informa número"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.6899469%2C-37.4270522",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.6899469&mlon=-37.4270522#map=18/-10.6899469/-37.4270522",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": true,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/289828055"
+        },
+        {
+          "candidatoId": "d4a1fa02b3385661",
+          "nomeRetornado": "Hospital e Maternidade São José",
+          "latitude": -19.5415717,
+          "longitude": -40.6301912,
+          "fonte": "https://www.openstreetmap.org/way/578677567",
+          "consulta": "https://photon.komoot.io/api/?q=Hospital+e+Maternidade+S%C3%A3o+Jos%C3%A9%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 578677567,
+            "osm_key": "amenity",
+            "osm_value": "hospital",
+            "type": "house",
+            "housenumber": "514",
+            "name": "Hospital e Maternidade São José",
+            "street": "Ladeira Cristo Rei",
+            "district": "Perpétuo Socorro",
+            "city": "Colatina",
+            "state": "Espírito Santo",
+            "country": "Brazil",
+            "postcode": "29701-400",
+            "countrycode": "BR",
+            "extent": [
+              -40.6304841,
+              -19.5412554,
+              -40.6298492,
+              -19.541876
+            ]
+          },
+          "precisaoEstimada": "POI/edificação de saúde; confirmar ponto e acesso da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": false,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": true,
+          "divergencias": [
+            "Município divergente ou não informado pelo provedor",
+            "Estado divergente ou não informado pelo provedor",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Número retornado diverge do endereço oficial de pesquisa"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-19.5415717%2C-40.6301912",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-19.5415717&mlon=-40.6301912#map=18/-19.5415717/-40.6301912",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/578677567"
+        },
+        {
+          "candidatoId": "104abf6dfaf27434",
+          "nomeRetornado": "Hospital e Maternidade São José",
+          "latitude": -26.9501959,
+          "longitude": -50.1365705,
+          "fonte": "https://www.openstreetmap.org/way/478316201",
+          "consulta": "https://photon.komoot.io/api/?q=Hospital+e+Maternidade+S%C3%A3o+Jos%C3%A9%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 478316201,
+            "osm_key": "amenity",
+            "osm_value": "hospital",
+            "type": "house",
+            "name": "Hospital e Maternidade São José",
+            "street": "Rua Cornelius Knlebeler",
+            "locality": "Cruzeiro",
+            "city": "Rio do Campo",
+            "state": "Santa Catarina",
+            "country": "Brazil",
+            "postcode": "89198-000",
+            "countrycode": "BR",
+            "extent": [
+              -50.1370243,
+              -26.9498133,
+              -50.1361178,
+              -26.9505784
+            ]
+          },
+          "precisaoEstimada": "POI/edificação de saúde; confirmar ponto e acesso da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": false,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": true,
+          "divergencias": [
+            "Município divergente ou não informado pelo provedor",
+            "Estado divergente ou não informado pelo provedor",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-26.9501959%2C-50.1365705",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-26.9501959&mlon=-50.1365705#map=18/-26.9501959/-50.1365705",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/478316201"
+        },
+        {
+          "candidatoId": "fc8697b5fc8c8bde",
+          "nomeRetornado": "Hospital e Maternidade São José",
+          "latitude": -20.665508,
+          "longitude": -43.7991601,
+          "fonte": "https://www.openstreetmap.org/way/149725804",
+          "consulta": "https://photon.komoot.io/api/?q=Hospital+e+Maternidade+S%C3%A3o+Jos%C3%A9%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 149725804,
+            "osm_key": "amenity",
+            "osm_value": "hospital",
+            "type": "house",
+            "name": "Hospital e Maternidade São José",
+            "street": "Rua Dom Pedro I",
+            "district": "São Sebastião",
+            "city": "Conselheiro Lafaiete",
+            "state": "Minas Gerais",
+            "country": "Brazil",
+            "postcode": "36400-000",
+            "countrycode": "BR",
+            "extent": [
+              -43.7995179,
+              -20.665292,
+              -43.7988617,
+              -20.6659992
+            ]
+          },
+          "precisaoEstimada": "POI/edificação de saúde; confirmar ponto e acesso da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": false,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": true,
+          "divergencias": [
+            "Município divergente ou não informado pelo provedor",
+            "Estado divergente ou não informado pelo provedor",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-20.665508%2C-43.7991601",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-20.665508&mlon=-43.7991601#map=18/-20.665508/-43.7991601",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/149725804"
+        },
+        {
+          "candidatoId": "0090235587d23a9c",
+          "nomeRetornado": "Hospital e Maternidade São José",
+          "latitude": -20.0236652,
+          "longitude": -48.9387275,
+          "fonte": "https://www.openstreetmap.org/node/2626639723",
+          "consulta": "https://photon.komoot.io/api/?q=Hospital+e+Maternidade+S%C3%A3o+Jos%C3%A9%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "N",
+            "osm_id": 2626639723,
+            "osm_key": "amenity",
+            "osm_value": "hospital",
+            "type": "house",
+            "housenumber": "280",
+            "name": "Hospital e Maternidade São José",
+            "street": "Rua Coronel José de Paula",
+            "district": "Centro",
+            "city": "Frutal",
+            "state": "Minas Gerais",
+            "country": "Brazil",
+            "postcode": "38200-056",
+            "countrycode": "BR"
+          },
+          "precisaoEstimada": "POI/edificação de saúde; confirmar ponto e acesso da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": false,
+          "estadoCompativel": false,
+          "nomeInstituicaoCompativel": true,
+          "divergencias": [
+            "Município divergente ou não informado pelo provedor",
+            "Estado divergente ou não informado pelo provedor",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Número retornado diverge do endereço oficial de pesquisa"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-20.0236652%2C-48.9387275",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-20.0236652&mlon=-48.9387275#map=18/-20.0236652/-48.9387275",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/node/2626639723"
+        }
+      ],
+      "consultas": [
+        {
+          "texto": "Rua Jackson de Figueiredo, 401, Centro, Itabaiana, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Rua+Jackson+de+Figueiredo%2C+401%2C+Centro%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:04.545437+00:00"
+        },
+        {
+          "texto": "Hospital e Maternidade São José, Rua Jackson de Figueiredo, 401, Centro, Itabaiana, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Hospital+e+Maternidade+S%C3%A3o+Jos%C3%A9%2C+Rua+Jackson+de+Figueiredo%2C+401%2C+Centro%2C+Itabaiana%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": null
+        }
+      ],
+      "erros": [
+        "Cache ausente/expirado; pesquisa online não executada."
+      ],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Endereço e telefone são evidências históricas publicadas em 2018; confirmar dados atuais e situação operacional",
+        "Obter coordenadas oficiais verificadas da unidade",
+        "Confirmar posição e acesso do BLH dentro do Hospital e Maternidade São José",
+        "Confirmar funcionamento durante ou após a reforma anunciada em publicações de 2025",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "se-blh-zoed-bittencourt",
+      "nome": "Banco de Leite Humano Zóed Bittencourt",
+      "estado": "SE",
+      "cidade": "Lagarto",
+      "enderecoPesquisa": "Rua Hipólito Santos, 20, Centro, Lagarto, Sergipe, Brasil",
+      "fonteEndereco": "https://saude.se.gov.br/hospitais/",
+      "confirmacaoDocumental": {
+        "enderecoConfirmado": true,
+        "vinculoBlhConfirmado": true,
+        "coordenadasGpsConfirmadas": false,
+        "funcionamentoAtualConfirmado": false,
+        "origem": "Confirmação textual da usuária, com referências oficiais; escopo limitado a endereço e vinculação institucional",
+        "fontes": [
+          "https://saude.se.gov.br/hospitais/",
+          "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+        ]
+      },
+      "historicoAnterior": {
+        "relatorio": "data/blh/geografia/sergipe.candidatas.json",
+        "hashRelatorio": "2d6c75098b86ed8967512e9a247a4fbc1f42574fa7ecece78434ed945de7c5a9",
+        "revisao": "data/blh/geografia/sergipe.aprovacao-manual.json",
+        "hashRevisao": "4b46dcd4c1871d0aff36c7736437e2e6fa5e054a67a724f83f9d38d64d8c7fad",
+        "decisaoAnterior": {
+          "id": "se-blh-zoed-bittencourt",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Confirmar endereço atual do BLH na Maternidade Zacarias Júnior: fontes cadastrais históricas divergem na grafia e numeração",
+            "Telefone proveniente de publicação de 2018; confirmar contato e situação operacional atuais",
+            "Obter coordenadas oficiais verificadas da unidade",
+            "Número 20 confirmado documentalmente pela rede hospitalar; a fonte histórica indica s/n, e a entrada física ainda precisa ser conferida",
+            "Confirmar o ponto e o acesso do BLH na Maternidade Zacarias Júnior",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [
+        {
+          "texto": "Rua Hipólito Santos, 20, Centro, Lagarto, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Rua+Hip%C3%B3lito+Santos%2C+20%2C+Centro%2C+Lagarto%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:08.546362+00:00"
+        },
+        {
+          "texto": "Maternidade Zacarias Junior, Lagarto, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Maternidade+Zacarias+Junior%2C+Lagarto%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:10.546470+00:00"
+        }
+      ],
+      "confianca": "conflito",
+      "candidatos": [
+        {
+          "candidatoId": "3ec121c073b321da",
+          "nomeRetornado": "Clinica Nossa Senhora das Graças",
+          "latitude": -10.9128411,
+          "longitude": -37.6726695,
+          "fonte": "https://www.openstreetmap.org/way/289560845",
+          "consulta": "https://photon.komoot.io/api/?q=Rua+Hip%C3%B3lito+Santos%2C+20%2C+Centro%2C+Lagarto%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 289560845,
+            "osm_key": "amenity",
+            "osm_value": "clinic",
+            "type": "house",
+            "housenumber": "20",
+            "name": "Clinica Nossa Senhora das Graças",
+            "street": "Rua Hipólito Santos",
+            "locality": "Centro",
+            "district": "Centro",
+            "city": "Lagarto",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49400-000",
+            "countrycode": "BR",
+            "extent": [
+              -37.6727466,
+              -10.9127666,
+              -37.6725964,
+              -10.9129199
+            ]
+          },
+          "precisaoEstimada": "POI/edificação de saúde; confirmar ponto e acesso da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9128411%2C-37.6726695",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9128411&mlon=-37.6726695#map=18/-10.9128411/-37.6726695",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": true,
+          "numeroCompativel": true,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/289560845"
+        },
+        {
+          "candidatoId": "d4afde0a4141d235",
+          "nomeRetornado": "Maternidade Zacarias Junior",
+          "latitude": -10.9125906,
+          "longitude": -37.6731797,
+          "fonte": "https://www.openstreetmap.org/way/272971058",
+          "consulta": "https://photon.komoot.io/api/?q=Maternidade+Zacarias+Junior%2C+Lagarto%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 272971058,
+            "osm_key": "amenity",
+            "osm_value": "clinic",
+            "type": "house",
+            "name": "Maternidade Zacarias Junior",
+            "street": "Rua Hipólito Santos",
+            "locality": "Centro",
+            "district": "Centro",
+            "city": "Lagarto",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49400-000",
+            "countrycode": "BR",
+            "extent": [
+              -37.6734776,
+              -10.9123279,
+              -37.6727776,
+              -10.9129274
+            ]
+          },
+          "precisaoEstimada": "POI/edificação de saúde; confirmar ponto e acesso da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": true,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": true,
+          "divergencias": [
+            "Provedor não informa número"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9125906%2C-37.6731797",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9125906&mlon=-37.6731797#map=18/-10.9125906/-37.6731797",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": true,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/272971058"
+        },
+        {
+          "candidatoId": "f7939c621de76d9f",
+          "nomeRetornado": "Maternidade Zacarias Junior",
+          "latitude": -10.9136426,
+          "longitude": -37.6696658,
+          "fonte": "https://www.openstreetmap.org/way/267159389",
+          "consulta": "https://photon.komoot.io/api/?q=Maternidade+Zacarias+Junior%2C+Lagarto%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 267159389,
+            "osm_key": "building",
+            "osm_value": "yes",
+            "type": "house",
+            "name": "Maternidade Zacarias Junior",
+            "street": "Avenida Francisco Garcez",
+            "locality": "Centro",
+            "district": "Centro",
+            "city": "Lagarto",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49400-000",
+            "countrycode": "BR",
+            "extent": [
+              -37.669917,
+              -10.9133951,
+              -37.6694147,
+              -10.9138903
+            ]
+          },
+          "precisaoEstimada": "Ponto de endereço/edificação; correspondência com a unidade não confirmada",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": true,
+          "divergencias": [
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9136426%2C-37.6696658",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9136426&mlon=-37.6696658#map=18/-10.9136426/-37.6696658",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/267159389"
+        }
+      ],
+      "consultas": [
+        {
+          "texto": "Rua Hipólito Santos, 20, Centro, Lagarto, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Rua+Hip%C3%B3lito+Santos%2C+20%2C+Centro%2C+Lagarto%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:08.546362+00:00"
+        },
+        {
+          "texto": "Maternidade Zacarias Júnior, Rua Hipólito Santos, 20, Centro, Lagarto, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Maternidade+Zacarias+J%C3%BAnior%2C+Rua+Hip%C3%B3lito+Santos%2C+20%2C+Centro%2C+Lagarto%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": null
+        }
+      ],
+      "erros": [
+        "Cache ausente/expirado; pesquisa online não executada."
+      ],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço atual do BLH na Maternidade Zacarias Júnior: fontes cadastrais históricas divergem na grafia e numeração",
+        "Telefone proveniente de publicação de 2018; confirmar contato e situação operacional atuais",
+        "Obter coordenadas oficiais verificadas da unidade",
+        "Número 20 confirmado documentalmente pela rede hospitalar; a fonte histórica indica s/n, e a entrada física ainda precisa ser conferida",
+        "Confirmar o ponto e o acesso do BLH na Maternidade Zacarias Júnior",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+      "estado": "SE",
+      "cidade": "Aracaju",
+      "enderecoPesquisa": "Avenida Simeão Sobral, s/n, Santo Antônio, Aracaju, Sergipe, Brasil",
+      "fonteEndereco": "https://saude.se.gov.br/hospitais/",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/geografia/sergipe.candidatas.json",
+        "hashRelatorio": "2d6c75098b86ed8967512e9a247a4fbc1f42574fa7ecece78434ed945de7c5a9",
+        "revisao": "data/blh/geografia/sergipe.aprovacao-manual.json",
+        "hashRevisao": "4b46dcd4c1871d0aff36c7736437e2e6fa5e054a67a724f83f9d38d64d8c7fad",
+        "decisaoAnterior": {
+          "id": "se-posto-fernando-guedes-santa-isabel",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+            "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+            "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+            "Confirmar o ponto e a entrada do posto de coleta, sem presumir que o centro do hospital seja seu acesso",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [
+        {
+          "texto": "Avenida Simeão Sobral, s/n, Santo Antônio, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Avenida+Sime%C3%A3o+Sobral%2C+s%2Fn%2C+Santo+Ant%C3%B4nio%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:12.546642+00:00"
+        },
+        {
+          "texto": "Hospital e Maternidade Santa Isabel, Avenida Simeão Sobral, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Hospital+e+Maternidade+Santa+Isabel%2C+Avenida+Sime%C3%A3o+Sobral%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:14.547048+00:00"
+        }
+      ],
+      "confianca": "nao_encontrado",
+      "candidatos": [
+        {
+          "candidatoId": "3e3e5b64c6aa673c",
+          "nomeRetornado": "Avenida Simeão Sobral",
+          "latitude": -10.9030839,
+          "longitude": -37.0598883,
+          "fonte": "https://www.openstreetmap.org/way/186050412",
+          "consulta": "https://photon.komoot.io/api/?q=Avenida+Sime%C3%A3o+Sobral%2C+s%2Fn%2C+Santo+Ant%C3%B4nio%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 186050412,
+            "osm_key": "highway",
+            "osm_value": "secondary",
+            "type": "street",
+            "name": "Avenida Simeão Sobral",
+            "district": "Santo Antônio",
+            "city": "Aracaju",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49060-470",
+            "countrycode": "BR",
+            "extent": [
+              -37.0599522,
+              -10.9030833,
+              -37.0598245,
+              -10.9030846
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9030839%2C-37.0598883",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9030839&mlon=-37.0598883#map=18/-10.9030839/-37.0598883",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/186050412"
+        },
+        {
+          "candidatoId": "e88e4eb924ccac9d",
+          "nomeRetornado": "Avenida Simeão Sobral",
+          "latitude": -10.9030508,
+          "longitude": -37.0555976,
+          "fonte": "https://www.openstreetmap.org/way/1092329629",
+          "consulta": "https://photon.komoot.io/api/?q=Avenida+Sime%C3%A3o+Sobral%2C+s%2Fn%2C+Santo+Ant%C3%B4nio%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 1092329629,
+            "osm_key": "highway",
+            "osm_value": "secondary",
+            "type": "street",
+            "name": "Avenida Simeão Sobral",
+            "district": "Santo Antônio",
+            "city": "Aracaju",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49055-180",
+            "countrycode": "BR",
+            "extent": [
+              -37.0556624,
+              -10.9030497,
+              -37.0555329,
+              -10.9030523
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9030508%2C-37.0555976",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9030508&mlon=-37.0555976#map=18/-10.9030508/-37.0555976",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/1092329629"
+        },
+        {
+          "candidatoId": "ca6721a181ff103b",
+          "nomeRetornado": "Avenida Simeão Sobral",
+          "latitude": -10.9030722,
+          "longitude": -37.0603974,
+          "fonte": "https://www.openstreetmap.org/way/642770545",
+          "consulta": "https://photon.komoot.io/api/?q=Avenida+Sime%C3%A3o+Sobral%2C+s%2Fn%2C+Santo+Ant%C3%B4nio%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 642770545,
+            "osm_key": "highway",
+            "osm_value": "tertiary",
+            "type": "street",
+            "name": "Avenida Simeão Sobral",
+            "district": "Santo Antônio",
+            "city": "Aracaju",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49060-470",
+            "countrycode": "BR",
+            "extent": [
+              -37.0608427,
+              -10.9030612,
+              -37.0599522,
+              -10.9030833
+            ]
+          },
+          "precisaoEstimada": "Via ou referência genérica: não utilizar como localização da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Referência genérica de via/área; não corresponde ao ponto da unidade",
+            "Provedor não informa logradouro",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9030722%2C-37.0603974",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9030722&mlon=-37.0603974#map=18/-10.9030722/-37.0603974",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": false,
+          "origemAnterior": "https://www.openstreetmap.org/way/642770545"
+        }
+      ],
+      "consultas": [
+        {
+          "texto": "Avenida Simeão Sobral, s/n, Santo Antônio, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Avenida+Sime%C3%A3o+Sobral%2C+s%2Fn%2C+Santo+Ant%C3%B4nio%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:12.546642+00:00"
+        },
+        {
+          "texto": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel, Avenida Simeão Sobral, s/n, Santo Antônio, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Posto+de+Coleta+Dr.+Fernando+Guedes+%E2%80%94+Maternidade+Santa+Isabel%2C+Avenida+Sime%C3%A3o+Sobral%2C+s%2Fn%2C+Santo+Ant%C3%B4nio%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": null
+        }
+      ],
+      "erros": [
+        "Cache ausente/expirado; pesquisa online não executada."
+      ],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+        "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+        "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+        "Confirmar o ponto e a entrada do posto de coleta, sem presumir que o centro do hospital seja seu acesso",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+      "estado": "SE",
+      "cidade": "Aracaju",
+      "enderecoPesquisa": "Rua Procurador José Costa Cavalcante, 64, 17 de Março, Aracaju, Sergipe, Brasil",
+      "fonteEndereco": "https://www.aracaju.se.gov.br/noticias/113932/convite-a-imprensa-prefeitura-de-aracaju-apresenta-novos-servicos-da-maternidade-lourdes-nogueira-nesta-segunda-feira-10",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/geografia/sergipe.candidatas.json",
+        "hashRelatorio": "2d6c75098b86ed8967512e9a247a4fbc1f42574fa7ecece78434ed945de7c5a9",
+        "revisao": "data/blh/geografia/sergipe.aprovacao-manual.json",
+        "hashRevisao": "4b46dcd4c1871d0aff36c7736437e2e6fa5e054a67a724f83f9d38d64d8c7fad",
+        "decisaoAnterior": {
+          "id": "se-posto-maternidade-lourdes-nogueira",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+            "Obter telefone oficial específico para orientação de doadoras",
+            "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+            "Confirmar ponto e acesso específico do posto de coleta dentro da maternidade",
+            "Não confundir o posto próprio da maternidade com a instalação temporária do BLH Marly Sarney",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [
+        {
+          "texto": "Rua Procurador José Costa Cavalcante, 64, 17 de Março, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Rua+Procurador+Jos%C3%A9+Costa+Cavalcante%2C+64%2C+17+de+Mar%C3%A7o%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:16.547314+00:00"
+        },
+        {
+          "texto": "Maternidade Municipal Lourdes Nogueira, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Maternidade+Municipal+Lourdes+Nogueira%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:18.548114+00:00"
+        }
+      ],
+      "confianca": "nao_encontrado",
+      "candidatos": [
+        {
+          "candidatoId": "d6e4a3dbb58a4e36",
+          "nomeRetornado": "Maternidade Nossa Senhora de Lourdes",
+          "latitude": -10.9213093,
+          "longitude": -37.0817916,
+          "fonte": "https://www.openstreetmap.org/way/362138513",
+          "consulta": "https://photon.komoot.io/api/?q=Maternidade+Municipal+Lourdes+Nogueira%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "enderecoRetornado": {
+            "osm_type": "W",
+            "osm_id": 362138513,
+            "osm_key": "amenity",
+            "osm_value": "hospital",
+            "type": "house",
+            "name": "Maternidade Nossa Senhora de Lourdes",
+            "street": "Avenida PresidenteTancredo Neves",
+            "district": "América",
+            "city": "Aracaju",
+            "state": "Sergipe",
+            "country": "Brazil",
+            "postcode": "49082-096",
+            "countrycode": "BR",
+            "extent": [
+              -37.0826762,
+              -10.9204765,
+              -37.0810545,
+              -10.9221448
+            ]
+          },
+          "precisaoEstimada": "POI/edificação de saúde; confirmar ponto e acesso da unidade",
+          "margemErroMetros": null,
+          "observacaoPrecisao": "O provedor não informa margem de erro em metros; classificação qualitativa, não certificação.",
+          "coordenadasVerificadas": false,
+          "passivelRevisao": false,
+          "municipioCompativel": true,
+          "estadoCompativel": true,
+          "nomeInstituicaoCompativel": false,
+          "divergencias": [
+            "Nome não confirma a instituição procurada",
+            "Logradouro retornado diverge do endereço oficial de pesquisa",
+            "Provedor não informa número",
+            "Estabelecimento retornado não corresponde aos nomes de referência"
+          ],
+          "rotaCandidata": "https://www.google.com/maps/dir/?api=1&destination=-10.9213093%2C-37.0817916",
+          "mapaCandidato": "https://www.openstreetmap.org/?mlat=-10.9213093&mlon=-37.0817916#map=18/-10.9213093/-37.0817916",
+          "nivelConfianca": "baixa",
+          "logradouroCompativel": false,
+          "numeroCompativel": false,
+          "conflitoEndereco": true,
+          "origemAnterior": "https://www.openstreetmap.org/way/362138513"
+        }
+      ],
+      "consultas": [
+        {
+          "texto": "Rua Procurador José Costa Cavalcante, 64, 17 de Março, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Rua+Procurador+Jos%C3%A9+Costa+Cavalcante%2C+64%2C+17+de+Mar%C3%A7o%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": "2026-11-11T07:56:16.547314+00:00"
+        },
+        {
+          "texto": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira, Rua Procurador José Costa Cavalcante, 64, 17 de Março, Aracaju, Sergipe, Brasil",
+          "url": "https://photon.komoot.io/api/?q=Posto+de+Coleta+de+Leite+Humano+da+Maternidade+Municipal+Lourdes+Nogueira%2C+Rua+Procurador+Jos%C3%A9+Costa+Cavalcante%2C+64%2C+17+de+Mar%C3%A7o%2C+Aracaju%2C+Sergipe%2C+Brasil&limit=5&countrycode=BR",
+          "consultadoEm": null
+        }
+      ],
+      "erros": [
+        "Cache ausente/expirado; pesquisa online não executada."
+      ],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+        "Obter telefone oficial específico para orientação de doadoras",
+        "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+        "Confirmar ponto e acesso específico do posto de coleta dentro da maternidade",
+        "Não confundir o posto próprio da maternidade com a instalação temporária do BLH Marly Sarney",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ],
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "73bd37301312e713fbbaaa98a1c97da1df11c65ace4b3c29c1e5beb04db0d5f3"
+}

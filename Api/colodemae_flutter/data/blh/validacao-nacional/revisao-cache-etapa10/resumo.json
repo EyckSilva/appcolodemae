@@ -1,0 +1,326 @@
+{
+  "totalAnalisado": 215,
+  "porUF": {
+    "AC": {
+      "total": 2,
+      "pendentes": 2,
+      "semEnderecoOficial": 2,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 2
+    },
+    "AL": {
+      "total": 4,
+      "pendentes": 4,
+      "semEnderecoOficial": 4,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 4
+    },
+    "AM": {
+      "total": 3,
+      "pendentes": 3,
+      "semEnderecoOficial": 3,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 3
+    },
+    "AP": {
+      "total": 1,
+      "pendentes": 1,
+      "semEnderecoOficial": 1,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 1
+    },
+    "BA": {
+      "total": 11,
+      "pendentes": 11,
+      "semEnderecoOficial": 11,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 11
+    },
+    "CE": {
+      "total": 9,
+      "pendentes": 9,
+      "semEnderecoOficial": 9,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 9
+    },
+    "DF": {
+      "total": 13,
+      "pendentes": 13,
+      "semEnderecoOficial": 10,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 13
+    },
+    "ES": {
+      "total": 6,
+      "pendentes": 6,
+      "semEnderecoOficial": 6,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 6
+    },
+    "GO": {
+      "total": 4,
+      "pendentes": 4,
+      "semEnderecoOficial": 4,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 4
+    },
+    "MA": {
+      "total": 3,
+      "pendentes": 3,
+      "semEnderecoOficial": 3,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 3
+    },
+    "MG": {
+      "total": 12,
+      "pendentes": 12,
+      "semEnderecoOficial": 12,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 12
+    },
+    "MS": {
+      "total": 3,
+      "pendentes": 3,
+      "semEnderecoOficial": 3,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 3
+    },
+    "MT": {
+      "total": 3,
+      "pendentes": 3,
+      "semEnderecoOficial": 3,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 3
+    },
+    "PA": {
+      "total": 6,
+      "pendentes": 6,
+      "semEnderecoOficial": 6,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 6
+    },
+    "PB": {
+      "total": 6,
+      "pendentes": 6,
+      "semEnderecoOficial": 6,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 6
+    },
+    "PE": {
+      "total": 8,
+      "pendentes": 8,
+      "semEnderecoOficial": 8,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 8
+    },
+    "PI": {
+      "total": 1,
+      "pendentes": 1,
+      "semEnderecoOficial": 1,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 1
+    },
+    "PR": {
+      "total": 14,
+      "pendentes": 14,
+      "semEnderecoOficial": 14,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 14
+    },
+    "RJ": {
+      "total": 13,
+      "pendentes": 13,
+      "semEnderecoOficial": 13,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 13
+    },
+    "RN": {
+      "total": 6,
+      "pendentes": 6,
+      "semEnderecoOficial": 6,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 6
+    },
+    "RO": {
+      "total": 1,
+      "pendentes": 1,
+      "semEnderecoOficial": 1,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 1
+    },
+    "RR": {
+      "total": 1,
+      "pendentes": 1,
+      "semEnderecoOficial": 1,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 1
+    },
+    "RS": {
+      "total": 8,
+      "pendentes": 8,
+      "semEnderecoOficial": 8,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 8
+    },
+    "SC": {
+      "total": 15,
+      "pendentes": 15,
+      "semEnderecoOficial": 15,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 15
+    },
+    "SE": {
+      "total": 5,
+      "pendentes": 5,
+      "semEnderecoOficial": 0,
+      "alta": 0,
+      "media": 0,
+      "baixa": 1,
+      "conflito": 1,
+      "nao_encontrado": 3
+    },
+    "SP": {
+      "total": 54,
+      "pendentes": 54,
+      "semEnderecoOficial": 54,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 54
+    },
+    "TO": {
+      "total": 3,
+      "pendentes": 3,
+      "semEnderecoOficial": 3,
+      "alta": 0,
+      "media": 0,
+      "baixa": 0,
+      "conflito": 0,
+      "nao_encontrado": 3
+    }
+  },
+  "confianca": {
+    "alta": 0,
+    "media": 0,
+    "baixa": 1,
+    "conflito": 1,
+    "nao_encontrado": 213
+  },
+  "resultadosBrutosValidos": 26,
+  "candidatasParaRevisao": 2,
+  "unidadesComCandidataAdequada": 2,
+  "semLocalizacaoAdequada": 213,
+  "coordenadasAprovadasNestaEtapa": 0,
+  "pendentes": 215,
+  "requisicoesHTTP": 0,
+  "consultasCache": 8,
+  "somenteCache": true,
+  "gravacaoFirebase": false,
+  "arquivosProtegidosIntactos": 242,
+  "hashBaseNacional": "0e0547e287774972c28422dbbb2a5a9ad0d1c511f7089b38eb6a735526518778",
+  "provedor": {
+    "endpoint": "https://photon.komoot.io/api/",
+    "politica": "https://github.com/komoot/photon#demo-server",
+    "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+    "licenca": "ODbL",
+    "cachePermitido": true,
+    "cacheDias": 30,
+    "intervaloSegundos": 2,
+    "maxRequisicoesExecucao": 100,
+    "maxRequisicoesDia": 100,
+    "tamanhoLote": 25
+  },
+  "fontesDocumentais": [
+    {
+      "arquivo": "portaria-11175-2026.html",
+      "url": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "consultadoEm": "2026-11-11T08:21:09.313679+00:00",
+      "sha256": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7"
+    },
+    {
+      "arquivo": "ses-df-banco-de-leite.html",
+      "url": "https://saude.df.gov.br/banco-de-leite",
+      "consultadoEm": "2026-11-11T08:21:10.034214+00:00",
+      "sha256": "763ac56280c81c1b093cc7a91c2457c6cb16cbee3da247c58da3a67cd634e5f9"
+    },
+    {
+      "arquivo": "amamenta-brasilia.html",
+      "url": "https://amamentabrasilia.saude.df.gov.br/",
+      "consultadoEm": "2026-11-11T08:21:10.882456+00:00",
+      "sha256": "22d675faf711050b3ed1b0b0ee67e268fc63e77ab6d560b7288de29d59da024b"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "am-blh-cnes-2019558",
+    "nome": "Banco de Leite Humano Fesinha Anzoategui",
+    "tipo": "BLH",
+    "cidade": "MANAUS",
+    "estado": "AM",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 7,
+      "cnesInformadoNoAnexo": "2019558",
+      "mantenedora": "Maternidade Balbina Mestrinho",
+      "municipioEntidade": "Manaus",
+      "municipioBLH": "MANAUS",
+      "nomeNoAnexo": "Banco de Leite Humano Fesinha Anzoategui",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "am-blh-cnes-3004104",
+    "nome": "Banco de Leite Humano da Galileia",
+    "tipo": "BLH",
+    "cidade": "MANAUS",
+    "estado": "AM",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 8,
+      "cnesInformadoNoAnexo": "3004104",
+      "mantenedora": "Maternidade Azilda da Silva Marreiro",
+      "municipioEntidade": "Manaus",
+      "municipioBLH": "MANAUS",
+      "nomeNoAnexo": "Banco de Leite Humano da Galileia",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "am-blh-cnes-3151794",
+    "nome": "Banco de Leite Humano da Maternidade de Referência Ana Braga",
+    "tipo": "BLH",
+    "cidade": "MANAUS",
+    "estado": "AM",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 9,
+      "cnesInformadoNoAnexo": "3151794",
+      "mantenedora": "Maternidade de Referência Ana Braga",
+      "municipioEntidade": "Manaus",
+      "municipioBLH": "MANAUS",
+      "nomeNoAnexo": "Banco de Leite Humano da Maternidade de Referência Ana Braga",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  }
+]

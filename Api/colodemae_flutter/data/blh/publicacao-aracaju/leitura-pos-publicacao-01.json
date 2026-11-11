@@ -1,0 +1,438 @@
+{
+  "projeto": "colo-de-mae-3510f",
+  "consultadoEm": "2026-11-11T17:02:45.424020+00:00",
+  "somenteLeitura": true,
+  "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0",
+  "verificacoes": {
+    "se-blh-marly-sarney": {
+      "publicacaoIdempotente": true,
+      "dadosRevisadosPreservados": true,
+      "criadoEmPreservado": true,
+      "historicoAnteriorPreservado": true,
+      "aprovacaoDocumental": true,
+      "aprovacaoGeografica": true,
+      "timestampServidor": true
+    },
+    "se-posto-maternidade-lourdes-nogueira": {
+      "publicacaoIdempotente": true,
+      "dadosRevisadosPreservados": true,
+      "criadoEmPreservado": true,
+      "historicoAnteriorPreservado": true,
+      "aprovacaoDocumental": true,
+      "aprovacaoGeografica": true,
+      "timestampServidor": true
+    },
+    "se-posto-fernando-guedes-santa-isabel": {
+      "publicacaoIdempotente": true,
+      "dadosRevisadosPreservados": true,
+      "criadoEmPreservado": true,
+      "historicoAnteriorPreservado": true,
+      "aprovacaoDocumental": true,
+      "aprovacaoGeografica": true,
+      "timestampServidor": true
+    }
+  },
+  "consultaMunicipalIds": [
+    "se-blh-marly-sarney",
+    "se-posto-fernando-guedes-santa-isabel",
+    "se-posto-maternidade-lourdes-nogueira"
+  ],
+  "totalDocumentosColecao": 5,
+  "documentos": {
+    "se-blh-irma-rafaela-pepel": {
+      "chaveUnidade": "blh-irma-rafaela-pepel",
+      "coordenadasVerificadas": false,
+      "publicado": false,
+      "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+      "criadoEm": "2026-11-11T07:45:49.929000+00:00",
+      "ativo": false,
+      "cidadeBusca": "itabaiana",
+      "hashConteudo": "ffa4d98f7b8a05023809adb655e126df8475d1cad0ae51da51ae2c3a6d6d08a9",
+      "verificacao": "pendente",
+      "cidade": "Itabaiana",
+      "fontesCampos": {
+        "telefone": "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/",
+        "endereco": "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/"
+      },
+      "pendencias": [
+        "Endereço e telefone são evidências históricas publicadas em 2018; confirmar dados atuais e situação operacional",
+        "Obter coordenadas oficiais verificadas da unidade"
+      ],
+      "atualizadoEm": "2026-11-11T07:45:49.929000+00:00",
+      "versaoSchema": 2,
+      "tipo": "BLH",
+      "telefone": "(79) 3431-2290",
+      "nome": "Banco de Leite Humano Irmã Rafaela Pepel",
+      "consultadoEm": "2026-11-11T07:35:34+00:00",
+      "estado": "SE",
+      "endereco": "Rua Jackson de Figueiredo, 401, Centro"
+    },
+    "se-blh-marly-sarney": {
+      "coordenadasVerificadas": true,
+      "publicado": true,
+      "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+      "criadoEm": "2026-11-11T07:45:49.701000+00:00",
+      "ultimaPublicacaoControlada": {
+        "responsavel": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "autorizadoEm": "2026-11-11T16:59:29.053500+00:00",
+        "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0"
+      },
+      "cidadeBusca": "aracaju",
+      "cidade": "Aracaju",
+      "pendencias": [],
+      "atualizadoEm": "2026-11-11T17:03:57.514000+00:00",
+      "horarioFuncionamento": "Segunda a sexta\n7h às 19h",
+      "latitude": -10.90619346346821,
+      "aprovacaoDocumental": {
+        "aprovadoPor": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "fontes": {
+          "telefone": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002569",
+          "horarioFuncionamento": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/",
+          "endereco": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/"
+        },
+        "status": "aprovado",
+        "aprovadoEm": "2026-11-11T17:03:57.514000+00:00"
+      },
+      "cnesEstabelecimento": "0002569",
+      "historicoValidacaoAnterior": [
+        {
+          "dadosAnteriores": {
+            "chaveUnidade": "blh-marly-sarney",
+            "coordenadasVerificadas": false,
+            "publicado": false,
+            "criadoEm": "2026-11-11T07:45:49.701000+00:00",
+            "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+            "ativo": false,
+            "cidadeBusca": "aracaju",
+            "hashConteudo": "b25613824fb8d5227408190f4ddcb473c8454f4d830a1db5d907d29a8d3624c0",
+            "cidade": "Aracaju",
+            "verificacao": "pendente",
+            "fontesCampos": {
+              "telefone": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+              "endereco": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+            },
+            "pendencias": [
+              "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+              "Revalidar telefone de atendimento",
+              "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município"
+            ],
+            "atualizadoEm": "2026-11-11T07:45:49.701000+00:00",
+            "versaoSchema": 2,
+            "tipo": "BLH",
+            "consultadoEm": "2026-11-11T07:35:34+00:00",
+            "nome": "Banco de Leite Humano Marly Sarney",
+            "telefone": "(79) 3226-6301",
+            "estado": "SE",
+            "endereco": "Rua Mato Grosso, s/n, bairro José Conrado de Araújo"
+          },
+          "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0",
+          "registradoEm": "2026-11-11T16:59:29.053500+00:00"
+        }
+      ],
+      "tipo": "BLH",
+      "telefone": "(79)32266301",
+      "consultadoEm": "2026-11-11T07:35:34+00:00",
+      "cep": "49085220",
+      "longitude": -37.07967947461301,
+      "relacaoCnes": "proprio",
+      "chaveUnidade": "blh-marly-sarney",
+      "fonteCoordenadas": "https://www.google.com/maps/search/?api=1&query=-10.90619346346821,-37.07967947461301",
+      "ativo": true,
+      "geohash": "7nj9unx6u",
+      "hashConteudo": "61d73d2f3640eca2a6d61b8c08bb667be7aa279d7e9801c4144365dfd284b3f0",
+      "verificacao": "verificado",
+      "fontesCampos": {
+        "horarioFuncionamento": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/",
+        "telefone": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002569",
+        "endereco": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/"
+      },
+      "aprovacaoGeografica": {
+        "conferenciaPrevia": {
+          "servicoInformado": "Google Maps",
+          "aprovacaoGeografica": "pendente_autorizacao_responsavel",
+          "fontes": [
+            "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002569"
+          ],
+          "ressalvas": [
+            "Séries históricas divergentes não foram escolhidas como coordenada atual; a tolerância não é margem de erro GPS."
+          ],
+          "resultado": "compativel_com_estabelecimento",
+          "origem": "fornecida_responsavel_projeto",
+          "criterio": "Coincidência com o cadastro próprio atual do BLH (tolerância de comparação 25 m, não precisão certificada)",
+          "linkConferenciaGerado": "https://www.google.com/maps/search/?api=1&query=-10.90619346346821,-37.07967947461301",
+          "distanciaAoPontoCadastralDemasMetros": 7.13
+        },
+        "aprovadoPor": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "origem": "Coordenadas fornecidas manualmente pelo responsável pelo projeto nesta conversa",
+        "escopo": "proprio",
+        "status": "aprovado",
+        "aprovadoEm": "2026-11-11T17:03:57.514000+00:00",
+        "servicoInformado": "Google Maps"
+      },
+      "verificadoEm": "2026-11-11T16:59:29.053500+00:00",
+      "versaoSchema": 2,
+      "nome": "Banco de Leite Humano Marly Sarney",
+      "descricaoTelefone": "Recepção do BLH",
+      "estado": "SE",
+      "endereco": "Rua Mato Grosso, s/n, José Conrado de Araújo",
+      "coordenadasVerificadasEm": "2026-11-11T17:03:57.514000+00:00"
+    },
+    "se-blh-zoed-bittencourt": {
+      "chaveUnidade": "blh-zoed-bittencourt",
+      "coordenadasVerificadas": false,
+      "publicado": false,
+      "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+      "criadoEm": "2026-11-11T07:45:50.162000+00:00",
+      "ativo": false,
+      "cidadeBusca": "lagarto",
+      "hashConteudo": "153dc785d47f297cb0e2ca642cadc43cfe20550bf5f39603d9f5b961362dfb14",
+      "cidade": "Lagarto",
+      "verificacao": "pendente",
+      "fontesCampos": {
+        "telefone": "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/"
+      },
+      "pendencias": [
+        "Confirmar endereço atual do BLH na Maternidade Zacarias Júnior: fontes cadastrais históricas divergem na grafia e numeração",
+        "Telefone proveniente de publicação de 2018; confirmar contato e situação operacional atuais",
+        "Obter coordenadas oficiais verificadas da unidade"
+      ],
+      "atualizadoEm": "2026-11-11T07:45:50.162000+00:00",
+      "versaoSchema": 2,
+      "tipo": "BLH",
+      "consultadoEm": "2026-11-11T07:35:34+00:00",
+      "nome": "Banco de Leite Humano Zóed Bittencourt",
+      "telefone": "(79) 3631-2723",
+      "estado": "SE"
+    },
+    "se-posto-fernando-guedes-santa-isabel": {
+      "coordenadasVerificadas": true,
+      "publicado": true,
+      "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+      "criadoEm": "2026-11-11T07:45:50.394000+00:00",
+      "ultimaPublicacaoControlada": {
+        "responsavel": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "autorizadoEm": "2026-11-11T16:59:29.053500+00:00",
+        "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0"
+      },
+      "cidadeBusca": "aracaju",
+      "cidade": "Aracaju",
+      "pendencias": [],
+      "atualizadoEm": "2026-11-11T17:03:57.514000+00:00",
+      "horarioFuncionamento": "Todos os dias\n8h às 12h e 14h às 18h",
+      "latitude": -10.902491696685145,
+      "aprovacaoDocumental": {
+        "aprovadoPor": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "fontes": {
+          "telefone": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002232",
+          "horarioFuncionamento": "https://aab-se.org.br/posto-de-coleta",
+          "endereco": "https://aab-se.org.br/posto-de-coleta"
+        },
+        "status": "aprovado",
+        "aprovadoEm": "2026-11-11T17:03:57.514000+00:00"
+      },
+      "cnesEstabelecimento": "0002232",
+      "historicoValidacaoAnterior": [
+        {
+          "dadosAnteriores": {
+            "chaveUnidade": "posto-fernando-guedes-santa-isabel",
+            "coordenadasVerificadas": false,
+            "publicado": false,
+            "criadoEm": "2026-11-11T07:45:50.394000+00:00",
+            "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+            "ativo": false,
+            "cidadeBusca": "aracaju",
+            "hashConteudo": "48b4d37b0482b5401e301101ab1bab80f8695f3d06949a5cd024854cb5ab9d53",
+            "cidade": "Aracaju",
+            "verificacao": "pendente",
+            "fontesCampos": {
+              "telefone": "https://saude.se.gov.br/hospitais/",
+              "endereco": "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/"
+            },
+            "pendencias": [
+              "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+              "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+              "Confirmar situação operacional e obter coordenadas oficiais verificadas"
+            ],
+            "atualizadoEm": "2026-11-11T07:45:50.394000+00:00",
+            "versaoSchema": 2,
+            "tipo": "Posto de Coleta",
+            "consultadoEm": "2026-11-11T07:35:34+00:00",
+            "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+            "telefone": "(79) 3212-4900",
+            "estado": "SE",
+            "endereco": "Avenida Simeão Sobral, s/n, bairro Santo Antônio"
+          },
+          "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0",
+          "registradoEm": "2026-11-11T16:59:29.053500+00:00"
+        }
+      ],
+      "tipo": "Posto de Coleta",
+      "telefone": "79 32124900",
+      "consultadoEm": "2026-11-11T07:35:34+00:00",
+      "cep": "49072720",
+      "longitude": -37.062623903449044,
+      "relacaoCnes": "mantenedora",
+      "chaveUnidade": "posto-fernando-guedes-santa-isabel",
+      "fonteCoordenadas": "https://www.google.com/maps/search/?api=1&query=-10.902491696685145,-37.062623903449044",
+      "ativo": true,
+      "geohash": "7nj9ux7b6",
+      "hashConteudo": "e568032d3b970a802d7447086ae1efc4260ddc181c3ba3676fa9689e3422ea06",
+      "verificacao": "verificado",
+      "fontesCampos": {
+        "horarioFuncionamento": "https://aab-se.org.br/posto-de-coleta",
+        "telefone": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002232",
+        "endereco": "https://aab-se.org.br/posto-de-coleta"
+      },
+      "aprovacaoGeografica": {
+        "conferenciaPrevia": {
+          "servicoInformado": "Google Maps",
+          "aprovacaoGeografica": "pendente_autorizacao_responsavel",
+          "fontes": [
+            "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002232",
+            "https://api.openstreetmap.org/api/0.6/way/292330063/full.json"
+          ],
+          "ressalvas": [
+            "Ponto do estabelecimento mantenedor; não confirma sala, porta ou cadastro CNES exclusivo do posto.",
+            "Coordenada DEMAS distante foi rejeitada para esta proposta. O cadastro oficial e a AAB informam Avenida Simeão Sobral, 1312; via OSM próxima é Rua Deodato Maia, sem validação de acesso específico."
+          ],
+          "resultado": "compativel_com_estabelecimento",
+          "origem": "fornecida_responsavel_projeto",
+          "criterio": "Ponto dentro do polígono OSM do prédio Hospital Santa Isabel; conferência do estabelecimento mantenedor",
+          "linkConferenciaGerado": "https://www.google.com/maps/search/?api=1&query=-10.902491696685145,-37.062623903449044",
+          "distanciaAoPontoCadastralDemasMetros": 36957.43
+        },
+        "aprovadoPor": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "origem": "Coordenadas fornecidas manualmente pelo responsável pelo projeto nesta conversa",
+        "escopo": "mantenedora",
+        "status": "aprovado",
+        "aprovadoEm": "2026-11-11T17:03:57.514000+00:00",
+        "servicoInformado": "Google Maps"
+      },
+      "verificadoEm": "2026-11-11T16:59:29.053500+00:00",
+      "versaoSchema": 2,
+      "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+      "descricaoTelefone": "Contato do hospital",
+      "estado": "SE",
+      "endereco": "Avenida Simeão Sobral, 1312, Dezoito do Forte",
+      "coordenadasVerificadasEm": "2026-11-11T17:03:57.514000+00:00"
+    },
+    "se-posto-maternidade-lourdes-nogueira": {
+      "coordenadasVerificadas": true,
+      "publicado": true,
+      "fonte": "https://www.aracaju.se.gov.br/noticias/118605/agosto-dourado-prefeitura-fortalece-acoes-de-incentivo-a-amamentacao-e-doacao-de-leite-humano",
+      "criadoEm": "2026-11-11T07:45:50.625000+00:00",
+      "ultimaPublicacaoControlada": {
+        "responsavel": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "autorizadoEm": "2026-11-11T16:59:29.053500+00:00",
+        "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0"
+      },
+      "cidadeBusca": "aracaju",
+      "cidade": "Aracaju",
+      "pendencias": [],
+      "atualizadoEm": "2026-11-11T17:03:57.514000+00:00",
+      "horarioFuncionamento": "Internadas: atendimento 24h\nDoação externa: confirme por telefone",
+      "latitude": -10.999583128695352,
+      "aprovacaoDocumental": {
+        "aprovadoPor": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "fontes": {
+          "telefone": "https://ints.org.br/wp-content/uploads/2024/06/PO.ADM_.010-01-Telefonia.pdf",
+          "horarioFuncionamento": "https://www.aracaju.se.gov.br/noticias/106714/maternidade_lourdes_nogueira_evolui_na_promocao_do_aleitamento_materno_e_seguranca_alimentar_dos_recem-nascidos.html",
+          "endereco": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/4099206"
+        },
+        "status": "aprovado",
+        "aprovadoEm": "2026-11-11T17:03:57.514000+00:00"
+      },
+      "cnesEstabelecimento": "4099206",
+      "historicoValidacaoAnterior": [
+        {
+          "dadosAnteriores": {
+            "chaveUnidade": "posto-maternidade-lourdes-nogueira",
+            "coordenadasVerificadas": false,
+            "publicado": false,
+            "criadoEm": "2026-11-11T07:45:50.625000+00:00",
+            "fonte": "https://www.aracaju.se.gov.br/noticias/118605/agosto-dourado-prefeitura-fortalece-acoes-de-incentivo-a-amamentacao-e-doacao-de-leite-humano",
+            "ativo": false,
+            "cidadeBusca": "aracaju",
+            "hashConteudo": "6c623b5247843397af856011a0cd29330d309a884bfad05931a956ec860b31c6",
+            "cidade": "Aracaju",
+            "verificacao": "pendente",
+            "pendencias": [
+              "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+              "Obter telefone oficial específico para orientação de doadoras",
+              "Confirmar situação operacional e obter coordenadas oficiais verificadas"
+            ],
+            "atualizadoEm": "2026-11-11T07:45:50.625000+00:00",
+            "versaoSchema": 2,
+            "tipo": "Posto de Coleta",
+            "consultadoEm": "2026-11-11T07:35:34+00:00",
+            "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+            "estado": "SE"
+          },
+          "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0",
+          "registradoEm": "2026-11-11T16:59:29.053500+00:00"
+        }
+      ],
+      "tipo": "Posto de Coleta",
+      "telefone": "7931422776",
+      "consultadoEm": "2026-11-11T07:35:34+00:00",
+      "cep": "49003247",
+      "longitude": -37.100241600455675,
+      "relacaoCnes": "mantenedora",
+      "chaveUnidade": "posto-maternidade-lourdes-nogueira",
+      "fonteCoordenadas": "https://www.google.com/maps/search/?api=1&query=-10.999583128695352,-37.100241600455675",
+      "ativo": true,
+      "geohash": "7nj97v86v",
+      "hashConteudo": "f1c68b897cdb3d777470e527b6d6432221a8547b583bd5e46d856358a4060be6",
+      "verificacao": "verificado",
+      "fontesCampos": {
+        "horarioFuncionamento": "https://www.aracaju.se.gov.br/noticias/106714/maternidade_lourdes_nogueira_evolui_na_promocao_do_aleitamento_materno_e_seguranca_alimentar_dos_recem-nascidos.html",
+        "telefone": "https://ints.org.br/wp-content/uploads/2024/06/PO.ADM_.010-01-Telefonia.pdf",
+        "endereco": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/4099206"
+      },
+      "aprovacaoGeografica": {
+        "conferenciaPrevia": {
+          "servicoInformado": "Google Maps",
+          "aprovacaoGeografica": "pendente_autorizacao_responsavel",
+          "fontes": [
+            "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/4099206",
+            "https://api.openstreetmap.org/api/0.6/way/841076721/full.json"
+          ],
+          "ressalvas": [
+            "Ponto do estabelecimento mantenedor; não confirma sala, porta ou cadastro CNES exclusivo do posto.",
+            "DEMAS usa s/n e Prefeitura usa nº 64; a referência OSM é Avenida João Batista Costa. Mesmo prédio, divergência de numeração/referência viária mantida no histórico. Não confirma acesso ao posto."
+          ],
+          "resultado": "compativel_com_estabelecimento",
+          "origem": "fornecida_responsavel_projeto",
+          "criterio": "Ponto dentro do polígono OSM do prédio Maternidade do 17 de Março; conferência do estabelecimento mantenedor",
+          "linkConferenciaGerado": "https://www.google.com/maps/search/?api=1&query=-10.999583128695352,-37.100241600455675",
+          "distanciaAoPontoCadastralDemasMetros": 55.55
+        },
+        "aprovadoPor": "Responsavel pelo projeto - autorizacao explicita no chat",
+        "origem": "Coordenadas fornecidas manualmente pelo responsável pelo projeto nesta conversa",
+        "escopo": "mantenedora",
+        "status": "aprovado",
+        "aprovadoEm": "2026-11-11T17:03:57.514000+00:00",
+        "servicoInformado": "Google Maps"
+      },
+      "verificadoEm": "2026-11-11T16:59:29.053500+00:00",
+      "versaoSchema": 2,
+      "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+      "descricaoTelefone": "Contato da maternidade",
+      "estado": "SE",
+      "endereco": "Rua Procurador José Costa Cavalcante, s/n, 17 de Março",
+      "coordenadasVerificadasEm": "2026-11-11T17:03:57.514000+00:00"
+    }
+  },
+  "versoes": {
+    "se-blh-irma-rafaela-pepel": "2026-11-11T07:45:49.951062+00:00",
+    "se-blh-marly-sarney": "2026-11-11T17:03:57.561024+00:00",
+    "se-blh-zoed-bittencourt": "2026-11-11T07:45:50.179662+00:00",
+    "se-posto-fernando-guedes-santa-isabel": "2026-11-11T17:03:57.561024+00:00",
+    "se-posto-maternidade-lourdes-nogueira": "2026-11-11T17:03:57.561024+00:00"
+  },
+  "registrosExternosInativos": [
+    "se-blh-irma-rafaela-pepel",
+    "se-blh-zoed-bittencourt"
+  ],
+  "aprovado": true
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "id": "ap-blh-cnes-2020068",
+    "nome": "Banco de Leite Humano do Hospital da Mulher Mãe Luzia",
+    "tipo": "BLH",
+    "cidade": "MACAPA",
+    "estado": "AP",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 10,
+      "cnesInformadoNoAnexo": "2020068",
+      "mantenedora": "Hospital da Mulher Mãe Luzia",
+      "municipioEntidade": "Macapá",
+      "municipioBLH": "MACAPA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital da Mulher Mãe Luzia",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  }
+]

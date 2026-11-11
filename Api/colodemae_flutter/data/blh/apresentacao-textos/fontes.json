@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "marly",
+    "fonte": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/",
+    "consultadoEm": "2026-11-11T15:54:48.151121+00:00",
+    "sha256": "a70d6dbf2579b0a3f95f69d5f9c381adc1dae8ae8dc6b6faeeb3d6094549bc19",
+    "http": 200
+  },
+  {
+    "nome": "santa-isabel",
+    "fonte": "https://aab-se.org.br/posto-de-coleta",
+    "consultadoEm": "2026-11-11T15:54:49.906035+00:00",
+    "sha256": "96716620a063509f8ffe46fe82e4f259eb24ffea2e8e2d24f890f879a9f91873",
+    "http": 200
+  },
+  {
+    "nome": "lourdes-horario",
+    "fonte": "https://ints.org.br/2023/06/29/articulacao-com-ubss-informa-as-gestantes-todo-o-funcionamento-da-maternidade-municipal-lourdes-nogueira/",
+    "erro": "URLError"
+  },
+  {
+    "nome": "lourdes-contato",
+    "fonte": "https://www.aracaju.se.gov.br/noticias/105523/visitas-guiadas-fortalecem-conexao-entre-gestantes-e-maternidade-lourdes-nogueira",
+    "erro": "URLError"
+  },
+  {
+    "nome": "lourdes-telefonia-institucional",
+    "fonte": "https://ints.org.br/wp-content/uploads/2024/06/PO.ADM_.010-01-Telefonia.pdf",
+    "metodo": "Consulta web do documento institucional indexado; telefone geral 7931422776, nao exclusivo do posto.",
+    "consultadoEm": "2026-11-11T15:58:16.440137+00:00"
+  },
+  {
+    "nome": "lourdes-horario-internadas",
+    "fonte": "https://www.aracaju.se.gov.br/noticias/106714/maternidade_lourdes_nogueira_evolui_na_promocao_do_aleitamento_materno_e_seguranca_alimentar_dos_recem-nascidos.html",
+    "metodo": "Consulta web indexada da Prefeitura; atendimento 24h para pacientes internadas; nao confirma doacao externa 24h.",
+    "consultadoEm": "2026-11-11T15:58:16.440153+00:00"
+  }
+]

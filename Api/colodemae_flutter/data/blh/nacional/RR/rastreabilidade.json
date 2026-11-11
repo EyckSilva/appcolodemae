@@ -1,0 +1,36 @@
+[
+  {
+    "id": "rr-blh-cnes-2566168",
+    "nome": "Banco de Leite Humano Dra. Marilurdes Albuquerque",
+    "tipo": "BLH",
+    "cidade": "BOA VISTA",
+    "estado": "RR",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 127,
+      "cnesInformadoNoAnexo": "2566168",
+      "mantenedora": "Hospital Materno Infantil N. Sra. de Nazareth",
+      "municipioEntidade": "Boa Vista",
+      "municipioBLH": "BOA VISTA",
+      "nomeNoAnexo": "Banco de Leite Humano Dra. Marilurdes Albuquerque",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  }
+]

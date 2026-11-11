@@ -4,6 +4,17 @@
 .packages
 .pub-cache/
 .pub/
+__pycache__/
+*.pyc
+.venv-blh/
+.secrets/
+service-account*.json
+*service_account*.json
+*-firebase-adminsdk-*.json
+application_default_credentials.json
+.env
+.env.*
+data/blh/geografia/cache/
 build/
 *.iml
 *.ipr

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4621666263",
+    "project_id": "colo-de-mae-3510f",
+    "storage_bucket": "colo-de-mae-3510f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4621666263:android:021912f18dab9daac86d92",
+        "android_client_info": {
+          "package_name": "com.example.colodemae_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhYf-8ETeUKh5VEUsE0EGX5cQPIUKbxXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

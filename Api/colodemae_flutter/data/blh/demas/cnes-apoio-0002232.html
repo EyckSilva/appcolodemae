@@ -1,0 +1,3119 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<table  colspan=2 lign=left border=0 width=780 cellspacing="0" cellpadding="0">
+ <tr>
+  <td>
+
+<!--***************************************************************
+// Desenvolvido Por  - DATASUS/CNES - RIO
+// Equipe ...........: CNES 
+// Endereço .........: CNES.DATSUS.GOV.BR 
+// Descricao.........: MENU PRINCIPAL  
+// Criado  por.......: WASHINGTON BELLOTI    
+//  ***************************************************************-->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="pt-BR">
+
+<head>
+  <title>CnesWeb - Cadastro Nacional de Estabelecimentos de Saúde</title>
+
+<style TYPE="text/css">
+<!--
+A:link    {text-decoration: none; font-weight:normal; color:#333333; }
+A:visited {text-decoration: none; font-weight:normal; color:#333333; }
+A:active  {text-decoration: none; color: #333333; }
+A:hover	  {color: #000066; }
+A.ff      {text-decoration: none; color: #333333; }
+A.ff:visited {text-decoration: none; color: #333333; }
+A.ff:hover	 {text-decoration: none; color:#000066; }
+A.ff:active  {text-decoration: none; color: #333333; }
+-->
+</style>
+
+<SCRIPT LANGUAGE="JavaScript">
+
+function Abre_Janela2()
+{
+	window.open('Mod_Email.asp','Links','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,copyhistory=no,width=650,height=480, top=180, left=280');
+}
+
+// Recuperando a configuracao de Video
+
+Tela = screen.width;  
+
+if (Tela == '1024')
+  Posicao = '180'
+else
+  Posicao = '13'
+
+//document.FrmPosicao.Posicao.value = screen.width;    
+
+// -------------------- Funcão para mostrar data e Hora --------------------------- 
+
+ hoje = new Date()
+ dia = hoje.getDate()
+ dias = hoje.getDay()
+ mes = hoje.getMonth()
+ ano = hoje.getYear()
+ if (dia < 10)
+    dia = "0" + dia
+ if (ano < 2000)
+    ano = "19" + ano
+
+ function CriaArray (n) 
+ {
+  this.length = n 
+ }
+
+ NomeDia = new CriaArray(7)
+ NomeDia[0] = "Domingo"
+ NomeDia[1] = "Segunda-feira"
+ NomeDia[2] = "Ter&ccedil;a-feira"
+ NomeDia[3] = "Quarta-feira"
+ NomeDia[4] = "Quinta-feira"
+ NomeDia[5] = "Sexta-feira"
+ NomeDia[6] = "S&aacute;bado"
+
+ NomeMes = new CriaArray(12)
+ NomeMes[0] = "Janeiro"
+ NomeMes[1] = "Fevereiro"
+ NomeMes[2] = "Mar&ccedil;o"
+ NomeMes[3] = "Abril"
+ NomeMes[4] = "Maio"
+ NomeMes[5] = "Junho"
+ NomeMes[6] = "Julho"
+ NomeMes[7] = "Agosto"
+ NomeMes[8] = "Setembro"
+ NomeMes[9] = "Outubro"
+ NomeMes[10] = "Novembro"
+ NomeMes[11] = "Dezembro"
+
+ function EscreveData() 
+
+ {
+ document.write ("<center>" + NomeDia[dias] + ", " + dia + " de " + NomeMes[mes] + " de " + ano + "</center>")
+ }
+ 
+ function Data_Atualizacao() 
+ {
+ dia = hoje.getDate();
+ dia = parseInt(dia);
+ dia = dia - 2 
+ mes = hoje.getMonth()
+ mes = parseInt(mes)
+ mes = mes + 1
+ ano = hoje.getYear()
+ document.write (dia + "/" + mes + "/"  + ano)
+ }
+
+// ---------------------- Fim da Funçaõ Data Hora ----------------------------------
+ 
+  NS4 = (document.layers);
+  IE4 = (document.all);
+  ver4 = (NS4 || IE4);
+  isMac = (navigator.appVersion.indexOf("Mac") != -1);
+  isMenu = (NS4 || (IE4 && !isMac));
+  function popUp(){return};
+  function popDown(){return};
+  function startIt(){return};
+  if (!ver4) event = null;
+
+  if (isMenu)
+   {
+    menuVersion = 3;
+    menuWidth = 150;
+    borWid = 2;
+    borSty = "double";
+    borCol = "#003366";
+    separator = 1;
+    separatorCol = "#003366";
+    fntFam = "sans-serif";
+    fntBold = false;
+    fntItal = false;
+    fntSiz = 8;
+    fntCol = "#003366";
+    overFnt = "#000080";
+    itemPad = 3;
+    backCol = "#cccccc";
+    overCol = "#ADD8E6";
+    
+    imgSrc = "tri.gif";
+    imgSiz = 10;
+
+    childOffset = 6;
+    childOverlap = 60;
+    perCentOver = null;
+
+    clickStart = false;
+    clickKill = false;
+    secondsVisible = 0.5;
+
+    keepHilite = false;
+    NSfontOver = false;
+
+    isFrames = false;
+    navFrLoc = "top";
+    mainFrName = "main";
+  }
+
+</SCRIPT>
+</head>
+  <script type='text/javascript'>
+
+      function Go(){return}
+  </script>
+  <script type='text/javascript' src='exmplmenu_var.js'></script>
+  <script type='text/javascript' src='menu_com.js'></script>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table  border=0 width=781 cellspacing="0" cellpadding="0">
+	<tr>
+ 		<td>
+  			<table  border="0" cellspacing="0" cellpadding="0">
+   				<tr>
+     				<!--<td width="781"><IMG  src="img/topo_novo4.jpg" alt="imagem do topo cnes" height=90 width=781 border=0></td>--> 
+     				<td width="781"><IMG  src="img/topo_novo_2014.jpg" alt="imagem do topo cnes" height=90 width=781 border=0></td> 
+     			</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+<br><br>
+</body>
+
+
+<html>
+	<head>
+   		<title>Ficha Estabelecimento - Conj.Ambulatorial / Hospitalar</title>
+	</head>
+	
+	<br>        
+	<body background="img/Fundo-28-01-2003.gif">
+		<P align="center">
+			<font color="#ffcc99" face="Verdana, Arial, Helvetica, sans-serif" size="2">
+				<b>Consulta Estabelecimento - Módulo Conjunto - Inf.Gerais</b>
+			</font>
+		</p>
+		<table border="1" align="center" cellpadding="1" cellspacing="0" width="735px">
+			<!------------------------------ Informaçoes Fisicas ---------------------------->
+  			<tr>
+     			<td width="300px">
+					<font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+						Informações gerais
+					</font>
+				</td>
+     			<td align="center">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+						HOSPITAL SANTA ISABEL
+					</font>
+				</td>
+  			</tr>
+  			 
+  				<tr>
+     				<td colspan="2">
+						<font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+							Instalações físicas para assistência
+						</font>
+					</td>
+  				</tr>
+  			
+		<!--------------------------------- Novo --------------------------------------->
+		
+			<!-------------------  Tabela que diz  Tipo de Equipamento ---------------------->
+			<table align="center" border="1" width="735px" cellpadding="1" cellspacing="0">
+				<tr>
+					<td>
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+							URGÊNCIA E EMERGÊNCIA
+						</font> 
+					</td>
+				</tr>
+			</table>
+    		<!-----------------------  Fim Tabela de Int.Fisicas Assistencia ----------------->
+			<!-----------------------------  Tabela de Cabeçalho ----------------------------->
+			<table align="center" border="0" width="735px" cellpadding="1" cellspacing="0"> 
+				<tr> 
+					<td bgcolor="#cccccc" width="45%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Instalação:</b>
+						</font>
+					</td>
+					<td bgcolor="#cccccc" width="15%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Qtde./Consultório:</b>
+						</font>
+					</td>
+					<td bgcolor="#cccccc" width="15%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Leitos/Equipamentos:</b>
+						</font>
+					</td>
+				</tr> 
+				<!-------------------------------   Fim  Cabeçalho ------------------------------->
+				
+								<tr bgcolor="#ffffff">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											SAlA DE ATENDIMENTO A PACIENTE CRITICO/SALA DE ESTABILIZACAO
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											1
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											5
+										</font> 
+									</td>
+								</tr> 
+						
+								<tr bgcolor="#cccccc">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											SALA DE ATENDIMENTO INDIFERENCIADO
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											3
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											0
+										</font> 
+									</td>
+								</tr> 
+						
+			<!-------------------  Tabela que diz  Tipo de Equipamento ---------------------->
+			<table align="center" border="1" width="735px" cellpadding="1" cellspacing="0">
+				<tr>
+					<td>
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+							AMBULATORIAL
+						</font> 
+					</td>
+				</tr>
+			</table>
+    		<!-----------------------  Fim Tabela de Int.Fisicas Assistencia ----------------->
+			<!-----------------------------  Tabela de Cabeçalho ----------------------------->
+			<table align="center" border="0" width="735px" cellpadding="1" cellspacing="0"> 
+				<tr> 
+					<td bgcolor="#cccccc" width="45%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Instalação:</b>
+						</font>
+					</td>
+					<td bgcolor="#cccccc" width="15%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Qtde./Consultório:</b>
+						</font>
+					</td>
+					<td bgcolor="#cccccc" width="15%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Leitos/Equipamentos:</b>
+						</font>
+					</td>
+				</tr> 
+				<!-------------------------------   Fim  Cabeçalho ------------------------------->
+				
+								<tr bgcolor="#ffffff">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											CLINICAS BASICAS
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											1
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											0
+										</font> 
+									</td>
+								</tr> 
+						
+								<tr bgcolor="#cccccc">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											CLINICAS ESPECIALIZADAS
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											6
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											0
+										</font> 
+									</td>
+								</tr> 
+						
+			<!-------------------  Tabela que diz  Tipo de Equipamento ---------------------->
+			<table align="center" border="1" width="735px" cellpadding="1" cellspacing="0">
+				<tr>
+					<td>
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+							HOSPITALAR
+						</font> 
+					</td>
+				</tr>
+			</table>
+    		<!-----------------------  Fim Tabela de Int.Fisicas Assistencia ----------------->
+			<!-----------------------------  Tabela de Cabeçalho ----------------------------->
+			<table align="center" border="0" width="735px" cellpadding="1" cellspacing="0"> 
+				<tr> 
+					<td bgcolor="#cccccc" width="45%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Instalação:</b>
+						</font>
+					</td>
+					<td bgcolor="#cccccc" width="15%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Qtde./Consultório:</b>
+						</font>
+					</td>
+					<td bgcolor="#cccccc" width="15%">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<b>Leitos/Equipamentos:</b>
+						</font>
+					</td>
+				</tr> 
+				<!-------------------------------   Fim  Cabeçalho ------------------------------->
+				
+								<tr bgcolor="#ffffff">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											SALA DE CIRURGIA
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											4
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											0
+										</font> 
+									</td>
+								</tr> 
+						
+								<tr bgcolor="#cccccc">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											SALA DE RECUPERACAO
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											1
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											8
+										</font> 
+									</td>
+								</tr> 
+						
+								<tr bgcolor="#ffffff">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											SALA DE CIRURGIA
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											2
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											0
+										</font> 
+									</td>
+								</tr> 
+						
+								<tr bgcolor="#cccccc">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											SALA DE CURETAGEM
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											1
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											0
+										</font> 
+									</td>
+								</tr> 
+						
+								<tr bgcolor="#ffffff">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											SALA DE PARTO NORMAL
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											2
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											0
+										</font> 
+									</td>
+								</tr> 
+						
+								<tr bgcolor="#cccccc">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											SALA DE PRE-PARTO
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											1
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											15
+										</font> 
+									</td>
+								</tr> 
+						
+								<tr bgcolor="#ffffff">
+							 
+									<td width="45%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											LEITOS DE ALOJAMENTO CONJUNTO
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											0
+										</font> 
+									</td>
+									<td width="15%">
+										<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+											80
+										</font> 
+									</td>
+								</tr> 
+						
+		</table>
+		<!---------------------------- Fim do Novo Novo -------------------------------->
+		<table border="1" align="center" cellpadding="1" cellspacing="0" width="735px">
+			<tr>
+    			<td>
+					<font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+						Serviços de apoio
+					</font>
+				</td>
+			</tr>
+		</table>
+  		
+  		<!----------------------- Inicio div do cabeçalho/Serviços Apoio ---------------->
+  		<table align="center" border="0" width="735px" bgcolor="white" cellpadding="1" cellspacing="0">
+   			<tr> 
+       			<td bgcolor="#cccccc" width="75%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Serviço:</b>
+					</font>
+				</td>
+       			<td bgcolor="#cccccc" width="25%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Característica:</b>
+					</font>
+				</td>
+   			</tr>
+  			<!-------------------------- Fim da div Serviços Apoio ------------------------->
+    		
+         			<tr bgcolor="#ffffff">
+              	 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								BANCO DE LEITE
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								TERCEIRIZADO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								CENTRAL DE ESTERILIZACAO DE MATERIAIS
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+              	 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								FARMACIA
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								LACTARIO
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+              	 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								LAVANDERIA
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								NECROTERIO
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+              	 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								NUTRICAO E DIETETICA (S.N.D.)
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								S.A.M.E. OU S.P.P.(SERVIÇO DE PRONTUARIO DE PACIENTE)
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+              	 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE MANUTENCAO DE EQUIPAMENTOS
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      
+      					<td width="75%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO SOCIAL
+							</font> 
+      					</td>
+      					<td width="25%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROPRIO
+							</font> 
+      					</td>
+      				</tr> 
+      			
+    	</table>
+    	<table align="center"  border="1" cellpadding="1" cellspacing="0" width="735px">
+		<!----------------------------------- Especializado ------------------------------->     
+			<tr>
+     			<td>
+					<font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+						Serviços especializados
+					</font>
+				</td>
+			</tr>
+		</table>
+		
+            
+  		<!-------------------- Inicio div do cabeçalho / serviço apoio--------------->
+		<table align="center" border="0" width="735px" bgcolor="white" cellpadding="1" cellspacing="0">
+    		<tr> 
+       			<td bgcolor="#cccccc" width="5%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366"></font>
+				</td>
+       			<td bgcolor="#cccccc" width="40%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366"></font>
+				</td>
+       			<td bgcolor="#cccccc" width="20%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366"></font>
+				</td>
+       			<td colspan="2" bgcolor="#cccccc" align="center">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Ambulatorial:</b>
+					</font>
+				</td>
+       			<td colspan="2" bgcolor="#cccccc" align="center">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Hospitalar:</b>
+					</font>
+				</td>
+    		</tr>
+    		<tr> 
+       			<td bgcolor="#cccccc" width="5%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Código:</b>
+					</font>
+				</td>
+       			<td bgcolor="#cccccc" width="40%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Serviço:</b>
+					</font>
+				</td>
+       			<td bgcolor="#cccccc" width="20%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Característica:</b>
+					</font>
+				</td>
+       			<td bgcolor="#cccccc" width="5%" align="center">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>SUS:</b>
+					</font>
+				</td>
+       			<td bgcolor="#cccccc" width="10%" align="center">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>não SUS:</b>
+					</font>
+				</td>
+       			<td bgcolor="#cccccc" width="10%" align="center">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>SUS:</b>
+					</font>
+				</td>
+       			<td bgcolor="#cccccc" width="10%" align="center">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>não SUS:</b>
+					</font>
+				</td>
+    		</tr>
+  		</table>
+  		<!------------------------- Fim da div cabeçalho ---------------------------->
+  	  	<table align="center" border="0" width="735px" bgcolor="white" cellpadding="1" cellspacing="0">
+        	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							125
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							ASSISTENCIA FARMACEUTICA
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							130
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							ATENCAO A DOENCA RENAL CRONICA
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							TERCEIRIZADO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							130
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							ATENCAO A DOENCA RENAL CRONICA
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							TERCEIRIZADO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							150
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							CIRURGIA VASCULAR
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							TERCEIRIZADO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							170
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							COMISSOES E COMITES
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							174
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							IMUNIZACAO
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							TERCEIRIZADO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							135
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							REABILITACAO
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							112
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							145
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							120
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE DIAGNOSTICO POR ANATOMIA PATOLOGICA EOU CITOPATO
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							TERCEIRIZADO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							121
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE DIAGNOSTICO POR IMAGEM
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							122
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE DIAGNOSTICO POR METODOS GRAFICOS DINAMICOS
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							142
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE ENDOSCOPIA
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							126
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE FISIOTERAPIA
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							128
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE HEMOTERAPIA
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							131
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE OFTALMOLOGIA
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							136
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE SUPORTE NUTRICIONAL
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							140
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO DE URGENCIA E EMERGENCIA
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#ffffff">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							144
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SERVICO POSTO DE COLETA DE MATERIAIS  BIOLOGICOS
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+         			<tr bgcolor="#cccccc">
+      			
+			  		<td width="5%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							149
+						</font> 
+			  		</td>
+			  		<td width="40%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							TRANSPLANTE
+						</font> 
+			  		</td>
+			  		<td width="20%">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							PROPRIO
+						</font> 
+			  		</td>
+			  		<td width="5%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							&nbsp;&nbsp;&nbsp;&nbsp;NÃO
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							SIM
+						</font> 
+			  		</td>
+			  		<td width="10%" align="center">
+			  			<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							NÃO
+						</font> 
+			  		</td>
+			  	</tr> 
+			  	
+    	</table>
+		<table border="1" align="center" cellpadding="1" cellspacing="0" width="735px">
+		<!------------------------------------- Outros ---------------------------------->     
+			<tr>
+     			<td>
+					<font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+						Comissões e Outros
+					</font>
+				</td>
+			</tr>
+		</table>
+		
+		<!-------------------- Inicio div do cabeçalho / Outros ---------------------->
+		<table align="center" border="0" width="735px" bgcolor="white" cellpadding="1" cellspacing="0">
+  			<tr> 
+    			<td bgcolor="#cccccc" width="100%">
+					<font size=1 face=verdana,arial color="#003366">
+						<b>Descrição</b>
+					</font>
+				</td>
+  			</tr>
+ 		</table>
+  		<!------------------------- Fim da div Outros --------------------------------->
+		<table align="center" border="0" width="735px" bgcolor="#add8e6" cellpadding="1" cellspacing="0">
+        	
+         			<tr bgcolor="#ffffff">
+      			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ETICA DE ENFERMAGEM
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#cccccc"> 
+    			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								CONTROLE DE INFECCAO HOSPITALAR
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#ffffff">
+      			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								CIPA
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#cccccc"> 
+    			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ANALISE DE OBITOS E BIOPISIAS
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#ffffff">
+      			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ETICA MEDICA
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#cccccc"> 
+    			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								APROPRIACAO DE CUSTOS
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#ffffff">
+      			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								NOTIFICACAO DE DOENCAS
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#cccccc"> 
+    			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								REVISAO DE PRONTUARIOS
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#ffffff">
+      			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								NUCLEO DE SEGURANCA DO PACIENTE
+							</font> 
+     					</td>
+     				</tr> 
+     			
+         			<tr bgcolor="#cccccc"> 
+    			
+     					<td width="100%">
+     						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								INVESTIGACAO EPIDEMIOLOGICA
+							</font> 
+     					</td>
+     				</tr> 
+     			
+    	</table>
+		<table border="0" align="center" cellpadding="1" cellspacing="0" width="735px">
+		<!------------------------ Serviços Classificaçâo ------------------------------->     
+			<tr>
+     			<td>
+					<font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">
+						Serviços e Classificação
+					</font>
+				</td>
+			</tr>
+		</table>
+		
+  		<!-------------------- Inicio div do cabeçalho / Classificação --------------->
+  		<table align="center" border="0" width="735px" bgcolor="white" cellpadding="1" cellspacing="0">
+   			<tr>
+     			<td width="10%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Código:</b>
+					</font>
+				</td> 
+     			<td width="35%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Serviço:</b>
+					</font>
+				</td>
+     			<td width="35%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Classificação:</b>
+					</font>
+				</td>
+     			<td width="10%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Terceiro:</b>
+					</font>
+				</td>
+     			<td width="10%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>CNES:</b>
+					</font>
+				</td>
+   			</tr>
+  		</table>
+  		<!------------------------- Fim da div classificaçao ------------------------->
+    	<table border="0" align="center" cellpadding="1" cellspacing="0" width="735px">
+  		
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								149 - 015
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								TRANSPLANTE
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ACOES PARA DOACAO E CAPTACAO DE ORGAOS E TECIDOS
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								126 - 004
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE FISIOTERAPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ASSISTENCIA FISIOTERAPEUTICA CARDIOVASCULARES E PNEUMOFUNCI
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								126 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE FISIOTERAPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ASSISTENCIA FISIOTERAPEUTICA EM ALTERACOES OBSTETRICAS NEON
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								126 - 007
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE FISIOTERAPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ASSISTENCIA FISIOTERAPEUTICA NAS ALTERACOES EM NEUROLOGIA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								126 - 005
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE FISIOTERAPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ASSISTENCIA FISIOTERAPEUTICA NAS DISFUNCOES MUSCULO ESQUELET
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								135 - 010
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								REABILITACAO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ATENCAO FONOAUDIOLOGICA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								112 - 005
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								CENTRO DE PARTO NORMAL
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								144 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO POSTO DE COLETA DE MATERIAIS  BIOLOGICOS
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								COLETA REALIZADA FORA DA ESTRUTURA LABORATORIAL
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								130 - 003
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ATENCAO A DOENCA RENAL CRONICA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								CONFECCAO INTERVENCAO DE ACESSOS PARA DIALISE
+							</font> 
+      					</td>
+      			  
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">SIM</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=2469715'>2469715</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								128 - 002
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE HEMOTERAPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								DIAGNOSTICO EM HEMOTERAPIA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								142 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE ENDOSCOPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								DO APARELHO DIGESTIVO
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								142 - 002
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE ENDOSCOPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								DO APARELHO RESPIRATORIO
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								136 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE SUPORTE NUTRICIONAL
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ENTERAL
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								136 - 002
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE SUPORTE NUTRICIONAL
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ENTERAL  PARENTERAL
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								140 - 004
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE URGENCIA E EMERGENCIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ESTABILIZACAO DE PACIENTE CRITICO/GRAVE EM SALA DE ESTABILIZ
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								122 - 003
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO POR METODOS GRAFICOS DINAMICOS
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAME  ELETROCARDIOGRAFICO
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								120 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO POR ANATOMIA PATOLOGICA EOU CITOPATO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES ANATOMOPATOLOGICOS
+							</font> 
+      					</td>
+      			  
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">SIM</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=0003271'>0003271</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								120 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO POR ANATOMIA PATOLOGICA EOU CITOPATO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES ANATOMOPATOLOGICOS
+							</font> 
+      					</td>
+      			  
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">SIM</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=3287009'>3287009</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								120 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO POR ANATOMIA PATOLOGICA EOU CITOPATO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES ANATOMOPATOLOGICOS
+							</font> 
+      					</td>
+      			  
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">SIM</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=7781121'>7781121</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES BIOQUIMICOS
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 004
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES COPROLOGICOS
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 011
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES DE GENETICA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 005
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES DE UROANALISE
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 010
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES EM OUTROS LIQUIDOS BIOLOGICOS
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 002
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES HEMATOLOGICOS E HEMOSTASIA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 006
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES HORMONAIS
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 013
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES IMUNOHEMATOLOGICOS
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 009
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES MICROBIOLOGICOS
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 003
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES SOROLOGICOS E IMUNOLOGICOS
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								145 - 008
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								EXAMES TOXICOLOGICOS OU DE MONITORIZACAO TERAPEUTICA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								125 - 006
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ASSISTENCIA FARMACEUTICA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								FARMACIA HOSPITALAR
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								150 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								CIRURGIA VASCULAR
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								FISTULA ARTERIOVENOSA SEM ENXERTO
+							</font> 
+      					</td>
+      			  
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">SIM</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=2469715'>2469715</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								174 - 002
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								IMUNIZACAO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								GRUPOS ESPECIAIS
+							</font> 
+      					</td>
+      			  
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">SIM</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=4040201'>4040201</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								128 - 004
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE HEMOTERAPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								MEDICINA TRANSFUSIONAL
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								170 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								COMISSOES E COMITES
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								NUCLEO DE SEGURANCA DO PACIENTE
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								112 - 004
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PARTO EM GESTACAO DE ALTO RISCO
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								128 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE HEMOTERAPIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PROCEDIMENTOS DESTINADOS A OBTENCAO DO SANGUE PFINS DE ASSI
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								140 - 019
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE URGENCIA E EMERGENCIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								PRONTO SOCORRO GERAL/CLINICO
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								121 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO POR IMAGEM
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								RADIOLOGIA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								122 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO POR METODOS GRAFICOS DINAMICOS
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								TESTE ERGOMETRICO
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								121 - 003
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO POR IMAGEM
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								TOMOGRAFIA COMPUTADORIZADA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								131 - 003
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE OFTALMOLOGIA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								TRATAMENTO CIRURGICO DO APARELHO DA VISAO
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#cccccc">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								130 - 001
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ATENCAO A DOENCA RENAL CRONICA
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								TRATAMENTO DIALITICO-HEMODIALISE
+							</font> 
+      					</td>
+      			  
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">SIM</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=3448428'>3448428</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+         			<tr bgcolor="#ffffff">
+      			 
+      					<td width="10%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								121 - 002
+							</font> 
+      					</td>
+           				<td width="35%">
+      						<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								SERVICO DE DIAGNOSTICO POR IMAGEM
+							</font> 
+      					</td>
+      					<td width="35%">
+							<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+								ULTRASONOGRAFIA
+							</font> 
+      					</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">NÃO</font> 
+        			</td>
+      			
+        			<td width="10%">
+        				<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+							<a href='Exibe_Ficha_Estabelecimento.asp?VCpf=NAO INFORMADO'>NAO INFORMADO</a>
+						</font>
+       	 			</td>
+      			 
+      			</tr> 
+      			
+		</table>
+		<table align="center" border="1" width="735px" cellpadding="1" cellspacing="0">
+   			<tr>
+    			<td>
+    				<font size="2" face="Verdana, Arial, Helvetica, sans-serif" color="#ffcc99">Outros:</font> 
+   				</td>
+   			</tr>
+		</table>
+		<table align="center" border="0" width="735px" cellpadding="1" cellspacing="0">    
+    		<tr bgcolor="#cccccc">
+     			<td width="30%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Nível de hierarquia:</b>
+					</font>
+				</td>
+     			<td width="20%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Tipo de unidade:</b>
+					</font>
+				</td>
+     			<td width="50%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Turno de atendimento:</b>
+					</font>
+				</td>
+   			</tr>
+   			<tr bgcolor="#ffffff">
+     			<td width="30%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						-
+					</font>
+				</td>
+     			<td width="20%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						HOSPITAL GERAL
+					</font>
+				</td>
+     			<td width="50%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						ATENDIMENTO CONTINUO DE 24 HORAS/DIA (PLANTAO:INCLUI SABADOS, DOMINGOS E FERIADOS)
+					</font>
+				</td>
+   			</tr>
+   			<tr bgcolor="#cccccc">
+   				<td width="100%" colspan="3">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						<b>Hospital avaliado segundo o NBAH do MS:</b>
+					</font>
+				</td>
+   			</tr>
+   			<tr bgcolor="#ffffff">
+   			 
+   				<td colspan="3" width="50%">
+					<font size="1" face="Verdana, Arial, Helvetica, sans-serif" color="#003366">
+						NÃO
+					</font>
+				</td>
+   			</tr>
+ 		</table>
+		<table border="1" align="center" width="735px" cellpadding="1" cellspacing="0">
+   			<tr>
+     			<td>&nbsp;</td>
+   			</tr>    
+		</table>
+		<br>
+  		<p align="center">
+			<a href="Mod_Conjunto.asp?VCo_Unidade=2800300002232">
+				<img src="img/Voltar.gif" border="0">
+			</a>
+		</p>
+	</body>
+	<!-- saved from url=(0022)http://internet.e-mail -->
+</td>
+</tr>
+</table>
+
+</html>

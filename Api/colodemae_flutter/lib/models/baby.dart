@@ -2,7 +2,8 @@
 enum BabyPhase { newborn, firstMonth, growing }
 
 class BabyPhaseInfo {
-  const BabyPhaseInfo({required this.label, required this.emoji, required this.message});
+  const BabyPhaseInfo(
+      {required this.label, required this.emoji, required this.message});
 
   final String label;
   final String emoji;
@@ -35,7 +36,8 @@ class Baby {
 
   int get daysSinceBirth {
     final now = DateTime.now();
-    final diff = now.difference(DateTime(birthDate.year, birthDate.month, birthDate.day));
+    final diff = DateTime.utc(now.year, now.month, now.day).difference(
+        DateTime.utc(birthDate.year, birthDate.month, birthDate.day));
     return diff.inDays < 0 ? 0 : diff.inDays;
   }
 
@@ -47,7 +49,8 @@ class Baby {
   }
 
   Baby copyWith({String? name, DateTime? birthDate}) {
-    return Baby(name: name ?? this.name, birthDate: birthDate ?? this.birthDate);
+    return Baby(
+        name: name ?? this.name, birthDate: birthDate ?? this.birthDate);
   }
 
   Map<String, dynamic> toJson() => {

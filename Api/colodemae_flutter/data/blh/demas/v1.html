@@ -1,0 +1,44 @@
+<!-- HTML for static distribution bundle build -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>DEMAS - API de Dados Abertos</title>
+  <meta name="version" content="5.32.15">
+  <link rel="stylesheet" type="text/css" href="/v1/index.css">
+  <link rel="stylesheet" type="text/css" href="/v1/swagger-ui.css">
+  <link rel="icon" type="image/png" href="/v1/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/v1/favicon-16x16.png" sizes="16x16" />
+</head>
+
+<body>
+  <div id="swagger-ui"></div>
+
+  <script src="/v1/swagger-ui-bundle.js"> </script>
+  <script src="/v1/swagger-ui-standalone-preset.js"> </script>
+  <script>
+    var config = {
+      presets: [
+        SwaggerUIBundle.presets.apis,
+        SwaggerUIStandalonePreset
+      ],
+      plugins: [
+        SwaggerUIBundle.plugins.DownloadUrl
+      ]
+    };
+    var user_config = {"dom_id": "#swagger-ui", "url": "/static/swagger.json", "layout": "StandaloneLayout", "deepLinking": true, "oauth2RedirectUrl": "http://localhost:5001/v1/oauth2-redirect.html"};  // User config options provided from Python code
+    for (var attrname in user_config) { config[attrname] = user_config[attrname]; }
+
+    window.onload = function () {
+      // Build a system
+      const ui = SwaggerUIBundle(config)
+
+      
+
+    window.ui = ui
+}
+  </script>
+</body>
+
+</html>

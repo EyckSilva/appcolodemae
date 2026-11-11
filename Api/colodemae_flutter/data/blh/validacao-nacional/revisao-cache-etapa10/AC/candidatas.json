@@ -1,0 +1,117 @@
+{
+  "geradoEm": "2026-11-11T08:40:37.544841+00:00",
+  "provedor": "https://photon.komoot.io/api/",
+  "politicaProvedor": "https://github.com/komoot/photon#demo-server",
+  "atribuicao": "© OpenStreetMap contributors — https://www.openstreetmap.org/copyright — dados sob ODbL",
+  "licenca": "ODbL",
+  "hashBase": "7a0687307529177b816d65760d1502c5e8513dc294d4795aae26813d877ae8fd",
+  "hashEnderecos": "9cd429fd18fb6918461f7af1c6ce006d5b78ecc2d5a07c38c9e5d8596715b97c",
+  "unidades": [
+    {
+      "id": "ac-blh-cnes-2000296",
+      "nome": "Banco de Leite do Hospital da Mulher e da Criança do Juruá (HMCJ)",
+      "estado": "AC",
+      "cidade": "CRUZEIRO DO SUL",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/AC/coordenadas.candidatas.json",
+        "hashRelatorio": "19a461298ef707edc230597eeb64e3cd004bf7a6330fc99a95934a9f9d1b0995",
+        "revisao": "data/blh/nacional/AC/aprovacao-manual.json",
+        "hashRevisao": "c3e003792c8527e37ff37ad142ceb5747022f9ac1312923531641561af78f321",
+        "decisaoAnterior": {
+          "id": "ac-blh-cnes-2000296",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "ac-blh-cnes-2000733",
+      "nome": "Banco de Leite Humano da Maternidade e Clinica de Mulheres Bárbara Heliodora",
+      "estado": "AC",
+      "cidade": "RIO BRANCO",
+      "enderecoPesquisa": "",
+      "fonteEndereco": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "confirmacaoDocumental": null,
+      "historicoAnterior": {
+        "relatorio": "data/blh/nacional/AC/coordenadas.candidatas.json",
+        "hashRelatorio": "19a461298ef707edc230597eeb64e3cd004bf7a6330fc99a95934a9f9d1b0995",
+        "revisao": "data/blh/nacional/AC/aprovacao-manual.json",
+        "hashRevisao": "c3e003792c8527e37ff37ad142ceb5747022f9ac1312923531641561af78f321",
+        "decisaoAnterior": {
+          "id": "ac-blh-cnes-2000733",
+          "status": "pendente",
+          "candidatoId": null,
+          "pontoRealConfirmado": false,
+          "enderecoOperacionalConfirmado": false,
+          "funcionamentoConfirmado": false,
+          "contatoConfirmado": false,
+          "revisadoPor": null,
+          "revisadoEm": null,
+          "latitudeVerificada": null,
+          "longitudeVerificada": null,
+          "fonteCoordenadas": null,
+          "enderecoConfirmado": null,
+          "telefoneConfirmado": null,
+          "fontesCampos": {},
+          "observacoesValidacao": null,
+          "pendencias": [
+            "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+            "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+            "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+            "Conferir manualmente se o ponto é a unidade real e confirmar funcionamento atual"
+          ]
+        }
+      },
+      "consultasAnteriores": [],
+      "confianca": "nao_encontrado",
+      "candidatos": [],
+      "consultas": [],
+      "erros": [],
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+        "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+        "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada",
+        "Obter endereço oficial completo antes de geocodificar",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ],
+  "coordenadasAutomaticasSaoVerificadas": false,
+  "hashRevisao": "831f1b3d92440594d25619e553db069ce50dfc3ceb0fd033c870706502c52cd4"
+}

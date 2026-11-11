@@ -1,0 +1,461 @@
+[
+  {
+    "id": "df-blh-cnes-0010464",
+    "nome": "Banco de Leite Humano do Hospital Regional da Asa Norte",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 31,
+      "cnesInformadoNoAnexo": "0010464",
+      "mantenedora": "Hospital Regional da Asa Norte",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Regional da Asa Norte",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-0010472",
+    "nome": "Banco de Leite Humano do Hosp. R. do Gama",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 32,
+      "cnesInformadoNoAnexo": "0010472",
+      "mantenedora": "Hospital Regional do Gama",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hosp. R. do Gama",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-0010480",
+    "nome": "Banco de Leite Humano do Hospital Regional de Ceilândia",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 33,
+      "cnesInformadoNoAnexo": "0010480",
+      "mantenedora": "Hospital Regional da Ceilândia",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Regional de Ceilândia",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-0010499",
+    "nome": "Banco de Leite Humano do Hospital Regional de Taguatinga",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 34,
+      "cnesInformadoNoAnexo": "0010499",
+      "mantenedora": "Hospital Regional de Taguatinga",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Regional de Taguatinga",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-0010502",
+    "nome": "Banco de Leite Humano do Hosp. R. de Sobradinho",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 35,
+      "cnesInformadoNoAnexo": "0010502",
+      "mantenedora": "Hospital Regional de Sobradinho",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hosp. R. de Sobradinho",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-0010529",
+    "nome": "Banco de Leite Humano do Hosp. R. de Planaltina",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 36,
+      "cnesInformadoNoAnexo": "0010529",
+      "mantenedora": "Hospital Regional de Planaltina",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hosp. R. de Planaltina",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-0010537",
+    "nome": "Banco de Leite Humano do Hospital Materno Infantil de Brasília",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 37,
+      "cnesInformadoNoAnexo": "0010537",
+      "mantenedora": "Hospital Materno Infantil de Brasília",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Materno Infantil de Brasília",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-0010545",
+    "nome": "Banco de Leite Humano do Hospital Regional de Brazlândia",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 38,
+      "cnesInformadoNoAnexo": "0010545",
+      "mantenedora": "Hospital Regional de Brazlândia",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Regional de Brazlândia",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-2645157",
+    "nome": "Banco de Leite Humano do Hospital Regional do Paranoá",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 39,
+      "cnesInformadoNoAnexo": "2645157",
+      "mantenedora": "Hospital Regional de Paranoá",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Regional do Paranoá",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-blh-cnes-5717515",
+    "nome": "Banco de Leite Humano do Hospital Regional de Santa Maria",
+    "tipo": "BLH",
+    "cidade": "BRASILIA",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 40,
+      "cnesInformadoNoAnexo": "5717515",
+      "mantenedora": "Hospital Regional de Santa Maria",
+      "municipioEntidade": "Brasília",
+      "municipioBLH": "BRASILIA",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Regional de Santa Maria",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-pclh-samambaia",
+    "nome": "Posto de Coleta de Samambaia – PCLH HRSAM",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ],
+    "documentacao": {
+      "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+      "snapshot": "fontes/amamenta-brasilia.html",
+      "sha256Fonte": "22d675faf711050b3ed1b0b0ee67e268fc63e77ab6d560b7288de29d59da024b",
+      "observacao": "Contato também consta na página Banco de Leite da SES-DF; endereço exige confirmação operacional."
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "df-pclh-sao-sebastiao",
+    "nome": "Posto de Coleta de São Sebastião – PCLH SS",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "classe": "ambiguos_conflitantes",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 5,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Confirmar endereço operacional, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ],
+    "documentacao": {
+      "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+      "snapshot": "fontes/amamenta-brasilia.html",
+      "sha256Fonte": "22d675faf711050b3ed1b0b0ee67e268fc63e77ab6d560b7288de29d59da024b",
+      "observacao": "Contato também consta na página Banco de Leite da SES-DF; endereço exige confirmação operacional."
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": [
+      {
+        "id": "da8e73fb2bbdf683",
+        "latitude": -15.9034756,
+        "longitude": -47.7818539,
+        "fonte": "https://www.openstreetmap.org/way/399736816",
+        "passivelRevisao": false
+      },
+      {
+        "id": "3a837aeb39b6dad2",
+        "latitude": -15.8958501,
+        "longitude": -47.7825772,
+        "fonte": "https://www.openstreetmap.org/way/399737102",
+        "passivelRevisao": false
+      },
+      {
+        "id": "8de5f0f0759e3850",
+        "latitude": -15.9006578,
+        "longitude": -47.7761983,
+        "fonte": "https://www.openstreetmap.org/way/399735801",
+        "passivelRevisao": false
+      },
+      {
+        "id": "d4a50305e7f8625d",
+        "latitude": -15.8866268,
+        "longitude": -47.8014738,
+        "fonte": "https://www.openstreetmap.org/way/1552026693",
+        "passivelRevisao": false
+      },
+      {
+        "id": "3b59718e0253acd3",
+        "latitude": -15.8876599,
+        "longitude": -47.7788405,
+        "fonte": "https://www.openstreetmap.org/way/399741067",
+        "passivelRevisao": false
+      }
+    ]
+  },
+  {
+    "id": "df-pclh-riacho-fundo-i",
+    "nome": "Posto de Coleta de Riacho Fundo I – PCLH RFI",
+    "tipo": "Posto de Coleta",
+    "cidade": "Brasília",
+    "estado": "DF",
+    "classe": "ambiguos_conflitantes",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 1,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Confirmar endereço completo, CEP, horário e funcionamento atual",
+      "Geocodificar endereço oficial e validar manualmente o ponto da unidade"
+    ],
+    "documentacao": {
+      "fonte": "https://amamentabrasilia.saude.df.gov.br/",
+      "snapshot": "fontes/amamenta-brasilia.html",
+      "sha256Fonte": "22d675faf711050b3ed1b0b0ee67e268fc63e77ab6d560b7288de29d59da024b",
+      "observacao": "Contato também consta na página Banco de Leite da SES-DF; endereço exige confirmação operacional."
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": [
+      {
+        "id": "9f224d0bde3e3842",
+        "latitude": -15.9011191,
+        "longitude": -48.0365859,
+        "fonte": "https://www.openstreetmap.org/way/443826753",
+        "passivelRevisao": false
+      }
+    ]
+  }
+]

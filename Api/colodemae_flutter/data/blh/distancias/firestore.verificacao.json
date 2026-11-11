@@ -1,0 +1,89 @@
+{
+  "registros": [
+    {
+      "id": "se-blh-marly-sarney",
+      "nome": "Banco de Leite Humano Marly Sarney",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+        "Revalidar telefone de atendimento",
+        "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município",
+        "Confirmar situação e dados cadastrais atuais",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+        "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+        "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+        "Confirmar situação e dados cadastrais atuais",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+      "ativo": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+        "Obter telefone oficial específico para orientação de doadoras",
+        "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+        "Confirmar situação e dados cadastrais atuais",
+        "Confirmar endereco",
+        "Confirmar telefone",
+        "Obter coordenadas verificadas em fonte oficial"
+      ]
+    }
+  ],
+  "acoes": [
+    {
+      "id": "se-blh-marly-sarney",
+      "action": "unchanged",
+      "existeNoFirebase": true,
+      "ativoPersistido": false,
+      "publicadoPersistido": false,
+      "coordenadasVerificadasPersistidas": false,
+      "criadoEm": "2026-11-11T07:45:49.701000+00:00",
+      "atualizadoEm": "2026-11-11T07:45:49.701000+00:00",
+      "criadoNoFirestoreEm": "2026-11-11T07:45:49.718879+00:00",
+      "ultimaGravacaoFirestoreEm": "2026-11-11T07:45:49.718879+00:00"
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "action": "unchanged",
+      "existeNoFirebase": true,
+      "ativoPersistido": false,
+      "publicadoPersistido": false,
+      "coordenadasVerificadasPersistidas": false,
+      "criadoEm": "2026-11-11T07:45:50.394000+00:00",
+      "atualizadoEm": "2026-11-11T07:45:50.394000+00:00",
+      "criadoNoFirestoreEm": "2026-11-11T07:45:50.416255+00:00",
+      "ultimaGravacaoFirestoreEm": "2026-11-11T07:45:50.416255+00:00"
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "action": "unchanged",
+      "existeNoFirebase": true,
+      "ativoPersistido": false,
+      "publicadoPersistido": false,
+      "coordenadasVerificadasPersistidas": false,
+      "criadoEm": "2026-11-11T07:45:50.625000+00:00",
+      "atualizadoEm": "2026-11-11T07:45:50.625000+00:00",
+      "criadoNoFirestoreEm": "2026-11-11T07:45:50.645954+00:00",
+      "ultimaGravacaoFirestoreEm": "2026-11-11T07:45:50.645954+00:00"
+    }
+  ],
+  "modoAplicacao": false,
+  "gravacaoExecutada": false,
+  "politica": "create-only",
+  "resumoAcoes": {
+    "unchanged": 3
+  }
+}

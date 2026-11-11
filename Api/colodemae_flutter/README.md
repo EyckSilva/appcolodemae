@@ -1,17 +1,65 @@
-# colodemae_flutter
+# Colo de Mãe — Como Executar o Projeto
 
-A new Flutter project.
+## 1. Clonar o repositório
 
-## Getting Started
+```bash
+git clone URL_DO_REPOSITORIO
+```
 
-This project is a starting point for a Flutter application.
+## 2. Entrar na pasta do projeto
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+cd colodemae_flutter
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 3. Instalar as dependências
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+```
+
+## 4. Verificar o ambiente Flutter
+
+```bash
+flutter doctor
+```
+
+## 5. Executar o projeto
+
+**Web (Google Chrome):**
+
+```bash
+flutter run -d chrome
+```
+
+**Android (emulador ou dispositivo conectado):**
+
+```bash
+flutter devices
+flutter run
+```
+
+## 6. Gerar a versão Web
+
+```bash
+flutter build web --release
+```
+
+## 7. Publicar no Firebase Hosting
+
+```bash
+firebase login
+firebase deploy --only hosting
+```
+
+## 8. Atualizar o projeto pelo GitHub
+
+```bash
+git pull origin main
+flutter pub get
+flutter run -d chrome
+```
+
+---
+
+**Observação:** o projeto utiliza Firebase Authentication e Cloud Firestore. É necessário ter a configuração do Firebase disponível no ambiente para executar as funcionalidades integradas.

@@ -1,0 +1,132 @@
+{
+  "fonte": "https://api.openstreetmap.org/api/0.6/way/292330063/full.json",
+  "consultadoEm": "2026-11-11T16:38:06.953707+00:00",
+  "resposta": {
+    "version": "0.6",
+    "generator": "openstreetmap-cgimap 2.1.1 (1348458 spike-07.openstreetmap.org)",
+    "copyright": "OpenStreetMap and contributors",
+    "attribution": "http://www.openstreetmap.org/copyright",
+    "license": "http://opendatacommons.org/licenses/odbl/1-0/",
+    "elements": [
+      {
+        "type": "node",
+        "id": 2958854960,
+        "lat": -10.9021746,
+        "lon": -37.0627126,
+        "timestamp": "2014-07-11T17:09:03Z",
+        "version": 1,
+        "changeset": 24086074,
+        "user": "tarta",
+        "uid": 962387
+      },
+      {
+        "type": "node",
+        "id": 2958854961,
+        "lat": -10.9022024,
+        "lon": -37.0632738,
+        "timestamp": "2014-07-11T17:09:03Z",
+        "version": 1,
+        "changeset": 24086074,
+        "user": "tarta",
+        "uid": 962387
+      },
+      {
+        "type": "node",
+        "id": 2958854967,
+        "lat": -10.9024125,
+        "lon": -37.0622524,
+        "timestamp": "2014-07-11T17:09:03Z",
+        "version": 1,
+        "changeset": 24086074,
+        "user": "tarta",
+        "uid": 962387
+      },
+      {
+        "type": "node",
+        "id": 2958854973,
+        "lat": -10.9026424,
+        "lon": -37.0627005,
+        "timestamp": "2014-07-11T17:09:03Z",
+        "version": 1,
+        "changeset": 24086074,
+        "user": "tarta",
+        "uid": 962387
+      },
+      {
+        "type": "node",
+        "id": 2958854974,
+        "lat": -10.9026543,
+        "lon": -37.062216,
+        "timestamp": "2014-07-11T17:09:03Z",
+        "version": 1,
+        "changeset": 24086074,
+        "user": "tarta",
+        "uid": 962387
+      },
+      {
+        "type": "node",
+        "id": 2958854990,
+        "lat": -10.9034036,
+        "lon": -37.0627287,
+        "timestamp": "2014-07-11T17:09:03Z",
+        "version": 1,
+        "changeset": 24086074,
+        "user": "tarta",
+        "uid": 962387
+      },
+      {
+        "type": "node",
+        "id": 2958854991,
+        "lat": -10.9034155,
+        "lon": -37.0632859,
+        "timestamp": "2014-07-11T17:09:04Z",
+        "version": 1,
+        "changeset": 24086074,
+        "user": "tarta",
+        "uid": 962387
+      },
+      {
+        "type": "node",
+        "id": 11937524331,
+        "lat": -10.9034078,
+        "lon": -37.0629256,
+        "timestamp": "2024-05-30T09:26:31Z",
+        "version": 2,
+        "changeset": 152024173,
+        "user": "mueschel",
+        "uid": 616774,
+        "tags": {
+          "emergency": "emergency_ward_entrance",
+          "entrance": "yes",
+          "health_specialty:pediatrics": "yes"
+        }
+      },
+      {
+        "type": "way",
+        "id": 292330063,
+        "timestamp": "2024-05-27T16:34:32Z",
+        "version": 4,
+        "changeset": 151908773,
+        "user": "Martin Constantino–Bodin",
+        "uid": 10079690,
+        "nodes": [
+          2958854961,
+          2958854991,
+          11937524331,
+          2958854990,
+          2958854973,
+          2958854974,
+          2958854967,
+          2958854960,
+          2958854961
+        ],
+        "tags": {
+          "amenity": "hospital",
+          "emergency": "yes",
+          "healthcare": "hospital",
+          "name": "Hospital Santa Isabel"
+        }
+      }
+    ]
+  }
+}

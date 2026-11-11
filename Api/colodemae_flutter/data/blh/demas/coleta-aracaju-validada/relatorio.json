@@ -1,0 +1,2950 @@
+{
+  "unidades": [
+    {
+      "id": "se-blh-marly-sarney",
+      "nomeUnidadePreservado": "Banco de Leite Humano Marly Sarney",
+      "relacao": "proprio",
+      "evidenciaVinculo": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+      "recuperado": {
+        "cnes": "0002569",
+        "nomeEstabelecimento": "BANCO DE LEITE HUMANO MARLY SARNEY",
+        "endereco": "RUA MATO GROSSO, S/N, JOSE CONRADO DE ARAU",
+        "telefone": "(79)32266301",
+        "telefoneOriginal": "(79)32266301",
+        "cep": "49085220",
+        "cidade": "Aracaju",
+        "estado": "SE",
+        "codigoMunicipio": 280030,
+        "atualizadoNaDemas": "2026-03-31",
+        "coordenadasCadastraisNaoVerificadas": {
+          "latitude": -10.90613,
+          "longitude": -37.07967
+        },
+        "horariosConfirmados": null
+      },
+      "fonte": {
+        "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002569",
+        "consultadoEm": "2026-11-11T15:12:41.996765+00:00",
+        "hashResposta": "c09d0472ff98a97b61ff6a5deae33b30647baadcd0b2f97fdcefb7262e1d9c58"
+      },
+      "competenciaServicos": 202607,
+      "servicos": [
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002569",
+          "no_fantasia": "BANCO DE LEITE HUMANO MARLY SARNEY",
+          "tp_unidade": "36 - CLINICA/CENTRO DE ESPECIALIDADE",
+          "ds_class_estab": "018 - UNIDADE DE APOIO DIAGNOSTICO",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "009 - EXAMES MICROBIOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "NAO",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "009",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002569",
+          "no_fantasia": "BANCO DE LEITE HUMANO MARLY SARNEY",
+          "tp_unidade": "36 - CLINICA/CENTRO DE ESPECIALIDADE",
+          "ds_class_estab": "018 - UNIDADE DE APOIO DIAGNOSTICO",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "010 - EXAMES EM OUTROS LIQUIDOS BIOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "NAO",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "010",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002569",
+          "no_fantasia": "BANCO DE LEITE HUMANO MARLY SARNEY",
+          "tp_unidade": "36 - CLINICA/CENTRO DE ESPECIALIDADE",
+          "ds_class_estab": "018 - UNIDADE DE APOIO DIAGNOSTICO",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "002 - EXAMES HEMATOLOGICOS E HEMOSTASIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "NAO",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        }
+      ],
+      "fontesServicos": [
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002569&co_ibge=280030&nu_comp=202607&limit=1000&offset=0",
+          "consultadoEm": "2026-11-11T15:12:43.138622+00:00",
+          "hashResposta": "ec99d7c0ecfa317c5f6455618f7959633b8213bbe19c559be5857a9474de068c"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002569&co_ibge=280030&nu_comp=202607&limit=1000&offset=1",
+          "consultadoEm": "2026-11-11T15:12:43.656780+00:00",
+          "hashResposta": "aa16e63dd1462fcaf1b7618b824c518f1312fef15f169aa6be452ce8353f26e6"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002569&co_ibge=280030&nu_comp=202607&limit=1000&offset=2",
+          "consultadoEm": "2026-11-11T15:12:44.153817+00:00",
+          "hashResposta": "2d4090e6e96b62b38a9b82a2411d9a2883255d2691e6c5e0928b9f7e7e10657d"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002569&co_ibge=280030&nu_comp=202607&limit=1000&offset=3",
+          "consultadoEm": "2026-11-11T15:12:44.789348+00:00",
+          "hashResposta": "fc85d08eab72df32a5508bba889507fdd01fd3eae2c82a813f598d6cc97b2ad5"
+        }
+      ],
+      "codigosLeiteIdentificados": [],
+      "conflitos": [
+        {
+          "campo": "endereco",
+          "anterior": "Rua Mato Grosso, s/n, bairro José Conrado de Araújo",
+          "demas": "RUA MATO GROSSO, S/N, JOSE CONRADO DE ARAU"
+        },
+        {
+          "campo": "coordenadasCadastrais",
+          "competenciaHistorica": 202112,
+          "anterior": {
+            "latitude": -10.91521,
+            "longitude": -37.06291
+          },
+          "demas": {
+            "latitude": -10.90613,
+            "longitude": -37.07967
+          },
+          "observacao": "Pontos diferentes entre séries; nenhum deles foi validado como localização operacional."
+        },
+        {
+          "campo": "coordenadasCadastrais",
+          "competenciaHistorica": 202110,
+          "anterior": {
+            "latitude": -10.91521,
+            "longitude": -37.06291
+          },
+          "demas": {
+            "latitude": -10.90613,
+            "longitude": -37.07967
+          },
+          "observacao": "Pontos diferentes entre séries; nenhum deles foi validado como localização operacional."
+        }
+      ],
+      "amostraHistoricaEstabelecimento": {
+        "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-estabelecimentos?co_cnes=0002569&limit=2&offset=0",
+        "consultadoEm": "2026-11-11T15:12:45.242782+00:00",
+        "dados": {
+          "cnes_estabelecimentos": [
+            {
+              "nu_comp": 202112,
+              "co_ibge": 280030,
+              "co_cnes": "0002569",
+              "no_fantasia": "BANCO DE LEITE HUMANO MARLY SARNEY",
+              "no_empresarial": "SECRETARIA DE ESTADO DA SAUDE DE SERGIPE",
+              "nu_cnpj": null,
+              "nu_cnpj_mantenedora": "13128798001680",
+              "tp_gestao": "ESTADUAL",
+              "tp_unidade": "36 - CLINICA/CENTRO DE ESPECIALIDADE",
+              "ds_class_estab": "018 - UNIDADE DE APOIO DIAGNOSTICO",
+              "ds_natureza_juridica": "1236 - ESTADO OU DISTRITO FEDERAL",
+              "no_grupo_nat_jur": "PUBLICO",
+              "no_logradouro": "RUA MATO GROSSO",
+              "nu_endereco": "S/N",
+              "ds_complemento": null,
+              "nu_cep": "49085220",
+              "nu_telefone": "(79)32266301",
+              "ds_email": null,
+              "nu_latitude": -10.91521,
+              "nu_longitude": -37.06291,
+              "ds_status": "ATIVO"
+            },
+            {
+              "nu_comp": 202110,
+              "co_ibge": 280030,
+              "co_cnes": "0002569",
+              "no_fantasia": "BANCO DE LEITE HUMANO MARLY SARNEY",
+              "no_empresarial": "SECRETARIA DE ESTADO DA SAUDE DE SERGIPE",
+              "nu_cnpj": null,
+              "nu_cnpj_mantenedora": "13128798001680",
+              "tp_gestao": "ESTADUAL",
+              "tp_unidade": "36 - CLINICA/CENTRO DE ESPECIALIDADE",
+              "ds_class_estab": "018 - UNIDADE DE APOIO DIAGNOSTICO",
+              "ds_natureza_juridica": "1236 - ESTADO OU DISTRITO FEDERAL",
+              "no_grupo_nat_jur": "PUBLICO",
+              "no_logradouro": "RUA MATO GROSSO",
+              "nu_endereco": "S/N",
+              "ds_complemento": null,
+              "nu_cep": "49085220",
+              "nu_telefone": "(79)32266301",
+              "ds_email": null,
+              "nu_latitude": -10.91521,
+              "nu_longitude": -37.06291,
+              "ds_status": "ATIVO"
+            }
+          ]
+        },
+        "hashResposta": "7239d9e4f790e9dc13774e95fbe08e8e693264655609a32cf834a06210f17b65"
+      },
+      "ativo": false,
+      "publicado": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Revisão humana do vínculo e de cada campo antes de atualizar",
+        "Confirmar funcionamento e acesso operacional atuais",
+        "Não tratar coordenadas cadastrais como GPS aprovado nem turno como horário de doação"
+      ]
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "nomeUnidadePreservado": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+      "relacao": "mantenedora",
+      "evidenciaVinculo": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+      "recuperado": {
+        "cnes": "0002232",
+        "nomeEstabelecimento": "HOSPITAL SANTA ISABEL",
+        "endereco": "SIMEAO SOBRAL, 1312, DEZOITO DO FORTE",
+        "telefone": "79 32124900",
+        "telefoneOriginal": "79 32124900",
+        "cep": "49072720",
+        "cidade": "Aracaju",
+        "estado": "SE",
+        "codigoMunicipio": 280030,
+        "atualizadoNaDemas": "2025-09-03",
+        "coordenadasCadastraisNaoVerificadas": {
+          "latitude": -10.5921128,
+          "longitude": -36.9416223
+        },
+        "horariosConfirmados": null
+      },
+      "fonte": {
+        "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002232",
+        "consultadoEm": "2026-11-11T15:12:45.636028+00:00",
+        "hashResposta": "c39e287df0411d4c220a5603374a9f2e442b54613a1b0f8dca3e9dd00960b626"
+      },
+      "competenciaServicos": 202607,
+      "servicos": [
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "131 - SERVICO DE OFTALMOLOGIA",
+          "ds_classificacao": "003 - TRATAMENTO CIRURGICO DO APARELHO DA VISAO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "131",
+          "co_classificacao": "003",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "135 - REABILITACAO",
+          "ds_classificacao": "010 - ATENCAO FONOAUDIOLOGICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "135",
+          "co_classificacao": "010",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "136 - SERVICO DE SUPORTE NUTRICIONAL",
+          "ds_classificacao": "002 - ENTERAL  PARENTERAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "136",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "004 - EXAMES COPROLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "004",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "112 - SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO",
+          "ds_classificacao": "005 - CENTRO DE PARTO NORMAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "112",
+          "co_classificacao": "005",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "130 - ATENCAO A DOENCA RENAL CRONICA",
+          "ds_classificacao": "001 - TRATAMENTO DIALITICO-HEMODIALISE",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "130",
+          "co_classificacao": "001",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "128 - SERVICO DE HEMOTERAPIA",
+          "ds_classificacao": "002 - DIAGNOSTICO EM HEMOTERAPIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "128",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "140 - SERVICO DE URGENCIA E EMERGENCIA",
+          "ds_classificacao": "019 - PRONTO SOCORRO GERAL/CLINICO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "140",
+          "co_classificacao": "019",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "140 - SERVICO DE URGENCIA E EMERGENCIA",
+          "ds_classificacao": "004 - ESTABILIZACAO DE PACIENTE CRITICO/GRAVE EM SALA DE ESTABILIZ",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "140",
+          "co_classificacao": "004",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "128 - SERVICO DE HEMOTERAPIA",
+          "ds_classificacao": "001 - PROCEDIMENTOS DESTINADOS A OBTENCAO DO SANGUE PFINS DE ASSI",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "128",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "009 - EXAMES MICROBIOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "009",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "120 - SERVICO DE DIAGNOSTICO POR ANATOMIA PATOLOGICA EOU CITOPATO",
+          "ds_classificacao": "001 - EXAMES ANATOMOPATOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "120",
+          "co_classificacao": "001",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "121 - SERVICO DE DIAGNOSTICO POR IMAGEM",
+          "ds_classificacao": "001 - RADIOLOGIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "121",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "128 - SERVICO DE HEMOTERAPIA",
+          "ds_classificacao": "004 - MEDICINA TRANSFUSIONAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "128",
+          "co_classificacao": "004",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "010 - EXAMES EM OUTROS LIQUIDOS BIOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "010",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "002 - EXAMES HEMATOLOGICOS E HEMOSTASIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "144 - SERVICO POSTO DE COLETA DE MATERIAIS  BIOLOGICOS",
+          "ds_classificacao": "001 - COLETA REALIZADA FORA DA ESTRUTURA LABORATORIAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "NAO",
+          "tp_servico": "PROPRIO",
+          "co_servico": "144",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "005 - EXAMES DE UROANALISE",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "005",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "126 - SERVICO DE FISIOTERAPIA",
+          "ds_classificacao": "005 - ASSISTENCIA FISIOTERAPEUTICA NAS DISFUNCOES MUSCULO ESQUELET",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "126",
+          "co_classificacao": "005",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "126 - SERVICO DE FISIOTERAPIA",
+          "ds_classificacao": "007 - ASSISTENCIA FISIOTERAPEUTICA NAS ALTERACOES EM NEUROLOGIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "126",
+          "co_classificacao": "007",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "149 - TRANSPLANTE",
+          "ds_classificacao": "015 - ACOES PARA DOACAO E CAPTACAO DE ORGAOS E TECIDOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "149",
+          "co_classificacao": "015",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "001 - EXAMES BIOQUIMICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "142 - SERVICO DE ENDOSCOPIA",
+          "ds_classificacao": "001 - DO APARELHO DIGESTIVO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "142",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "121 - SERVICO DE DIAGNOSTICO POR IMAGEM",
+          "ds_classificacao": "002 - ULTRASONOGRAFIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "121",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "122 - SERVICO DE DIAGNOSTICO POR METODOS GRAFICOS DINAMICOS",
+          "ds_classificacao": "001 - TESTE ERGOMETRICO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "122",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "126 - SERVICO DE FISIOTERAPIA",
+          "ds_classificacao": "004 - ASSISTENCIA FISIOTERAPEUTICA CARDIOVASCULARES E PNEUMOFUNCI",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "126",
+          "co_classificacao": "004",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "006 - EXAMES HORMONAIS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "006",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "174 - IMUNIZACAO",
+          "ds_classificacao": "002 - GRUPOS ESPECIAIS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "174",
+          "co_classificacao": "002",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "003 - EXAMES SOROLOGICOS E IMUNOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "003",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "013 - EXAMES IMUNOHEMATOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "013",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "122 - SERVICO DE DIAGNOSTICO POR METODOS GRAFICOS DINAMICOS",
+          "ds_classificacao": "003 - EXAME  ELETROCARDIOGRAFICO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "122",
+          "co_classificacao": "003",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "150 - CIRURGIA VASCULAR",
+          "ds_classificacao": "001 - FISTULA ARTERIOVENOSA SEM ENXERTO",
+          "ds_serv_amb_nao_sus": "SIM",
+          "ds_serv_amb_sus": "NAO",
+          "ds_serv_hosp_nao_sus": "SIM",
+          "ds_serv_hosp_sus": "NAO",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "150",
+          "co_classificacao": "001",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "121 - SERVICO DE DIAGNOSTICO POR IMAGEM",
+          "ds_classificacao": "003 - TOMOGRAFIA COMPUTADORIZADA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "121",
+          "co_classificacao": "003",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "126 - SERVICO DE FISIOTERAPIA",
+          "ds_classificacao": "001 - ASSISTENCIA FISIOTERAPEUTICA EM ALTERACOES OBSTETRICAS NEON",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "126",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "130 - ATENCAO A DOENCA RENAL CRONICA",
+          "ds_classificacao": "003 - CONFECCAO INTERVENCAO DE ACESSOS PARA DIALISE",
+          "ds_serv_amb_nao_sus": "SIM",
+          "ds_serv_amb_sus": "NAO",
+          "ds_serv_hosp_nao_sus": "SIM",
+          "ds_serv_hosp_sus": "NAO",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "130",
+          "co_classificacao": "003",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "136 - SERVICO DE SUPORTE NUTRICIONAL",
+          "ds_classificacao": "001 - ENTERAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "136",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "008 - EXAMES TOXICOLOGICOS OU DE MONITORIZACAO TERAPEUTICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "008",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "112 - SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO",
+          "ds_classificacao": "004 - PARTO EM GESTACAO DE ALTO RISCO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "112",
+          "co_classificacao": "004",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "142 - SERVICO DE ENDOSCOPIA",
+          "ds_classificacao": "002 - DO APARELHO RESPIRATORIO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "142",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "011 - EXAMES DE GENETICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "145",
+          "co_classificacao": "011",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "125 - SERVICO DE FARMACIA",
+          "ds_classificacao": "006 - FARMACIA HOSPITALAR",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "125",
+          "co_classificacao": "006",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "0002232",
+          "no_fantasia": "HOSPITAL SANTA ISABEL",
+          "tp_unidade": "05 - HOSPITAL GERAL",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+          "ds_servico": "170 - COMISSOES E COMITES",
+          "ds_classificacao": "001 - NUCLEO DE SEGURANCA DO PACIENTE",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "170",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48710
+        }
+      ],
+      "fontesServicos": [
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=0",
+          "consultadoEm": "2026-11-11T15:12:46.297038+00:00",
+          "hashResposta": "0ed67273f6eed068bae9e5af274796c0ebcf528b94f5c8b9d8e6a464324efc2a"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=1",
+          "consultadoEm": "2026-11-11T15:12:46.644893+00:00",
+          "hashResposta": "71c16d9187854ab097c486ada056af7022c7881e134e193898ebda08a712a3a2"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=2",
+          "consultadoEm": "2026-11-11T15:12:47.336039+00:00",
+          "hashResposta": "540806b2bf9efb0a67edd0d019d65802f8324efeaf90f77794274e543b962985"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=3",
+          "consultadoEm": "2026-11-11T15:12:47.700656+00:00",
+          "hashResposta": "9757123547a9b438c834b270373d92a11ccb5719ee0607884371839045b78b9d"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=4",
+          "consultadoEm": "2026-11-11T15:12:48.164594+00:00",
+          "hashResposta": "3cc856f14e061f0a2e38c9eda2ef3f42416242fd3daea05462846f9ed3c5378d"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=5",
+          "consultadoEm": "2026-11-11T15:12:48.728549+00:00",
+          "hashResposta": "89a2944032f1b80dba233d451b6228bcfce18d299c7c913b41d716c4209dc6cf"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=6",
+          "consultadoEm": "2026-11-11T15:12:49.196538+00:00",
+          "hashResposta": "178037d24b9d1f53604937777d33c00a75e32cee0cd7b5c4a412b7df60ca3d9f"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=7",
+          "consultadoEm": "2026-11-11T15:12:49.801112+00:00",
+          "hashResposta": "21364c9e5ce7d80f73346ec9da8b724d8521edfdf488e5649e56d5cecbe681ec"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=8",
+          "consultadoEm": "2026-11-11T15:12:50.285020+00:00",
+          "hashResposta": "844b3e47da9e66b71db3b5213d505d0dd355cd0acbbeabfb7c8fe269fcaa31b4"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=9",
+          "consultadoEm": "2026-11-11T15:12:50.735631+00:00",
+          "hashResposta": "6e62699e1523113cb06e64262ca20347d386d20bdf835bdcf8656dd161e54aaa"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=10",
+          "consultadoEm": "2026-11-11T15:12:51.570164+00:00",
+          "hashResposta": "f7395dd39774e748f09d49d8ea2047b67718c312933183fd114dfef49e425cf7"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=11",
+          "consultadoEm": "2026-11-11T15:12:52.335499+00:00",
+          "hashResposta": "3e9d140c2db2a220c3fe178145f3ed4b6ad61c880c35bfa6822cd4e4f72c65c8"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=12",
+          "consultadoEm": "2026-11-11T15:12:52.656098+00:00",
+          "hashResposta": "52ed85d5a75db92f962c31f8e231e2f6d8e0b40eef5f3669ac21f37aa56cf61f"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=13",
+          "consultadoEm": "2026-11-11T15:12:53.310110+00:00",
+          "hashResposta": "f60baa67df34d1b2c025589a644883a978ca9622e539ba2193699b41675378f7"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=14",
+          "consultadoEm": "2026-11-11T15:12:53.775367+00:00",
+          "hashResposta": "e022ac552b2fa9c2bbb42007c47c6b4cddc1b0e3f656d3ae6ce2a6aa7bb3ac26"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=15",
+          "consultadoEm": "2026-11-11T15:12:54.267084+00:00",
+          "hashResposta": "8f282482cfcf7ffaecde4c372083273f21de2edf311374dc5bf091b3cd9224e5"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=16",
+          "consultadoEm": "2026-11-11T15:12:54.831107+00:00",
+          "hashResposta": "c7521a3696a4d7619e4a991920d89fb436e684a88a474d2891f5a6d4daaa31c9"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=17",
+          "consultadoEm": "2026-11-11T15:12:55.297110+00:00",
+          "hashResposta": "55c7e4c5b4175e6b47146a0d040e75b4046a63ff9289ca0af257333bef252959"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=18",
+          "consultadoEm": "2026-11-11T15:12:55.756120+00:00",
+          "hashResposta": "cb478901984d0a30f4dd850ddeacf7fed801c9c67b2c3f0c7ee48a615b8c8045"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=19",
+          "consultadoEm": "2026-11-11T15:12:56.287433+00:00",
+          "hashResposta": "46dfa84c55285407ffad63418cbe2c89abc94ea731cd0802320d452ddfae9f48"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=20",
+          "consultadoEm": "2026-11-11T15:12:56.753099+00:00",
+          "hashResposta": "93596d0b4460165abaca6cb3d6c9e226faa311d4e08c304fa049bf67c65fb056"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=21",
+          "consultadoEm": "2026-11-11T15:12:57.239497+00:00",
+          "hashResposta": "c739d5edeabe66935df9f4d0def7656e2c184a5788d67544329f532a9c4d36ee"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=22",
+          "consultadoEm": "2026-11-11T15:12:57.663126+00:00",
+          "hashResposta": "73fda26b13d6098ac96a2f61e94c9be16a776aa15dd4080051cf0d86eb4258c5"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=23",
+          "consultadoEm": "2026-11-11T15:12:58.197951+00:00",
+          "hashResposta": "aaed157fba1c10668bbf2ffa5d0a0523e63c4f131b2968af72afb8a8294513d5"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=24",
+          "consultadoEm": "2026-11-11T15:12:58.766229+00:00",
+          "hashResposta": "e838e020cb1b816918fbb47c6dee6cf96f1a8feb05d3bde5548127c9f8709c1b"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=25",
+          "consultadoEm": "2026-11-11T15:12:59.231825+00:00",
+          "hashResposta": "99da2b9bbd62f6955848065e23b43cfde06ad6083f338194070178a92dacf566"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=26",
+          "consultadoEm": "2026-11-11T15:12:59.678820+00:00",
+          "hashResposta": "aa1723912194f88acb93295e87ea7604ed1b5b62c6dc3b4fabac9edb947ba46c"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=27",
+          "consultadoEm": "2026-11-11T15:13:00.237736+00:00",
+          "hashResposta": "c0511c0c5eb4fdea201c772f22bde7ab6cc366b100518333dc6c0245370e14e5"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=28",
+          "consultadoEm": "2026-11-11T15:13:00.704303+00:00",
+          "hashResposta": "ee3faa09a2c9ab20dc512165f87bd2bfc85bfb5ca1ceb9be9cd67c7d8fefb741"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=29",
+          "consultadoEm": "2026-11-11T15:13:01.175099+00:00",
+          "hashResposta": "1bf120dc9a9a5d545de3e6d9bef23b7cba24a4a074c5fe1f952c524912c26853"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=30",
+          "consultadoEm": "2026-11-11T15:13:01.672068+00:00",
+          "hashResposta": "8f4554c14e74e96617a4835f2568a3dcf4da7674ff9283d4f90251b7b292e745"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=31",
+          "consultadoEm": "2026-11-11T15:13:02.207601+00:00",
+          "hashResposta": "18ed485fd384ec15188e470dd9d226f297e241a74dadf9b4d785941cdf6fe0c2"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=32",
+          "consultadoEm": "2026-11-11T15:13:02.677583+00:00",
+          "hashResposta": "99d47dd70f095cb6668bef62c09e4d64107f45a6d81987409e3dff003ae01080"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=33",
+          "consultadoEm": "2026-11-11T15:13:03.165812+00:00",
+          "hashResposta": "9b2979454d482484bd485f9d241213957ee5fb2d4894ff3fd8bc91eacfef3156"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=34",
+          "consultadoEm": "2026-11-11T15:13:03.853792+00:00",
+          "hashResposta": "a55fa3c8caa41bd2603f932d4c7a5e9ad59990ecd51583a010a06aa263669e67"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=35",
+          "consultadoEm": "2026-11-11T15:13:04.207223+00:00",
+          "hashResposta": "ab4fb494587181645cf937a1ecc9ba1e0b67d4aea25380231ef87a99b1ae3213"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=36",
+          "consultadoEm": "2026-11-11T15:13:04.686811+00:00",
+          "hashResposta": "cd91e417975e680244c6286c17be0d78231dbdf1d9573e3a768a6cbea0447b31"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=37",
+          "consultadoEm": "2026-11-11T15:13:05.198974+00:00",
+          "hashResposta": "9545d49e5716f5ec83b1b97467114b9d0ca65f50a08194372a7ab3b2cd79aad7"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=38",
+          "consultadoEm": "2026-11-11T15:13:05.831004+00:00",
+          "hashResposta": "e175b8e0db56098ca2fd6c6ad8570f90e173fbd667befd75e0330ee491721598"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=39",
+          "consultadoEm": "2026-11-11T15:13:06.191694+00:00",
+          "hashResposta": "589473694639c85bb5b356ff6e9e26e8eb9e39adeca6e548caf76de899aaf622"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=40",
+          "consultadoEm": "2026-11-11T15:13:06.717920+00:00",
+          "hashResposta": "921681f242e48fbb1291543536e341653983fcf35149b71c070a5accc88a7d12"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=41",
+          "consultadoEm": "2026-11-11T15:13:07.192549+00:00",
+          "hashResposta": "9cc1f7ab84c33509a015e41b6fac27630f95efd6c73fdc86944320870a0e550a"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=0002232&co_ibge=280030&nu_comp=202607&limit=1000&offset=42",
+          "consultadoEm": "2026-11-11T15:13:07.684534+00:00",
+          "hashResposta": "fc85d08eab72df32a5508bba889507fdd01fd3eae2c82a813f598d6cc97b2ad5"
+        }
+      ],
+      "codigosLeiteIdentificados": [],
+      "conflitos": [
+        {
+          "campo": "endereco",
+          "anterior": "Avenida Simeão Sobral, s/n, bairro Santo Antônio",
+          "demas": "SIMEAO SOBRAL, 1312, DEZOITO DO FORTE"
+        },
+        {
+          "campo": "escopo",
+          "anterior": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+          "demas": "HOSPITAL SANTA ISABEL",
+          "observacao": "Cadastro da instituição mantenedora não comprova contato/endereço específico do posto."
+        },
+        {
+          "campo": "coordenadasCadastrais",
+          "competenciaHistorica": 202102,
+          "anterior": {
+            "latitude": -10.902087704075806,
+            "longitude": -37.0548677444458
+          },
+          "demas": {
+            "latitude": -10.5921128,
+            "longitude": -36.9416223
+          },
+          "observacao": "Pontos diferentes entre séries; nenhum deles foi validado como localização operacional."
+        },
+        {
+          "campo": "coordenadasCadastrais",
+          "competenciaHistorica": 202104,
+          "anterior": {
+            "latitude": -10.902087704075806,
+            "longitude": -37.0548677444458
+          },
+          "demas": {
+            "latitude": -10.5921128,
+            "longitude": -36.9416223
+          },
+          "observacao": "Pontos diferentes entre séries; nenhum deles foi validado como localização operacional."
+        }
+      ],
+      "amostraHistoricaEstabelecimento": {
+        "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-estabelecimentos?co_cnes=0002232&limit=2&offset=0",
+        "consultadoEm": "2026-11-11T15:13:08.187591+00:00",
+        "dados": {
+          "cnes_estabelecimentos": [
+            {
+              "nu_comp": 202102,
+              "co_ibge": 280030,
+              "co_cnes": "0002232",
+              "no_fantasia": "HOSPITAL SANTA IZABEL",
+              "no_empresarial": "ASSOCIACAO ARACAJUANA DE BENEFICENCIA",
+              "nu_cnpj": "13025507000141",
+              "nu_cnpj_mantenedora": null,
+              "tp_gestao": "MUNICIPAL",
+              "tp_unidade": "05 - HOSPITAL GERAL",
+              "ds_class_estab": "006 - HOSPITAL",
+              "ds_natureza_juridica": "3999 - ASSOCIACAO PRIVADA",
+              "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+              "no_logradouro": "SIMEAO SOBRAL",
+              "nu_endereco": "1312",
+              "ds_complemento": null,
+              "nu_cep": "49072720",
+              "nu_telefone": "79 32124900",
+              "ds_email": "contador.hsi@gmail.com",
+              "nu_latitude": -10.902087704075806,
+              "nu_longitude": -37.0548677444458,
+              "ds_status": "ATIVO"
+            },
+            {
+              "nu_comp": 202104,
+              "co_ibge": 280030,
+              "co_cnes": "0002232",
+              "no_fantasia": "HOSPITAL SANTA IZABEL",
+              "no_empresarial": "ASSOCIACAO ARACAJUANA DE BENEFICENCIA",
+              "nu_cnpj": "13025507000141",
+              "nu_cnpj_mantenedora": null,
+              "tp_gestao": "MUNICIPAL",
+              "tp_unidade": "05 - HOSPITAL GERAL",
+              "ds_class_estab": "006 - HOSPITAL",
+              "ds_natureza_juridica": "3999 - ASSOCIACAO PRIVADA",
+              "no_grupo_nat_jur": "SEM FINS LUCRATIVOS",
+              "no_logradouro": "SIMEAO SOBRAL",
+              "nu_endereco": "1312",
+              "ds_complemento": null,
+              "nu_cep": "49072720",
+              "nu_telefone": "79 32124900",
+              "ds_email": "contador.hsi@gmail.com",
+              "nu_latitude": -10.902087704075806,
+              "nu_longitude": -37.0548677444458,
+              "ds_status": "ATIVO"
+            }
+          ]
+        },
+        "hashResposta": "00c84424e994cdae3866f150b5366a5385128e7d07c994e4b714dc5b3708f0b6"
+      },
+      "ativo": false,
+      "publicado": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Revisão humana do vínculo e de cada campo antes de atualizar",
+        "Confirmar funcionamento e acesso operacional atuais",
+        "Não tratar coordenadas cadastrais como GPS aprovado nem turno como horário de doação"
+      ]
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "nomeUnidadePreservado": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+      "relacao": "mantenedora",
+      "evidenciaVinculo": "https://www.aracaju.se.gov.br/noticias/118605/agosto-dourado-prefeitura-fortalece-acoes-de-incentivo-a-amamentacao-e-doacao-de-leite-humano",
+      "recuperado": {
+        "cnes": "4099206",
+        "nomeEstabelecimento": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+        "endereco": "RUA PRC JOSE COSTA CAVALCANTE, S/N, 17 DE MARCO",
+        "telefone": null,
+        "telefoneOriginal": null,
+        "cep": "49003247",
+        "cidade": "Aracaju",
+        "estado": "SE",
+        "codigoMunicipio": 280030,
+        "atualizadoNaDemas": "2025-12-26",
+        "coordenadasCadastraisNaoVerificadas": {
+          "latitude": -11.000006757218928,
+          "longitude": -37.099971771240234
+        },
+        "horariosConfirmados": null
+      },
+      "fonte": {
+        "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/4099206",
+        "consultadoEm": "2026-11-11T15:13:08.693223+00:00",
+        "hashResposta": "1367974bed61a05c249bf55c96869d14ad11031c9ac065facd01c881dd691a09"
+      },
+      "competenciaServicos": 202607,
+      "servicos": [
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "009 - EXAMES MICROBIOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "009",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "128 - SERVICO DE HEMOTERAPIA",
+          "ds_classificacao": "002 - DIAGNOSTICO EM HEMOTERAPIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO E TERCEIRIZADO",
+          "co_servico": "128",
+          "co_classificacao": "002",
+          "tp_caracteristica": "3",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "012 - EXAMES PARA TRIAGEM NEONATAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO E TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "012",
+          "tp_caracteristica": "3",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "170 - COMISSOES E COMITES",
+          "ds_classificacao": "001 - NUCLEO DE SEGURANCA DO PACIENTE",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "170",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "125 - SERVICO DE FARMACIA",
+          "ds_classificacao": "006 - FARMACIA HOSPITALAR",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "125",
+          "co_classificacao": "006",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "004 - EXAMES COPROLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "004",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "002 - EXAMES HEMATOLOGICOS E HEMOSTASIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "002",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "112 - SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO",
+          "ds_classificacao": "003 - PARTO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "112",
+          "co_classificacao": "003",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "135 - REABILITACAO",
+          "ds_classificacao": "011 - ATENCAO FISIOTERAPEUTICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "135",
+          "co_classificacao": "011",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "136 - SERVICO DE SUPORTE NUTRICIONAL",
+          "ds_classificacao": "002 - ENTERAL  PARENTERAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "136",
+          "co_classificacao": "002",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "120 - SERVICO DE DIAGNOSTICO POR ANATOMIA PATOLOGICA EOU CITOPATO",
+          "ds_classificacao": "002 - EXAMES CITOPATOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "120",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "141 - SERVICO DE VIGILANCIA EM SAUDE",
+          "ds_classificacao": "001 - VIGILANCIA EPIDEMIOLOGICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "141",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "013 - EXAMES IMUNOHEMATOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "013",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "112 - SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO",
+          "ds_classificacao": "001 - ACOMPANHAMENTO DO PRE-NATAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "112",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "165 - ATENCAO AS PESSOAS EM SITUACAO DE VIOLENCIA SEXUAL",
+          "ds_classificacao": "001 - ATENCAO INTEGRAL AS PESSOAS EM SITUACAO DE VIOLENCIA SEXUAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "165",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "126 - SERVICO DE FISIOTERAPIA",
+          "ds_classificacao": "001 - ASSISTENCIA FISIOTERAPEUTICA EM ALTERACOES OBSTETRICAS NEON",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "126",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "136 - SERVICO DE SUPORTE NUTRICIONAL",
+          "ds_classificacao": "001 - ENTERAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "136",
+          "co_classificacao": "001",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "126 - SERVICO DE FISIOTERAPIA",
+          "ds_classificacao": "005 - ASSISTENCIA FISIOTERAPEUTICA NAS DISFUNCOES MUSCULO ESQUELET",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "126",
+          "co_classificacao": "005",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "112 - SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO",
+          "ds_classificacao": "004 - PARTO EM GESTACAO DE ALTO RISCO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "112",
+          "co_classificacao": "004",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "128 - SERVICO DE HEMOTERAPIA",
+          "ds_classificacao": "004 - MEDICINA TRANSFUSIONAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO E TERCEIRIZADO",
+          "co_servico": "128",
+          "co_classificacao": "004",
+          "tp_caracteristica": "3",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "010 - EXAMES EM OUTROS LIQUIDOS BIOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "010",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "003 - EXAMES SOROLOGICOS E IMUNOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "003",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "008 - EXAMES TOXICOLOGICOS OU DE MONITORIZACAO TERAPEUTICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "008",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "121 - SERVICO DE DIAGNOSTICO POR IMAGEM",
+          "ds_classificacao": "002 - ULTRASONOGRAFIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "121",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "130 - ATENCAO A DOENCA RENAL CRONICA",
+          "ds_classificacao": "003 - CONFECCAO INTERVENCAO DE ACESSOS PARA DIALISE",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "130",
+          "co_classificacao": "003",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "006 - EXAMES HORMONAIS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "006",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "126 - SERVICO DE FISIOTERAPIA",
+          "ds_classificacao": "004 - ASSISTENCIA FISIOTERAPEUTICA CARDIOVASCULARES E PNEUMOFUNCI",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "126",
+          "co_classificacao": "004",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "001 - EXAMES BIOQUIMICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "001",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "174 - IMUNIZACAO",
+          "ds_classificacao": "002 - GRUPOS ESPECIAIS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "174",
+          "co_classificacao": "002",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "011 - EXAMES DE GENETICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "011",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "120 - SERVICO DE DIAGNOSTICO POR ANATOMIA PATOLOGICA EOU CITOPATO",
+          "ds_classificacao": "001 - EXAMES ANATOMOPATOLOGICOS",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "NAO",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "120",
+          "co_classificacao": "001",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "131 - SERVICO DE OFTALMOLOGIA",
+          "ds_classificacao": "001 - DIAGNOSTICO EM OFTALMOLOGIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "131",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "135 - REABILITACAO",
+          "ds_classificacao": "003 - REABILITACAO FISICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "135",
+          "co_classificacao": "003",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "012 - EXAMES PARA TRIAGEM NEONATAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "012",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "126 - SERVICO DE FISIOTERAPIA",
+          "ds_classificacao": "007 - ASSISTENCIA FISIOTERAPEUTICA NAS ALTERACOES EM NEUROLOGIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "126",
+          "co_classificacao": "007",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "131 - SERVICO DE OFTALMOLOGIA",
+          "ds_classificacao": "003 - TRATAMENTO CIRURGICO DO APARELHO DA VISAO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "131",
+          "co_classificacao": "003",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "135 - REABILITACAO",
+          "ds_classificacao": "010 - ATENCAO FONOAUDIOLOGICA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "135",
+          "co_classificacao": "010",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "121 - SERVICO DE DIAGNOSTICO POR IMAGEM",
+          "ds_classificacao": "001 - RADIOLOGIA",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "121",
+          "co_classificacao": "001",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "122 - SERVICO DE DIAGNOSTICO POR METODOS GRAFICOS DINAMICOS",
+          "ds_classificacao": "003 - EXAME  ELETROCARDIOGRAFICO",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "122",
+          "co_classificacao": "003",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "112 - SERVICO DE ATENCAO AO PRE-NATAL, PARTO E NASCIMENTO",
+          "ds_classificacao": "005 - CENTRO DE PARTO NORMAL",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO",
+          "co_servico": "112",
+          "co_classificacao": "005",
+          "tp_caracteristica": "1",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "128 - SERVICO DE HEMOTERAPIA",
+          "ds_classificacao": "001 - PROCEDIMENTOS DESTINADOS A OBTENCAO DO SANGUE PFINS DE ASSI",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "PROPRIO E TERCEIRIZADO",
+          "co_servico": "128",
+          "co_classificacao": "001",
+          "tp_caracteristica": "3",
+          "nu_seq_processo": 48713
+        },
+        {
+          "nu_comp": 202607,
+          "co_ibge": 280030,
+          "co_cnes": "4099206",
+          "no_fantasia": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+          "ds_class_estab": "006 - HOSPITAL",
+          "no_grupo_nat_jur": "PUBLICO",
+          "ds_servico": "145 - SERVICO DE DIAGNOSTICO DE LABORATORIO CLINICO",
+          "ds_classificacao": "005 - EXAMES DE UROANALISE",
+          "ds_serv_amb_nao_sus": "NAO",
+          "ds_serv_amb_sus": "SIM",
+          "ds_serv_hosp_nao_sus": "NAO",
+          "ds_serv_hosp_sus": "SIM",
+          "tp_servico": "TERCEIRIZADO",
+          "co_servico": "145",
+          "co_classificacao": "005",
+          "tp_caracteristica": "2",
+          "nu_seq_processo": 48713
+        }
+      ],
+      "fontesServicos": [
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=0",
+          "consultadoEm": "2026-11-11T15:13:09.230544+00:00",
+          "hashResposta": "a753e712f9df848e328a2c6623953a89e5482ad54460c2eded5cab57c8f680f9"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=1",
+          "consultadoEm": "2026-11-11T15:13:09.718914+00:00",
+          "hashResposta": "02f061f421ea77bda43d0750112f8d070e3679db1661f1a45413da910a97f24a"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=2",
+          "consultadoEm": "2026-11-11T15:13:10.223562+00:00",
+          "hashResposta": "6898a57f2fea2c90a545000b8c3e89ed93c0f3a956af3be35ff0f2d5589e375a"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=3",
+          "consultadoEm": "2026-11-11T15:13:10.691434+00:00",
+          "hashResposta": "8e5577653c74503eb39d415b3af3cfa5fced3c87a90b148470913dbd8f8b6172"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=4",
+          "consultadoEm": "2026-11-11T15:13:11.190789+00:00",
+          "hashResposta": "3ef17ac4d0ebfca5183d17168d8fa7685e255826f2684688a4cc249c35c023cf"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=5",
+          "consultadoEm": "2026-11-11T15:13:11.846033+00:00",
+          "hashResposta": "31287f94de57bb00cdff24400363d0235c29c082e8247b65804ac8fa2e295902"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=6",
+          "consultadoEm": "2026-11-11T15:13:12.533826+00:00",
+          "hashResposta": "fc0977763841d9a535ca5cff22a9fc37f279603997e1ed7f7ad695181766db55"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=7",
+          "consultadoEm": "2026-11-11T15:13:12.862554+00:00",
+          "hashResposta": "f1fb8d5ca647df5df0ab1f2c421454d10a86ebcb7dbe10d3c30e0244c3272163"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=8",
+          "consultadoEm": "2026-11-11T15:13:13.366509+00:00",
+          "hashResposta": "42388982cd99d115ccb78b649f21994a041fd053a3ff9637073939c34b3332d0"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=9",
+          "consultadoEm": "2026-11-11T15:13:13.976557+00:00",
+          "hashResposta": "a4b8432c2be68a5f0e180bc2f60471038886168e026e9041b261dead28033324"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=10",
+          "consultadoEm": "2026-11-11T15:13:14.481672+00:00",
+          "hashResposta": "638c9a06888b5450a2f9728182355c452c9bd8d28b989db621900c558a272cba"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=11",
+          "consultadoEm": "2026-11-11T15:13:15.032765+00:00",
+          "hashResposta": "68dd0ea5d46110cf0f5fc9b406b3b49485313114a24429006f497f4f8dce188e"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=12",
+          "consultadoEm": "2026-11-11T15:13:15.458677+00:00",
+          "hashResposta": "7d89567a2fc9152294311c9d9992f928ea4e4392cd537e87f5696f98143caa6e"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=13",
+          "consultadoEm": "2026-11-11T15:13:16.020007+00:00",
+          "hashResposta": "a8feb8ca0aaf02a8e67e251d740035a8cfff6222bcfb393188c577a33e7327f0"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=14",
+          "consultadoEm": "2026-11-11T15:13:16.349533+00:00",
+          "hashResposta": "20d3a025c9655da99f4a601042607efbb50c280a0076e7b32ca99fcb28b6cf16"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=15",
+          "consultadoEm": "2026-11-11T15:13:17.006745+00:00",
+          "hashResposta": "9e24e82168f6794bd6039928eab8c16ea5e6397d96eb52b36af544188936c460"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=16",
+          "consultadoEm": "2026-11-11T15:13:17.519992+00:00",
+          "hashResposta": "364905cd3bd00544b93dd8689df5ef738a1cd5943def2cc41fdb85a8edafbd9b"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=17",
+          "consultadoEm": "2026-11-11T15:13:17.959782+00:00",
+          "hashResposta": "0a14870556728f5aac36a9396a6f799c6cca76543ab65532e55a2737b52c7f02"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=18",
+          "consultadoEm": "2026-11-11T15:13:18.458696+00:00",
+          "hashResposta": "532ea1c6f7d55681e39173b6bcb60e0db09801d7bdb30b6f68e7091ef3b65b50"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=19",
+          "consultadoEm": "2026-11-11T15:13:18.986249+00:00",
+          "hashResposta": "0379d91db4702c15383b8e2f19aea9726304829bb868b94ce8f86a90067f3a07"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=20",
+          "consultadoEm": "2026-11-11T15:13:19.387976+00:00",
+          "hashResposta": "47bda49fd7df17ad30576a6d2bd1ae0426b6190f778599d0fd83d0b0aee140e8"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=21",
+          "consultadoEm": "2026-11-11T15:13:19.862228+00:00",
+          "hashResposta": "a32c5330ec68bfaa884132dce7daca0914266670a74c536a74189f0b15d50bbe"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=22",
+          "consultadoEm": "2026-11-11T15:13:20.383802+00:00",
+          "hashResposta": "bdd579f70ff33650ac9ad73cd951bcf2f722fb478fd29b508a47a16b1f54cb6a"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=23",
+          "consultadoEm": "2026-11-11T15:13:20.884746+00:00",
+          "hashResposta": "be991e296804a94ffbe05133ad228963785a6a7ea19197e1f2ef89312f9b9ab9"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=24",
+          "consultadoEm": "2026-11-11T15:13:21.379989+00:00",
+          "hashResposta": "b42fd9bc47dd325588d44b86b8379ce88d1903733131a55b4e33494cdb0c5fed"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=25",
+          "consultadoEm": "2026-11-11T15:13:21.969907+00:00",
+          "hashResposta": "15e3a5d503478aa63e41e9d13653bb12f5182c2998fbcd39be202f8264e2025a"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=26",
+          "consultadoEm": "2026-11-11T15:13:22.392169+00:00",
+          "hashResposta": "88926e353307e2b75107d070e4e6c4ba900fd972062f394151a07807561ac72e"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=27",
+          "consultadoEm": "2026-11-11T15:13:22.964254+00:00",
+          "hashResposta": "51c97623df9b5e98a70778100fc88075a426db21094e971a7914966de9723fd7"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=28",
+          "consultadoEm": "2026-11-11T15:13:23.490476+00:00",
+          "hashResposta": "6688734bb9415bdcbf69f93f1bad598d07fdbf5d06b34f37d1497949599bc578"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=29",
+          "consultadoEm": "2026-11-11T15:13:24.031483+00:00",
+          "hashResposta": "01123603037f846b0898b96851a9ea131be609852dbaf7aafe857d6cf26b9beb"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=30",
+          "consultadoEm": "2026-11-11T15:13:24.501967+00:00",
+          "hashResposta": "078e7f3f962155ccafa7065028f85307f7b4806312875e6dc2396dff79b01049"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=31",
+          "consultadoEm": "2026-11-11T15:13:24.916752+00:00",
+          "hashResposta": "9bfef42f9fc51c083e2a0639f8468082837c2203d89fdcf198a38cfdf22a970e"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=32",
+          "consultadoEm": "2026-11-11T15:13:25.490507+00:00",
+          "hashResposta": "00de7cb7dc9c3742f46c51cff3adafb9cfe7e7253b22469f78b39de064983243"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=33",
+          "consultadoEm": "2026-11-11T15:13:26.168872+00:00",
+          "hashResposta": "60d2f612064a7dac3180b515e045121c7be337af0a7faf74cea50e0b1130a0d4"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=34",
+          "consultadoEm": "2026-11-11T15:13:26.600850+00:00",
+          "hashResposta": "0789722502497b22af188318f5e1d07f9521c90294c5538f109250d510add75c"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=35",
+          "consultadoEm": "2026-11-11T15:13:27.161498+00:00",
+          "hashResposta": "7d2ac6e6608f1a0b30a44c9687beee7b9a9c0c6f7246321d5fe32db9fe26b5f5"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=36",
+          "consultadoEm": "2026-11-11T15:13:27.598945+00:00",
+          "hashResposta": "6b7fb833aa8dc4d18d0348469e4fe9a91ca5c8ca6bb291dd845cfe22f3afc13c"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=37",
+          "consultadoEm": "2026-11-11T15:13:28.051635+00:00",
+          "hashResposta": "b73ba8a90f5ec19e4f390d267589f55479b819c111a47c28b959278777b214f2"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=38",
+          "consultadoEm": "2026-11-11T15:13:28.578721+00:00",
+          "hashResposta": "f0a9d281ea0caa0995752cda00d1fe5f271df1979e6728b776c3d41426a7b7de"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=39",
+          "consultadoEm": "2026-11-11T15:13:29.086456+00:00",
+          "hashResposta": "56fa306d57c4a2f2edb1de38de59571ff826f1c5bc2319ab2f5477b93a42ada2"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=40",
+          "consultadoEm": "2026-11-11T15:13:29.765388+00:00",
+          "hashResposta": "fb74a4510c3de43a7edc8dc6217c9a98dc1143c05e8a92e67f72e5cf642aa1c0"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=41",
+          "consultadoEm": "2026-11-11T15:13:30.216588+00:00",
+          "hashResposta": "ee9167916c9963bbf1d238a52930c7e3186062cf5f00c1defc0a515500fe61d9"
+        },
+        {
+          "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-servicos-especializados?co_cnes=4099206&co_ibge=280030&nu_comp=202607&limit=1000&offset=42",
+          "consultadoEm": "2026-11-11T15:13:30.787471+00:00",
+          "hashResposta": "fc85d08eab72df32a5508bba889507fdd01fd3eae2c82a813f598d6cc97b2ad5"
+        }
+      ],
+      "codigosLeiteIdentificados": [],
+      "conflitos": [
+        {
+          "campo": "escopo",
+          "anterior": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+          "demas": "HOSP DA MULHER E MATER DE ARACAJU LOURDES NOGUEIRA HAMA",
+          "observacao": "Cadastro da instituição mantenedora não comprova contato/endereço específico do posto."
+        },
+        {
+          "campo": "coordenadasCadastrais",
+          "competenciaHistorica": 202303,
+          "anterior": {
+            "latitude": -10.911,
+            "longitude": -37.072
+          },
+          "demas": {
+            "latitude": -11.000006757218928,
+            "longitude": -37.099971771240234
+          },
+          "observacao": "Pontos diferentes entre séries; nenhum deles foi validado como localização operacional."
+        },
+        {
+          "campo": "coordenadasCadastrais",
+          "competenciaHistorica": 202311,
+          "anterior": {
+            "latitude": -10.911,
+            "longitude": -37.072
+          },
+          "demas": {
+            "latitude": -11.000006757218928,
+            "longitude": -37.099971771240234
+          },
+          "observacao": "Pontos diferentes entre séries; nenhum deles foi validado como localização operacional."
+        },
+        {
+          "campo": "numeroEnderecoPesquisaAnterior",
+          "anterior": "64",
+          "demas": "S/N",
+          "fonteAnterior": "https://www.aracaju.se.gov.br/noticias/113932/convite-a-imprensa-prefeitura-de-aracaju-apresenta-novos-servicos-da-maternidade-lourdes-nogueira-nesta-segunda-feira-10"
+        }
+      ],
+      "amostraHistoricaEstabelecimento": {
+        "url": "https://apidadosabertos.saude.gov.br/assistencia-a-saude/cnes-estabelecimentos?co_cnes=4099206&limit=2&offset=0",
+        "consultadoEm": "2026-11-11T15:13:31.228149+00:00",
+        "dados": {
+          "cnes_estabelecimentos": [
+            {
+              "nu_comp": 202303,
+              "co_ibge": 280030,
+              "co_cnes": "4099206",
+              "no_fantasia": "MATERNIDADE MUNICIPAL MARIA DE LOURDES SANTANA NOGUEIRA",
+              "no_empresarial": "MUNICIPIO DE ARACAJU",
+              "nu_cnpj": null,
+              "nu_cnpj_mantenedora": "13128780000878",
+              "tp_gestao": "MUNICIPAL",
+              "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+              "ds_class_estab": "006 - HOSPITAL",
+              "ds_natureza_juridica": "1244 - MUNICIPIO",
+              "no_grupo_nat_jur": "PUBLICO",
+              "no_logradouro": "RUA PRC JOSE COSTA CAVALCANTE",
+              "nu_endereco": "S/N",
+              "ds_complemento": null,
+              "nu_cep": "49003247",
+              "nu_telefone": null,
+              "ds_email": null,
+              "nu_latitude": -10.911,
+              "nu_longitude": -37.072,
+              "ds_status": "ATIVO"
+            },
+            {
+              "nu_comp": 202311,
+              "co_ibge": 280030,
+              "co_cnes": "4099206",
+              "no_fantasia": "MATERNIDADE MUNICIPAL MARIA DE LOURDES SANTANA NOGUEIRA",
+              "no_empresarial": "MUNICIPIO DE ARACAJU",
+              "nu_cnpj": null,
+              "nu_cnpj_mantenedora": "13128780000878",
+              "tp_gestao": "MUNICIPAL",
+              "tp_unidade": "07 - HOSPITAL ESPECIALIZADO",
+              "ds_class_estab": "006 - HOSPITAL",
+              "ds_natureza_juridica": "1244 - MUNICIPIO",
+              "no_grupo_nat_jur": "PUBLICO",
+              "no_logradouro": "RUA PRC JOSE COSTA CAVALCANTE",
+              "nu_endereco": "S/N",
+              "ds_complemento": null,
+              "nu_cep": "49003247",
+              "nu_telefone": null,
+              "ds_email": null,
+              "nu_latitude": -10.911,
+              "nu_longitude": -37.072,
+              "ds_status": "ATIVO"
+            }
+          ]
+        },
+        "hashResposta": "86aa45fbe043594da5c3333f1075000cfe881ebe1891fe3a14cd0ddad48ffc6f"
+      },
+      "ativo": false,
+      "publicado": false,
+      "coordenadasVerificadas": false,
+      "pendencias": [
+        "Revisão humana do vínculo e de cada campo antes de atualizar",
+        "Confirmar funcionamento e acesso operacional atuais",
+        "Não tratar coordenadas cadastrais como GPS aprovado nem turno como horário de doação"
+      ]
+    }
+  ],
+  "provasFiltros": [
+    {
+      "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos?codigo_municipio=280030&codigo_tipo_unidade=5&limit=2&offset=0",
+      "consultadoEm": "2026-11-11T15:13:31.782146+00:00",
+      "dados": {
+        "estabelecimentos": [
+          {
+            "codigo_cnes": 2232,
+            "numero_cnpj_entidade": null,
+            "nome_razao_social": "ASSOCIACAO ARACAJUANA DE BENEFICENCIA",
+            "nome_fantasia": "HOSPITAL SANTA ISABEL",
+            "natureza_organizacao_entidade": null,
+            "tipo_gestao": "E",
+            "descricao_nivel_hierarquia": null,
+            "descricao_esfera_administrativa": "ESTADUAL",
+            "codigo_tipo_unidade": 5,
+            "codigo_cep_estabelecimento": "49072720",
+            "endereco_estabelecimento": "SIMEAO SOBRAL",
+            "numero_estabelecimento": "1312",
+            "bairro_estabelecimento": "DEZOITO DO FORTE",
+            "numero_telefone_estabelecimento": "79 32124900",
+            "latitude_estabelecimento_decimo_grau": -10.5921128,
+            "longitude_estabelecimento_decimo_grau": -36.9416223,
+            "endereco_email_estabelecimento": "dirclin.hsi2023@gmail.com",
+            "numero_cnpj": "13025507000141",
+            "codigo_identificador_turno_atendimento": "06",
+            "descricao_turno_atendimento": "ATENDIMENTO CONTINUO DE 24 HORAS/DIA (PLANTAO:INCLUI SABADOS, DOMINGOS E FERIADOS)",
+            "estabelecimento_faz_atendimento_ambulatorial_sus": "SIM",
+            "codigo_estabelecimento_saude": "2800300002232",
+            "codigo_uf": 28,
+            "codigo_municipio": 280030,
+            "descricao_natureza_juridica_estabelecimento": "3999",
+            "codigo_motivo_desabilitacao_estabelecimento": null,
+            "estabelecimento_possui_centro_cirurgico": 1,
+            "estabelecimento_possui_centro_obstetrico": 1,
+            "estabelecimento_possui_centro_neonatal": 1,
+            "estabelecimento_possui_atendimento_hospitalar": 1,
+            "estabelecimento_possui_servico_apoio": 1,
+            "estabelecimento_possui_atendimento_ambulatorial": 1,
+            "codigo_atividade_ensino_unidade": "03",
+            "codigo_natureza_organizacao_unidade": null,
+            "codigo_nivel_hierarquia_unidade": null,
+            "codigo_esfera_administrativa_unidade": "E ",
+            "data_atualizacao": "2025-09-03"
+          },
+          {
+            "codigo_cnes": 2658496,
+            "numero_cnpj_entidade": null,
+            "nome_razao_social": "UNIMED SERGIPE COOPERATIVA DE TRABALHO MEDICO",
+            "nome_fantasia": "HOSPITAL UNIMED SERGIPE",
+            "natureza_organizacao_entidade": null,
+            "tipo_gestao": "M",
+            "descricao_nivel_hierarquia": null,
+            "descricao_esfera_administrativa": "MUNICIPAL",
+            "codigo_tipo_unidade": 5,
+            "codigo_cep_estabelecimento": "49015230",
+            "endereco_estabelecimento": "AV GONCALO PRADO ROLLEMBERG",
+            "numero_estabelecimento": "200",
+            "bairro_estabelecimento": "SAO JOSE",
+            "numero_telefone_estabelecimento": "79 21078781",
+            "latitude_estabelecimento_decimo_grau": -10.59125,
+            "longitude_estabelecimento_decimo_grau": -37.04025,
+            "endereco_email_estabelecimento": "ccont@unimedse.coop.br",
+            "numero_cnpj": "13360276002095",
+            "codigo_identificador_turno_atendimento": "06",
+            "descricao_turno_atendimento": "ATENDIMENTO CONTINUO DE 24 HORAS/DIA (PLANTAO:INCLUI SABADOS, DOMINGOS E FERIADOS)",
+            "estabelecimento_faz_atendimento_ambulatorial_sus": "NAO",
+            "codigo_estabelecimento_saude": "2800302658496",
+            "codigo_uf": 28,
+            "codigo_municipio": 280030,
+            "descricao_natureza_juridica_estabelecimento": "2143",
+            "codigo_motivo_desabilitacao_estabelecimento": null,
+            "estabelecimento_possui_centro_cirurgico": 1,
+            "estabelecimento_possui_centro_obstetrico": 0,
+            "estabelecimento_possui_centro_neonatal": 0,
+            "estabelecimento_possui_atendimento_hospitalar": 1,
+            "estabelecimento_possui_servico_apoio": 1,
+            "estabelecimento_possui_atendimento_ambulatorial": 1,
+            "codigo_atividade_ensino_unidade": "04",
+            "codigo_natureza_organizacao_unidade": null,
+            "codigo_nivel_hierarquia_unidade": null,
+            "codigo_esfera_administrativa_unidade": "M ",
+            "data_atualizacao": "2026-09-22"
+          }
+        ]
+      },
+      "hashResposta": "7812487013b32fad96e70ea74d33cea2b502ec446efb8a97b569d3678095541d"
+    },
+    {
+      "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos?codigo_municipio=280030&codigo_tipo_unidade=5&limit=2&offset=1",
+      "consultadoEm": "2026-11-11T15:13:32.192870+00:00",
+      "dados": {
+        "estabelecimentos": [
+          {
+            "codigo_cnes": 2658496,
+            "numero_cnpj_entidade": null,
+            "nome_razao_social": "UNIMED SERGIPE COOPERATIVA DE TRABALHO MEDICO",
+            "nome_fantasia": "HOSPITAL UNIMED SERGIPE",
+            "natureza_organizacao_entidade": null,
+            "tipo_gestao": "M",
+            "descricao_nivel_hierarquia": null,
+            "descricao_esfera_administrativa": "MUNICIPAL",
+            "codigo_tipo_unidade": 5,
+            "codigo_cep_estabelecimento": "49015230",
+            "endereco_estabelecimento": "AV GONCALO PRADO ROLLEMBERG",
+            "numero_estabelecimento": "200",
+            "bairro_estabelecimento": "SAO JOSE",
+            "numero_telefone_estabelecimento": "79 21078781",
+            "latitude_estabelecimento_decimo_grau": -10.59125,
+            "longitude_estabelecimento_decimo_grau": -37.04025,
+            "endereco_email_estabelecimento": "ccont@unimedse.coop.br",
+            "numero_cnpj": "13360276002095",
+            "codigo_identificador_turno_atendimento": "06",
+            "descricao_turno_atendimento": "ATENDIMENTO CONTINUO DE 24 HORAS/DIA (PLANTAO:INCLUI SABADOS, DOMINGOS E FERIADOS)",
+            "estabelecimento_faz_atendimento_ambulatorial_sus": "NAO",
+            "codigo_estabelecimento_saude": "2800302658496",
+            "codigo_uf": 28,
+            "codigo_municipio": 280030,
+            "descricao_natureza_juridica_estabelecimento": "2143",
+            "codigo_motivo_desabilitacao_estabelecimento": null,
+            "estabelecimento_possui_centro_cirurgico": 1,
+            "estabelecimento_possui_centro_obstetrico": 0,
+            "estabelecimento_possui_centro_neonatal": 0,
+            "estabelecimento_possui_atendimento_hospitalar": 1,
+            "estabelecimento_possui_servico_apoio": 1,
+            "estabelecimento_possui_atendimento_ambulatorial": 1,
+            "codigo_atividade_ensino_unidade": "04",
+            "codigo_natureza_organizacao_unidade": null,
+            "codigo_nivel_hierarquia_unidade": null,
+            "codigo_esfera_administrativa_unidade": "M ",
+            "data_atualizacao": "2026-09-22"
+          },
+          {
+            "codigo_cnes": 2816210,
+            "numero_cnpj_entidade": "34841207000100",
+            "nome_razao_social": "HOSPITAL GOVERNADOR JOAO ALVES FILHO",
+            "nome_fantasia": "HOSPITAL GOVERNADOR JOAO ALVES FILHO",
+            "natureza_organizacao_entidade": null,
+            "tipo_gestao": "E",
+            "descricao_nivel_hierarquia": null,
+            "descricao_esfera_administrativa": "ESTADUAL",
+            "codigo_tipo_unidade": 5,
+            "codigo_cep_estabelecimento": "49095000",
+            "endereco_estabelecimento": "AVENIDA TANCREDO NEVES",
+            "numero_estabelecimento": "7501",
+            "bairro_estabelecimento": "CAPUCHO",
+            "numero_telefone_estabelecimento": "(79)32162600",
+            "latitude_estabelecimento_decimo_grau": -10.911,
+            "longitude_estabelecimento_decimo_grau": -37.072,
+            "endereco_email_estabelecimento": "cadiweb.huse@saude.se.gov.br",
+            "numero_cnpj": null,
+            "codigo_identificador_turno_atendimento": "06",
+            "descricao_turno_atendimento": "ATENDIMENTO CONTINUO DE 24 HORAS/DIA (PLANTAO:INCLUI SABADOS, DOMINGOS E FERIADOS)",
+            "estabelecimento_faz_atendimento_ambulatorial_sus": "SIM",
+            "codigo_estabelecimento_saude": "2800302816210",
+            "codigo_uf": 28,
+            "codigo_municipio": 280030,
+            "descricao_natureza_juridica_estabelecimento": "1023",
+            "codigo_motivo_desabilitacao_estabelecimento": null,
+            "estabelecimento_possui_centro_cirurgico": 1,
+            "estabelecimento_possui_centro_obstetrico": 0,
+            "estabelecimento_possui_centro_neonatal": 0,
+            "estabelecimento_possui_atendimento_hospitalar": 1,
+            "estabelecimento_possui_servico_apoio": 1,
+            "estabelecimento_possui_atendimento_ambulatorial": 1,
+            "codigo_atividade_ensino_unidade": "03",
+            "codigo_natureza_organizacao_unidade": null,
+            "codigo_nivel_hierarquia_unidade": null,
+            "codigo_esfera_administrativa_unidade": "E ",
+            "data_atualizacao": "2026-11-03"
+          }
+        ]
+      },
+      "hashResposta": "724c7b50fcca3bc2281b327f7f174b8673d5e94a240f57a92d5d78a90e02eb11"
+    },
+    {
+      "url": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos?codigo_municipio=999999&limit=2&offset=0",
+      "consultadoEm": "2026-11-11T15:13:32.618503+00:00",
+      "dados": {
+        "estabelecimentos": []
+      },
+      "hashResposta": "a130aa74627f4a5eb8cdbf104850c62da994dbf03a5dd738d09f0ab8a54ada66"
+    },
+    {
+      "url": "https://apidadosabertos.saude.gov.br/cnes/tipounidades",
+      "consultadoEm": "2026-11-11T15:14:32.586059+00:00",
+      "dados": {
+        "tipos_unidade": [
+          {
+            "codigo_tipo_unidade": 80,
+            "descricao_tipo_unidade": "LABORATORIO DE SAUDE PUBLICA"
+          },
+          {
+            "codigo_tipo_unidade": 81,
+            "descricao_tipo_unidade": "CENTRAL DE REGULACAO DO ACESSO"
+          },
+          {
+            "codigo_tipo_unidade": 79,
+            "descricao_tipo_unidade": "OFICINA ORTOPEDICA"
+          },
+          {
+            "codigo_tipo_unidade": 82,
+            "descricao_tipo_unidade": "CENTRAL DE NOTIFICACAO,CAPTACAO E DISTRIB DE ORGAOS ESTADUAL"
+          },
+          {
+            "codigo_tipo_unidade": 78,
+            "descricao_tipo_unidade": "UNIDADE DE ATENCAO EM REGIME RESIDENCIAL"
+          },
+          {
+            "codigo_tipo_unidade": 74,
+            "descricao_tipo_unidade": "POLO ACADEMIA DA SAUDE"
+          },
+          {
+            "codigo_tipo_unidade": 75,
+            "descricao_tipo_unidade": "TELESSAUDE"
+          },
+          {
+            "codigo_tipo_unidade": 77,
+            "descricao_tipo_unidade": "SERVICO DE ATENCAO DOMICILIAR ISOLADO(HOME CARE)"
+          },
+          {
+            "codigo_tipo_unidade": 76,
+            "descricao_tipo_unidade": "CENTRAL DE REGULACAO MEDICA DAS URGENCIAS"
+          },
+          {
+            "codigo_tipo_unidade": 69,
+            "descricao_tipo_unidade": "CENTRO DE ATENCAO HEMOTERAPIA E OU HEMATOLOGICA"
+          },
+          {
+            "codigo_tipo_unidade": 70,
+            "descricao_tipo_unidade": "CENTRO DE ATENCAO PSICOSSOCIAL"
+          },
+          {
+            "codigo_tipo_unidade": 71,
+            "descricao_tipo_unidade": "CENTRO DE APOIO A SAUDE DA FAMILIA"
+          },
+          {
+            "codigo_tipo_unidade": 72,
+            "descricao_tipo_unidade": "UNIDADE DE ATENCAO A SAUDE INDIGENA"
+          },
+          {
+            "codigo_tipo_unidade": 1,
+            "descricao_tipo_unidade": "POSTO DE SAUDE"
+          },
+          {
+            "codigo_tipo_unidade": 2,
+            "descricao_tipo_unidade": "CENTRO DE SAUDE/UNIDADE BASICA"
+          },
+          {
+            "codigo_tipo_unidade": 4,
+            "descricao_tipo_unidade": "POLICLINICA"
+          },
+          {
+            "codigo_tipo_unidade": 22,
+            "descricao_tipo_unidade": "CONSULTORIO ISOLADO"
+          },
+          {
+            "codigo_tipo_unidade": 40,
+            "descricao_tipo_unidade": "UNIDADE MOVEL TERRESTRE"
+          },
+          {
+            "codigo_tipo_unidade": 42,
+            "descricao_tipo_unidade": "UNIDADE MOVEL DE NIVEL PRE-HOSPITALAR NA AREA DE URGENCIA"
+          },
+          {
+            "codigo_tipo_unidade": 32,
+            "descricao_tipo_unidade": "UNIDADE MOVEL FLUVIAL"
+          },
+          {
+            "codigo_tipo_unidade": 36,
+            "descricao_tipo_unidade": "CLINICA/CENTRO DE ESPECIALIDADE"
+          },
+          {
+            "codigo_tipo_unidade": 64,
+            "descricao_tipo_unidade": "CENTRAL DE REGULACAO DE SERVICOS DE SAUDE"
+          },
+          {
+            "codigo_tipo_unidade": 43,
+            "descricao_tipo_unidade": "FARMACIA"
+          },
+          {
+            "codigo_tipo_unidade": 39,
+            "descricao_tipo_unidade": "UNIDADE DE APOIO DIAGNOSE E TERAPIA (SADT ISOLADO)"
+          },
+          {
+            "codigo_tipo_unidade": 61,
+            "descricao_tipo_unidade": "CENTRO DE PARTO NORMAL - ISOLADO"
+          },
+          {
+            "codigo_tipo_unidade": 62,
+            "descricao_tipo_unidade": "HOSPITAL/DIA - ISOLADO"
+          },
+          {
+            "codigo_tipo_unidade": 15,
+            "descricao_tipo_unidade": "UNIDADE MISTA"
+          },
+          {
+            "codigo_tipo_unidade": 20,
+            "descricao_tipo_unidade": "PRONTO SOCORRO GERAL"
+          },
+          {
+            "codigo_tipo_unidade": 21,
+            "descricao_tipo_unidade": "PRONTO SOCORRO ESPECIALIZADO"
+          },
+          {
+            "codigo_tipo_unidade": 5,
+            "descricao_tipo_unidade": "HOSPITAL GERAL"
+          },
+          {
+            "codigo_tipo_unidade": 7,
+            "descricao_tipo_unidade": "HOSPITAL ESPECIALIZADO"
+          },
+          {
+            "codigo_tipo_unidade": 50,
+            "descricao_tipo_unidade": "UNIDADE DE VIGILANCIA EM SAUDE"
+          },
+          {
+            "codigo_tipo_unidade": 67,
+            "descricao_tipo_unidade": "LABORATORIO CENTRAL DE SAUDE PUBLICA LACEN"
+          },
+          {
+            "codigo_tipo_unidade": 73,
+            "descricao_tipo_unidade": "PRONTO ATENDIMENTO"
+          },
+          {
+            "codigo_tipo_unidade": 60,
+            "descricao_tipo_unidade": "COOPERATIVA OU EMPRESA DE CESSAO DE TRABALHADORES NA SAUDE"
+          },
+          {
+            "codigo_tipo_unidade": 68,
+            "descricao_tipo_unidade": "CENTRAL DE GESTAO EM SAUDE"
+          },
+          {
+            "codigo_tipo_unidade": 83,
+            "descricao_tipo_unidade": "POLO DE PREVENCAO DE DOENCAS E AGRAVOS E PROMOCAO DA SAUDE"
+          },
+          {
+            "codigo_tipo_unidade": 84,
+            "descricao_tipo_unidade": "CENTRAL DE ABASTECIMENTO"
+          },
+          {
+            "codigo_tipo_unidade": 85,
+            "descricao_tipo_unidade": "CENTRO DE IMUNIZACAO"
+          }
+        ]
+      },
+      "hashResposta": "ca1521802077278adf1d22214ea4ca7030f0ce97bf499c83a155c331bb8242c3"
+    }
+  ],
+  "requisicoesHTTP": 0,
+  "hashSwagger": "1e6fe7a285a8d5ad7488a8c91a0dd4110c1bfa9a069a2fba0ef17dc33bb3d3ee",
+  "gravacaoFirebase": false,
+  "arquivosPreservados": 479
+}

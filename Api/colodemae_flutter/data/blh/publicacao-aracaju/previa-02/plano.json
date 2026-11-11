@@ -1,0 +1,379 @@
+{
+  "projeto": "colo-de-mae-3510f",
+  "colecao": "bancos_leite",
+  "preparadoEm": "2026-11-11T16:43:28.436596+00:00",
+  "origemCoordenadas": "Coordenadas fornecidas manualmente pelo responsável pelo projeto nesta conversa",
+  "origemGoogleMapsCertificadaPelaAPI": false,
+  "gravacaoExecutada": false,
+  "quantidadeDocumentosExistentes": 3,
+  "unidades": [
+    {
+      "id": "se-blh-marly-sarney",
+      "cnesEstabelecimento": "0002569",
+      "relacaoCnes": "proprio",
+      "versaoFirestoreEsperada": "2026-11-11T07:45:49.718879+00:00",
+      "antes": {
+        "chaveUnidade": "blh-marly-sarney",
+        "coordenadasVerificadas": false,
+        "publicado": false,
+        "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+        "criadoEm": "2026-11-11T07:45:49.701000+00:00",
+        "ativo": false,
+        "cidadeBusca": "aracaju",
+        "hashConteudo": "b25613824fb8d5227408190f4ddcb473c8454f4d830a1db5d907d29a8d3624c0",
+        "verificacao": "pendente",
+        "cidade": "Aracaju",
+        "fontesCampos": {
+          "telefone": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+          "endereco": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+        },
+        "pendencias": [
+          "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+          "Revalidar telefone de atendimento",
+          "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município"
+        ],
+        "atualizadoEm": "2026-11-11T07:45:49.701000+00:00",
+        "versaoSchema": 2,
+        "tipo": "BLH",
+        "telefone": "(79) 3226-6301",
+        "nome": "Banco de Leite Humano Marly Sarney",
+        "consultadoEm": "2026-11-11T07:35:34+00:00",
+        "estado": "SE",
+        "endereco": "Rua Mato Grosso, s/n, bairro José Conrado de Araújo"
+      },
+      "dadosRevisadosPropostos": {
+        "nome": "Banco de Leite Humano Marly Sarney",
+        "tipo": "BLH",
+        "cidade": "Aracaju",
+        "estado": "SE",
+        "endereco": "Rua Mato Grosso, s/n, José Conrado de Araújo",
+        "cep": "49085220",
+        "telefone": "(79)32266301",
+        "horarioFuncionamento": "Segunda a sexta\n7h às 19h",
+        "descricaoTelefone": "Recepção do BLH",
+        "cnesEstabelecimento": "0002569",
+        "relacaoCnes": "proprio",
+        "cidadeBusca": "aracaju",
+        "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+        "fontesCampos": {
+          "telefone": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002569",
+          "endereco": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/",
+          "horarioFuncionamento": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/"
+        }
+      },
+      "mudancasDados": {
+        "endereco": {
+          "antes": "Rua Mato Grosso, s/n, bairro José Conrado de Araújo",
+          "depois": "Rua Mato Grosso, s/n, José Conrado de Araújo"
+        },
+        "cep": {
+          "antes": null,
+          "depois": "49085220"
+        },
+        "telefone": {
+          "antes": "(79) 3226-6301",
+          "depois": "(79)32266301"
+        },
+        "horarioFuncionamento": {
+          "antes": null,
+          "depois": "Segunda a sexta\n7h às 19h"
+        },
+        "descricaoTelefone": {
+          "antes": null,
+          "depois": "Recepção do BLH"
+        },
+        "cnesEstabelecimento": {
+          "antes": null,
+          "depois": "0002569"
+        },
+        "relacaoCnes": {
+          "antes": null,
+          "depois": "proprio"
+        },
+        "fontesCampos": {
+          "antes": {
+            "telefone": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+            "endereco": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/"
+          },
+          "depois": {
+            "telefone": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002569",
+            "endereco": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/",
+            "horarioFuncionamento": "https://saude.se.gov.br/maternidade-nossa-senhora-de-lourdes-orienta-sobre-quando-procurar-o-servico-do-banco-de-leite/"
+          }
+        }
+      },
+      "coordenadasFornecidas": {
+        "latitude": -10.90619346346821,
+        "longitude": -37.07967947461301
+      },
+      "conferenciaGeografica": {
+        "resultado": "compativel_com_estabelecimento",
+        "aprovacaoGeografica": "pendente_autorizacao_responsavel",
+        "criterio": "Coincidência com o cadastro próprio atual do BLH (tolerância de comparação 25 m, não precisão certificada)",
+        "distanciaAoPontoCadastralDemasMetros": 7.13,
+        "fontes": [
+          "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002569"
+        ],
+        "ressalvas": [
+          "Séries históricas divergentes não foram escolhidas como coordenada atual; a tolerância não é margem de erro GPS."
+        ],
+        "origem": "fornecida_responsavel_projeto",
+        "servicoInformado": "Google Maps",
+        "linkConferenciaGerado": "https://www.google.com/maps/search/?api=1&query=-10.90619346346821,-37.07967947461301"
+      },
+      "camposPublicacaoPropostosAposAutorizacao": {
+        "ativo": true,
+        "publicado": true,
+        "verificacao": "verificado",
+        "aprovacaoDocumental": "aprovado_pelo_responsavel",
+        "coordenadasVerificadas": "somente_se_aprovadas_explicitamente",
+        "verificadoEm": "data da autorização documental, gravada como Timestamp",
+        "geohash": "7nj9unx6u"
+      }
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "cnesEstabelecimento": "4099206",
+      "relacaoCnes": "mantenedora",
+      "versaoFirestoreEsperada": "2026-11-11T07:45:50.645954+00:00",
+      "antes": {
+        "chaveUnidade": "posto-maternidade-lourdes-nogueira",
+        "coordenadasVerificadas": false,
+        "publicado": false,
+        "fonte": "https://www.aracaju.se.gov.br/noticias/118605/agosto-dourado-prefeitura-fortalece-acoes-de-incentivo-a-amamentacao-e-doacao-de-leite-humano",
+        "criadoEm": "2026-11-11T07:45:50.625000+00:00",
+        "ativo": false,
+        "cidadeBusca": "aracaju",
+        "hashConteudo": "6c623b5247843397af856011a0cd29330d309a884bfad05931a956ec860b31c6",
+        "verificacao": "pendente",
+        "cidade": "Aracaju",
+        "pendencias": [
+          "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+          "Obter telefone oficial específico para orientação de doadoras",
+          "Confirmar situação operacional e obter coordenadas oficiais verificadas"
+        ],
+        "atualizadoEm": "2026-11-11T07:45:50.625000+00:00",
+        "versaoSchema": 2,
+        "tipo": "Posto de Coleta",
+        "consultadoEm": "2026-11-11T07:35:34+00:00",
+        "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+        "estado": "SE"
+      },
+      "dadosRevisadosPropostos": {
+        "nome": "Posto de Coleta de Leite Humano da Maternidade Municipal Lourdes Nogueira",
+        "tipo": "Posto de Coleta",
+        "cidade": "Aracaju",
+        "estado": "SE",
+        "endereco": "Rua Procurador José Costa Cavalcante, s/n, 17 de Março",
+        "cep": "49003247",
+        "telefone": "7931422776",
+        "horarioFuncionamento": "Internadas: atendimento 24h\nDoação externa: confirme por telefone",
+        "descricaoTelefone": "Contato da maternidade",
+        "cnesEstabelecimento": "4099206",
+        "relacaoCnes": "mantenedora",
+        "cidadeBusca": "aracaju",
+        "fonte": "https://www.aracaju.se.gov.br/noticias/118605/agosto-dourado-prefeitura-fortalece-acoes-de-incentivo-a-amamentacao-e-doacao-de-leite-humano",
+        "fontesCampos": {
+          "endereco": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/4099206",
+          "telefone": "https://ints.org.br/wp-content/uploads/2024/06/PO.ADM_.010-01-Telefonia.pdf",
+          "horarioFuncionamento": "https://www.aracaju.se.gov.br/noticias/106714/maternidade_lourdes_nogueira_evolui_na_promocao_do_aleitamento_materno_e_seguranca_alimentar_dos_recem-nascidos.html"
+        }
+      },
+      "mudancasDados": {
+        "endereco": {
+          "antes": null,
+          "depois": "Rua Procurador José Costa Cavalcante, s/n, 17 de Março"
+        },
+        "cep": {
+          "antes": null,
+          "depois": "49003247"
+        },
+        "telefone": {
+          "antes": null,
+          "depois": "7931422776"
+        },
+        "horarioFuncionamento": {
+          "antes": null,
+          "depois": "Internadas: atendimento 24h\nDoação externa: confirme por telefone"
+        },
+        "descricaoTelefone": {
+          "antes": null,
+          "depois": "Contato da maternidade"
+        },
+        "cnesEstabelecimento": {
+          "antes": null,
+          "depois": "4099206"
+        },
+        "relacaoCnes": {
+          "antes": null,
+          "depois": "mantenedora"
+        },
+        "fontesCampos": {
+          "antes": null,
+          "depois": {
+            "endereco": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/4099206",
+            "telefone": "https://ints.org.br/wp-content/uploads/2024/06/PO.ADM_.010-01-Telefonia.pdf",
+            "horarioFuncionamento": "https://www.aracaju.se.gov.br/noticias/106714/maternidade_lourdes_nogueira_evolui_na_promocao_do_aleitamento_materno_e_seguranca_alimentar_dos_recem-nascidos.html"
+          }
+        }
+      },
+      "coordenadasFornecidas": {
+        "latitude": -10.999583128695352,
+        "longitude": -37.100241600455675
+      },
+      "conferenciaGeografica": {
+        "resultado": "compativel_com_estabelecimento",
+        "aprovacaoGeografica": "pendente_autorizacao_responsavel",
+        "criterio": "Ponto dentro do polígono OSM do prédio Maternidade do 17 de Março; conferência do estabelecimento mantenedor",
+        "distanciaAoPontoCadastralDemasMetros": 55.55,
+        "fontes": [
+          "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/4099206",
+          "https://api.openstreetmap.org/api/0.6/way/841076721/full.json"
+        ],
+        "ressalvas": [
+          "Ponto do estabelecimento mantenedor; não confirma sala, porta ou cadastro CNES exclusivo do posto.",
+          "DEMAS usa s/n e Prefeitura usa nº 64; a referência OSM é Avenida João Batista Costa. Mesmo prédio, divergência de numeração/referência viária mantida no histórico. Não confirma acesso ao posto."
+        ],
+        "origem": "fornecida_responsavel_projeto",
+        "servicoInformado": "Google Maps",
+        "linkConferenciaGerado": "https://www.google.com/maps/search/?api=1&query=-10.999583128695352,-37.100241600455675"
+      },
+      "camposPublicacaoPropostosAposAutorizacao": {
+        "ativo": true,
+        "publicado": true,
+        "verificacao": "verificado",
+        "aprovacaoDocumental": "aprovado_pelo_responsavel",
+        "coordenadasVerificadas": "somente_se_aprovadas_explicitamente",
+        "verificadoEm": "data da autorização documental, gravada como Timestamp",
+        "geohash": "7nj97v86v"
+      }
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "cnesEstabelecimento": "0002232",
+      "relacaoCnes": "mantenedora",
+      "versaoFirestoreEsperada": "2026-11-11T07:45:50.416255+00:00",
+      "antes": {
+        "chaveUnidade": "posto-fernando-guedes-santa-isabel",
+        "coordenadasVerificadas": false,
+        "publicado": false,
+        "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+        "criadoEm": "2026-11-11T07:45:50.394000+00:00",
+        "ativo": false,
+        "cidadeBusca": "aracaju",
+        "hashConteudo": "48b4d37b0482b5401e301101ab1bab80f8695f3d06949a5cd024854cb5ab9d53",
+        "verificacao": "pendente",
+        "cidade": "Aracaju",
+        "fontesCampos": {
+          "telefone": "https://saude.se.gov.br/hospitais/",
+          "endereco": "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/"
+        },
+        "pendencias": [
+          "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+          "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+          "Confirmar situação operacional e obter coordenadas oficiais verificadas"
+        ],
+        "atualizadoEm": "2026-11-11T07:45:50.394000+00:00",
+        "versaoSchema": 2,
+        "tipo": "Posto de Coleta",
+        "telefone": "(79) 3212-4900",
+        "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+        "consultadoEm": "2026-11-11T07:35:34+00:00",
+        "estado": "SE",
+        "endereco": "Avenida Simeão Sobral, s/n, bairro Santo Antônio"
+      },
+      "dadosRevisadosPropostos": {
+        "nome": "Posto de Coleta Dr. Fernando Guedes — Maternidade Santa Isabel",
+        "tipo": "Posto de Coleta",
+        "cidade": "Aracaju",
+        "estado": "SE",
+        "endereco": "Avenida Simeão Sobral, 1312, Dezoito do Forte",
+        "cep": "49072720",
+        "telefone": "79 32124900",
+        "horarioFuncionamento": "Todos os dias\n8h às 12h e 14h às 18h",
+        "descricaoTelefone": "Contato do hospital",
+        "cnesEstabelecimento": "0002232",
+        "relacaoCnes": "mantenedora",
+        "cidadeBusca": "aracaju",
+        "fonte": "https://saude.se.gov.br/banco-de-leite-humano-marly-sarney-celebra-dia-mundial-de-doacao-de-leite-com-acao-em-homenagem-as-doadoras/",
+        "fontesCampos": {
+          "telefone": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002232",
+          "endereco": "https://aab-se.org.br/posto-de-coleta",
+          "horarioFuncionamento": "https://aab-se.org.br/posto-de-coleta"
+        }
+      },
+      "mudancasDados": {
+        "endereco": {
+          "antes": "Avenida Simeão Sobral, s/n, bairro Santo Antônio",
+          "depois": "Avenida Simeão Sobral, 1312, Dezoito do Forte"
+        },
+        "cep": {
+          "antes": null,
+          "depois": "49072720"
+        },
+        "telefone": {
+          "antes": "(79) 3212-4900",
+          "depois": "79 32124900"
+        },
+        "horarioFuncionamento": {
+          "antes": null,
+          "depois": "Todos os dias\n8h às 12h e 14h às 18h"
+        },
+        "descricaoTelefone": {
+          "antes": null,
+          "depois": "Contato do hospital"
+        },
+        "cnesEstabelecimento": {
+          "antes": null,
+          "depois": "0002232"
+        },
+        "relacaoCnes": {
+          "antes": null,
+          "depois": "mantenedora"
+        },
+        "fontesCampos": {
+          "antes": {
+            "telefone": "https://saude.se.gov.br/hospitais/",
+            "endereco": "https://saude.se.gov.br/sergipe-adquire-padrao-de-excelencia-em-servicos-de-banco-de-leite-humano/"
+          },
+          "depois": {
+            "telefone": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002232",
+            "endereco": "https://aab-se.org.br/posto-de-coleta",
+            "horarioFuncionamento": "https://aab-se.org.br/posto-de-coleta"
+          }
+        }
+      },
+      "coordenadasFornecidas": {
+        "latitude": -10.902491696685145,
+        "longitude": -37.062623903449044
+      },
+      "conferenciaGeografica": {
+        "resultado": "compativel_com_estabelecimento",
+        "aprovacaoGeografica": "pendente_autorizacao_responsavel",
+        "criterio": "Ponto dentro do polígono OSM do prédio Hospital Santa Isabel; conferência do estabelecimento mantenedor",
+        "distanciaAoPontoCadastralDemasMetros": 36957.43,
+        "fontes": [
+          "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos/0002232",
+          "https://api.openstreetmap.org/api/0.6/way/292330063/full.json"
+        ],
+        "ressalvas": [
+          "Ponto do estabelecimento mantenedor; não confirma sala, porta ou cadastro CNES exclusivo do posto.",
+          "Coordenada DEMAS distante foi rejeitada para esta proposta. O cadastro oficial e a AAB informam Avenida Simeão Sobral, 1312; via OSM próxima é Rua Deodato Maia, sem validação de acesso específico."
+        ],
+        "origem": "fornecida_responsavel_projeto",
+        "servicoInformado": "Google Maps",
+        "linkConferenciaGerado": "https://www.google.com/maps/search/?api=1&query=-10.902491696685145,-37.062623903449044"
+      },
+      "camposPublicacaoPropostosAposAutorizacao": {
+        "ativo": true,
+        "publicado": true,
+        "verificacao": "verificado",
+        "aprovacaoDocumental": "aprovado_pelo_responsavel",
+        "coordenadasVerificadas": "somente_se_aprovadas_explicitamente",
+        "verificadoEm": "data da autorização documental, gravada como Timestamp",
+        "geohash": "7nj9ux7b6"
+      }
+    }
+  ],
+  "hashPlano": "e29e2508df38a84506f96711f457014259dc17ac8c9cec34b4b89f9c6932e1c0"
+}

@@ -1,0 +1,9 @@
+{
+  "malha": {
+    "fonte": "https://servicodados.ibge.gov.br/api/v3/malhas/municipios/2800308?formato=application/vnd.geo%2Bjson&qualidade=maxima",
+    "sha256": "11bcb7239b8cbb83def27e5466e026cd977372f466654a72199ce53cc051270a",
+    "consultadoEm": "2026-11-11T15:30:16.659539+00:00",
+    "atribuicao": "Fonte: IBGE"
+  },
+  "unidades": "data/blh/demas/coleta-aracaju-validada/relatorio.json"
+}

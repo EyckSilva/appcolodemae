@@ -1,0 +1,125 @@
+{
+  "fonte": "https://api.openstreetmap.org/api/0.6/way/841076721/full.json",
+  "consultadoEm": "2026-11-11T16:38:05.256086+00:00",
+  "resposta": {
+    "version": "0.6",
+    "generator": "openstreetmap-cgimap 2.1.1 (1285827 spike-07.openstreetmap.org)",
+    "copyright": "OpenStreetMap and contributors",
+    "attribution": "http://www.openstreetmap.org/copyright",
+    "license": "http://opendatacommons.org/licenses/odbl/1-0/",
+    "elements": [
+      {
+        "type": "node",
+        "id": 7847758567,
+        "lat": -10.9999769,
+        "lon": -37.1001968,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 2,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626
+      },
+      {
+        "type": "node",
+        "id": 7847758569,
+        "lat": -11.0001219,
+        "lon": -37.1002659,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 2,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626
+      },
+      {
+        "type": "node",
+        "id": 7847758570,
+        "lat": -11.0000779,
+        "lon": -37.1003531,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 2,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626
+      },
+      {
+        "type": "node",
+        "id": 7847758571,
+        "lat": -10.9999931,
+        "lon": -37.1003114,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 2,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626
+      },
+      {
+        "type": "node",
+        "id": 7847758572,
+        "lat": -10.9999156,
+        "lon": -37.1004748,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 2,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626
+      },
+      {
+        "type": "node",
+        "id": 7847758573,
+        "lat": -10.9995376,
+        "lon": -37.1002886,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 2,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626
+      },
+      {
+        "type": "node",
+        "id": 7847758574,
+        "lat": -10.9997116,
+        "lon": -37.0999221,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 2,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626
+      },
+      {
+        "type": "node",
+        "id": 7847758575,
+        "lat": -11.0000259,
+        "lon": -37.1000845,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 2,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626
+      },
+      {
+        "type": "way",
+        "id": 841076721,
+        "timestamp": "2023-05-24T14:03:44Z",
+        "version": 4,
+        "changeset": 136502275,
+        "user": "AjBelnuovo",
+        "uid": 1799626,
+        "nodes": [
+          7847758575,
+          7847758574,
+          7847758573,
+          7847758572,
+          7847758571,
+          7847758570,
+          7847758569,
+          7847758567,
+          7847758575
+        ],
+        "tags": {
+          "building": "hospital",
+          "name": "Maternidade do 17 de Março"
+        }
+      }
+    ]
+  }
+}

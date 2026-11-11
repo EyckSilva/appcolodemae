@@ -1,0 +1,76 @@
+{
+  "aplicado": false,
+  "colecao": "bancos_leite",
+  "gravacaoExecutada": false,
+  "hashRelatorio": "9130c7c5f52af91f43b11f7352a0156cccbf5b4d2071195e78689913d58ebfd2",
+  "decisao": {
+    "hashRelatorio": "cf2bc9edf90a6affef3aba6983f16d1de6f6610a41e56d8dc6840ad1b1dffa7a",
+    "revisoes": [
+      {
+        "id": "se-blh-marly-sarney",
+        "cnes": "0002569",
+        "status": "pendente",
+        "campos": [],
+        "vinculoBlhConfirmado": false,
+        "conflitosRevisados": false,
+        "contatoConfirmado": false,
+        "enderecoOperacionalConfirmado": false,
+        "revisadoPor": null,
+        "revisadoEm": null,
+        "justificativa": null,
+        "fontesComplementares": [],
+        "valoresAnteriores": {}
+      },
+      {
+        "id": "se-posto-fernando-guedes-santa-isabel",
+        "cnes": "0002232",
+        "status": "pendente",
+        "campos": [],
+        "vinculoBlhConfirmado": false,
+        "conflitosRevisados": false,
+        "contatoConfirmado": false,
+        "enderecoOperacionalConfirmado": false,
+        "revisadoPor": null,
+        "revisadoEm": null,
+        "justificativa": null,
+        "fontesComplementares": [],
+        "valoresAnteriores": {}
+      },
+      {
+        "id": "se-posto-maternidade-lourdes-nogueira",
+        "cnes": "4099206",
+        "status": "pendente",
+        "campos": [],
+        "vinculoBlhConfirmado": false,
+        "conflitosRevisados": false,
+        "contatoConfirmado": false,
+        "enderecoOperacionalConfirmado": false,
+        "revisadoPor": null,
+        "revisadoEm": null,
+        "justificativa": null,
+        "fontesComplementares": [],
+        "valoresAnteriores": {}
+      }
+    ]
+  },
+  "plano": [
+    {
+      "id": "se-blh-marly-sarney",
+      "acao": "pending",
+      "patch": {},
+      "versaoFirestore": "2026-11-11T07:45:49.718879+00:00"
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "acao": "pending",
+      "patch": {},
+      "versaoFirestore": "2026-11-11T07:45:50.416255+00:00"
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "acao": "pending",
+      "patch": {},
+      "versaoFirestore": "2026-11-11T07:45:50.645954+00:00"
+    }
+  ]
+}

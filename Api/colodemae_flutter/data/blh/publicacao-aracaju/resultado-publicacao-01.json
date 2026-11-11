@@ -1,0 +1,75 @@
+{
+  "projeto": "colo-de-mae-3510f",
+  "publicacaoConfirmadaPorLeituraServidor": true,
+  "documentosPublicados": [
+    "se-blh-marly-sarney",
+    "se-posto-fernando-guedes-santa-isabel",
+    "se-posto-maternidade-lourdes-nogueira"
+  ],
+  "totalColecao": 5,
+  "outrosRegistrosInativos": [
+    "se-blh-irma-rafaela-pepel",
+    "se-blh-zoed-bittencourt"
+  ],
+  "distanciaHabilitadaPara": [
+    "se-blh-marly-sarney",
+    "se-posto-fernando-guedes-santa-isabel",
+    "se-posto-maternidade-lourdes-nogueira"
+  ],
+  "testes": {
+    "administrativos": {
+      "passaram": 68,
+      "falharam": 0
+    },
+    "flutter": {
+      "passaram": 68,
+      "falharam": 0
+    },
+    "flutterAnalyze": "No issues found",
+    "credenciaisAdministrativasNoRepositorio": false
+  },
+  "chrome": {
+    "comando": "flutter run -d chrome --debug --no-pub --web-port=8765",
+    "BLH_DEMO": false,
+    "entrypointIniciado": true,
+    "sessaoEncerrada": true,
+    "fluxoInterativoCompletoVerificado": false,
+    "motivo": "Acesso nativo ao computador e host de navegador indisponiveis nesta sessao; login real, GPS fisico e leitura autenticada via cliente nao inspecionados."
+  },
+  "coberturaAutomatizada": [
+    "permissao negada",
+    "timeout e falha de conexao",
+    "consulta municipal sem filtro de raio",
+    "calculo e atualizacao de distancia",
+    "formatacao brasileira",
+    "cards e detalhes existentes",
+    "URLs de telefone e rota",
+    "autorizacao e idempotencia",
+    "serializacao real do SDK do historico"
+  ],
+  "alteracoesNestaPublicacao": [
+    "tools/publish_blh.py",
+    "tools/test_publish_blh.py",
+    "data/blh/publicacao-aracaju/autorizacao-concedida-01.json",
+    "data/blh/publicacao-aracaju/auditoria-publicacao-01.json",
+    "data/blh/publicacao-aracaju/leitura-pos-publicacao-01.json",
+    "data/blh/publicacao-aracaju/resultado-publicacao-01.json",
+    "docs/publicacao-blh-aracaju.md"
+  ],
+  "errosEncontrados": [
+    {
+      "erro": "SERVER_TIMESTAMP dentro de array de historico nao e suportado pelo Firestore",
+      "resolvidoAntesDaGravacao": true,
+      "correcao": "registradoEm do item usa datetime da autorizacao; timestamps de servidor mantidos nos campos suportados."
+    },
+    {
+      "erro": "Computer Use native pipe / browser access host indisponiveis",
+      "resolvido": false,
+      "impacto": "Bloqueia verificacao visual interativa; nao impede a leitura real pelo Admin SDK."
+    }
+  ],
+  "layoutAlteradoNestaPublicacao": false,
+  "firebaseAuthenticationAlterado": false,
+  "regrasAlteradas": false,
+  "nenhumaNovaUnidadeCriada": true
+}

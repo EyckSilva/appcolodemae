@@ -1,0 +1,133 @@
+{
+  "hashRevisao": "73bd37301312e713fbbaaa98a1c97da1df11c65ace4b3c29c1e5beb04db0d5f3",
+  "revisoes": [
+    {
+      "id": "se-blh-marly-sarney",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Confirmar situação operacional e endereço atuais: houve mudança temporária em publicações anteriores",
+        "Revalidar telefone de atendimento",
+        "Obter coordenadas oficiais verificadas; não utilizar centro do bairro ou do município",
+        "Confirmar retorno ao endereço da Rua Mato Grosso após funcionamento temporário na Lourdes Nogueira",
+        "Não confundir o prédio do BLH com o Hospital da Criança ou com o posto da Lourdes Nogueira",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "se-blh-irma-rafaela-pepel",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Endereço e telefone são evidências históricas publicadas em 2018; confirmar dados atuais e situação operacional",
+        "Obter coordenadas oficiais verificadas da unidade",
+        "Confirmar posição e acesso do BLH dentro do Hospital e Maternidade São José",
+        "Confirmar funcionamento durante ou após a reforma anunciada em publicações de 2025",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "se-blh-zoed-bittencourt",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Confirmar endereço atual do BLH na Maternidade Zacarias Júnior: fontes cadastrais históricas divergem na grafia e numeração",
+        "Telefone proveniente de publicação de 2018; confirmar contato e situação operacional atuais",
+        "Obter coordenadas oficiais verificadas da unidade",
+        "Número 20 confirmado documentalmente pela rede hospitalar; a fonte histórica indica s/n, e a entrada física ainda precisa ser conferida",
+        "Confirmar o ponto e o acesso do BLH na Maternidade Zacarias Júnior",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "se-posto-fernando-guedes-santa-isabel",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Confirmar acesso e endereço atual do posto de coleta dentro da maternidade",
+        "Confirmar se o telefone institucional publicado atende diretamente o posto de coleta",
+        "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+        "Confirmar o ponto e a entrada do posto de coleta, sem presumir que o centro do hospital seja seu acesso",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    },
+    {
+      "id": "se-posto-maternidade-lourdes-nogueira",
+      "status": "pendente",
+      "candidatoId": null,
+      "pontoRealConfirmado": false,
+      "enderecoOperacionalConfirmado": false,
+      "funcionamentoConfirmado": false,
+      "contatoConfirmado": false,
+      "revisadoPor": null,
+      "revisadoEm": null,
+      "latitudeVerificada": null,
+      "longitudeVerificada": null,
+      "fonteCoordenadas": null,
+      "enderecoConfirmado": null,
+      "telefoneConfirmado": null,
+      "fontesCampos": {},
+      "observacoesValidacao": null,
+      "pendencias": [
+        "Confirmar endereço e acesso específico ao posto de coleta no Hospital da Mulher e Maternidade de Aracaju Lourdes Nogueira",
+        "Obter telefone oficial específico para orientação de doadoras",
+        "Confirmar situação operacional e obter coordenadas oficiais verificadas",
+        "Confirmar ponto e acesso específico do posto de coleta dentro da maternidade",
+        "Não confundir o posto próprio da maternidade com a instalação temporária do BLH Marly Sarney",
+        "Confirmar ponto real, endereço operacional, funcionamento e contato antes de aprovar"
+      ]
+    }
+  ]
+}

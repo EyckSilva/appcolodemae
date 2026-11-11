@@ -1,0 +1,104 @@
+[
+  {
+    "id": "mt-blh-cnes-2659107",
+    "nome": "Banco de Leite Humano Dr. José de Faria Vinagre",
+    "tipo": "BLH",
+    "cidade": "CUIABA",
+    "estado": "MT",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 69,
+      "cnesInformadoNoAnexo": "2659107",
+      "mantenedora": "Hospital Geral e Maternidade de Cuiabá",
+      "municipioEntidade": "Cuiabá",
+      "municipioBLH": "CUIABA",
+      "nomeNoAnexo": "Banco de Leite Humano Dr. José de Faria Vinagre",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "mt-blh-cnes-2767953",
+    "nome": "Banco de Leite Humano do Hospital São Lucas",
+    "tipo": "BLH",
+    "cidade": "LUCAS DO RIO VERDE",
+    "estado": "MT",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 70,
+      "cnesInformadoNoAnexo": "2767953",
+      "mantenedora": "Hospital São Lucas (Fundação Luverdense)",
+      "municipioEntidade": "Lucas do Rio Verde",
+      "municipioBLH": "LUCAS DO RIO VERDE",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital São Lucas",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "mt-blh-cnes-2396866",
+    "nome": "Banco de Leite Humano de Rondonópolis",
+    "tipo": "BLH",
+    "cidade": "RONDONOPOLIS",
+    "estado": "MT",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 71,
+      "cnesInformadoNoAnexo": "2396866",
+      "mantenedora": "Santa Casa de Rondonópolis",
+      "municipioEntidade": "Rondonópolis",
+      "municipioBLH": "RONDONOPOLIS",
+      "nomeNoAnexo": "Banco de Leite Humano de Rondonópolis",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  }
+]

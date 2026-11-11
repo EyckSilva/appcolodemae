@@ -1,0 +1,31 @@
+[
+  {
+    "cnes": "0002569",
+    "url": "https://cnes2.datasus.gov.br/Mod_Conj_Informacoes.asp?VCo_Unidade=2800300002569",
+    "consultadoEm": "2026-11-11T15:19:51.206081+00:00",
+    "arquivo": "cnes-apoio-0002569.html",
+    "sha256": "a7952351fab1ac82f49bb3eb5ed850b7e068f697db132db9ce574837a57105cd",
+    "trechosBancoLeite": [
+      "BANCO DE LEITE HUMANO MARLY SARNEY\r\n\t\t\t\t\t \r\n\t\t\t\t \r\n  \t\t\t \r\n  \t\t\t \r\n  \t\t\t\t \r\n     \t\t\t\t \r\n\t\t\t\t\t\t \r\n\t\t\t\t\t\t\tInstalações físicas para assistência",
+      "BANCO DE LEITE\r\n\t\t\t\t\t\t\t  \r\n      \t\t\t\t\t \r\n      \t\t\t\t\t \r\n      \t\t\t\t\t\t \r\n\t\t\t\t\t\t\t\tPROPRIO"
+    ]
+  },
+  {
+    "cnes": "0002232",
+    "url": "https://cnes2.datasus.gov.br/Mod_Conj_Informacoes.asp?VCo_Unidade=2800300002232",
+    "consultadoEm": "2026-11-11T15:19:51.636167+00:00",
+    "arquivo": "cnes-apoio-0002232.html",
+    "sha256": "b2848809d3c87f26bb8afe25452aa9442598071fee860d7b844745f6f059c564",
+    "trechosBancoLeite": [
+      "BANCO DE LEITE\r\n\t\t\t\t\t\t\t  \r\n      \t\t\t\t\t \r\n      \t\t\t\t\t \r\n      \t\t\t\t\t\t \r\n\t\t\t\t\t\t\t\tTERCEIRIZADO"
+    ]
+  },
+  {
+    "cnes": "4099206",
+    "url": "https://cnes2.datasus.gov.br/Mod_Conj_Informacoes.asp?VCo_Unidade=2800304099206",
+    "consultadoEm": "2026-11-11T15:19:52.108570+00:00",
+    "arquivo": "cnes-apoio-4099206.html",
+    "sha256": "53c081be78e460d4971e14c4243ce7cf8cf3c726897d587fef557ef723b4899d",
+    "trechosBancoLeite": []
+  }
+]

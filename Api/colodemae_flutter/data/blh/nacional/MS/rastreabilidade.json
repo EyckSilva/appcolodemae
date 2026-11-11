@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ms-blh-cnes-0009717",
+    "nome": "Banco de Leite Humano Irmã Maria José Machado - Santa Casa Campo Grande - MS",
+    "tipo": "BLH",
+    "cidade": "CAMPO GRANDE",
+    "estado": "MS",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 66,
+      "cnesInformadoNoAnexo": "0009717",
+      "mantenedora": "Associação Beneficente de Campo Grande",
+      "municipioEntidade": "Campo Grande",
+      "municipioBLH": "CAMPO GRANDE",
+      "nomeNoAnexo": "Banco de Leite Humano Irmã Maria José Machado - Santa Casa Campo Grande - MS",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "ms-blh-cnes-0009725",
+    "nome": "Banco de Leite Humano do Hospital Regional de Mato Grosso do Sul",
+    "tipo": "BLH",
+    "cidade": "CAMPO GRANDE",
+    "estado": "MS",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 67,
+      "cnesInformadoNoAnexo": "0009725",
+      "mantenedora": "Hospital Regional de Mato Grosso do Sul",
+      "municipioEntidade": "Campo Grande",
+      "municipioBLH": "CAMPO GRANDE",
+      "nomeNoAnexo": "Banco de Leite Humano do Hospital Regional de Mato Grosso do Sul",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  },
+  {
+    "id": "ms-blh-cnes-0009768",
+    "nome": "Banco de Leite Humano Dr. João Aprígio",
+    "tipo": "BLH",
+    "cidade": "CAMPO GRANDE",
+    "estado": "MS",
+    "classe": "sem_coordenadas",
+    "ativo": false,
+    "coordenadasAprovadas": false,
+    "quantidadeResultadosGeocodificador": 0,
+    "quantidadeCandidatasRevisaveis": 0,
+    "pendencias": [
+      "Registro documental no anexo federal, referência fevereiro de 2026; confirmar funcionamento atual",
+      "Obter endereço operacional completo, CEP, telefone e horários em fonte oficial",
+      "Obter coordenadas candidatas de endereço oficial e aprovação manual documentada"
+    ],
+    "documentacao": {
+      "fonte": "https://bvsms.saude.gov.br/bvs/saudelegis/gm/2026/prt11175_14_05_2026.html",
+      "snapshot": "fontes/portaria-11175-2026.html",
+      "sha256Fonte": "03add8e6827dd18e942abfc75a9832b64e45c92a05cbb53fe1a691c943ae50c7",
+      "linhaAnexo": 68,
+      "cnesInformadoNoAnexo": "0009768",
+      "mantenedora": "Maternidade Cândido Mariano",
+      "municipioEntidade": "Campo Grande",
+      "municipioBLH": "CAMPO GRANDE",
+      "nomeNoAnexo": "Banco de Leite Humano Dr. João Aprígio",
+      "referenciaTemporal": "fevereiro de 2026",
+      "observacao": "CNES do anexo pode identificar a maternidade mantenedora; não é georreferenciamento.",
+      "aliasPreservado": false
+    },
+    "relatorioGeografico": "coordenadas.candidatas.json",
+    "aprovacaoManual": "aprovacao-manual.json",
+    "candidatos": []
+  }
+]
