@@ -60,5 +60,24 @@
 - Relação entre o protótipo, funcionalidades e requisitos definidos.
 
 ### Atualizado
-- README.md com as responsabilidades dos integrantes na Atividade 05.
-- Apresentação final do protótipo do Colo de Mãe.
+- README.md com as responsabilidades dos integrantes
+
+## 11/11/2026 — Atualização app
+
+### Adicionado
+- Desenvolvimento e integração do aplicativo em Flutter.
+- Implementação de login, cadastro e autenticação com Firebase Authentication.
+- Integração do banco de dados Cloud Firestore.
+- Implementação do gerenciamento de usuários e informações do bebê.
+- Integração com a API DEMAS do Ministério da Saúde.
+- Implementação da geolocalização para localizar Bancos de Leite Humano (BLHs).
+- Cálculo de distâncias em quilômetros até os estabelecimentos.
+- Integração com Google Maps, contatos telefônicos e detalhes dos BLHs.
+- Publicação da aplicação Web no Firebase Hosting.
+
+### Atualizado
+- README.md com instruções de instalação e execução do projeto.
+- Configurações do Firebase e integração entre front-end e back-end.
+- Dados dos Bancos de Leite Humano de Aracaju no Firestore.
+- Funcionalidades da tela de configurações com persistência dos dados.
+- Validações e tratamento de erros de autenticação e localização.

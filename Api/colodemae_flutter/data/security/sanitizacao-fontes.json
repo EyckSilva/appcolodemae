@@ -1,0 +1,13 @@
+{
+  "motivo": "Correcao dos alertas de seguranca explicitamente solicitada pelo responsavel; sem alterar registros BLH ou manifestos historicos. Hash original mantido para rastreabilidade.",
+  "arquivos": {
+    "data/blh/nacional/fontes/amamenta-brasilia.html": {
+      "antes": "22d675faf711050b3ed1b0b0ee67e268fc63e77ab6d560b7288de29d59da024b",
+      "depois": "f76896602f1faaeab41f8fe7d6790ce28acb3985ee5f3f6d157aa0a342d6eefd"
+    },
+    "data/blh/nacional/fontes/manifesto.json": {
+      "antes": "1c53cf9e3274c08d6c5a0f9bc1763d8f4032cf95d9ab0ab7fc2733a625129034",
+      "depois": "c5b703e12e72b0bc9ca2420c19d8abf4f49737560072325b2a915ac597e5ad16"
+    }
+  }
+}

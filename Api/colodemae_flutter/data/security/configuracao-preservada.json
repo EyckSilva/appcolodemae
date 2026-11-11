@@ -1,0 +1,7 @@
+{
+  "arquivo": "firebase.json",
+  "antes": "2db986b49e91c4f0ec52c1ffe60270d88165baf277f8c0e7fdab327bdc2aa380",
+  "depois": "489ff0ca4eebdb3c4d80b504a282a738ef3033c9aef470208fbcf8ae708986ea",
+  "commitJaExistente": "8ccb6fa78ea4e6b2160fb06053fca98ad381e255",
+  "motivo": "Configuracao de Hosting ja presente no commit antes da auditoria de seguranca. Arquivo preservado byte a byte, conforme requisito do usuario. Manifestos historicos conservados; somente este hash exato e reconhecido pelo guard."
+}

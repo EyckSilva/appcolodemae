@@ -1,0 +1,386 @@
+{
+  "project": "colo-de-mae-3510f",
+  "queriedAt": "2026-11-11T17:49:39.199Z",
+  "readOnly": true,
+  "local": [
+    {
+      "platform": "web",
+      "sha256": "3f2466e8f4faba6bdceb62388a05d4527dd7014c506217cfdebe14f1279e7ccc"
+    },
+    {
+      "platform": "android",
+      "sha256": "20667643cfcb54e9e2a501da4610bfdf95741c745a5e6c16665294953d28cf93"
+    },
+    {
+      "platform": "ios",
+      "sha256": "5df59a173473f7d4e977ef15c8ff4015b9ff11b40fcdfd2246496dc414d670f4"
+    },
+    {
+      "platform": "macos",
+      "sha256": "5df59a173473f7d4e977ef15c8ff4015b9ff11b40fcdfd2246496dc414d670f4"
+    },
+    {
+      "platform": "windows",
+      "sha256": "3f2466e8f4faba6bdceb62388a05d4527dd7014c506217cfdebe14f1279e7ccc"
+    }
+  ],
+  "keys": [
+    {
+      "name": "projects/4621666263/locations/global/keys/765dfc91-ddf9-42c9-a944-61cb89139b12",
+      "displayName": "iOS key (auto created by Firebase)",
+      "sha256": "5df59a173473f7d4e977ef15c8ff4015b9ff11b40fcdfd2246496dc414d670f4",
+      "platforms": [
+        "ios",
+        "macos"
+      ],
+      "restrictions": {
+        "iosKeyRestrictions": {},
+        "apiTargets": [
+          {
+            "service": "firebasedatabase.googleapis.com"
+          },
+          {
+            "service": "firebasehosting.googleapis.com"
+          },
+          {
+            "service": "firebaserules.googleapis.com"
+          },
+          {
+            "service": "sqladmin.googleapis.com"
+          },
+          {
+            "service": "cloudconfig.googleapis.com"
+          },
+          {
+            "service": "datastore.googleapis.com"
+          },
+          {
+            "service": "fcmregistrations.googleapis.com"
+          },
+          {
+            "service": "firebase.googleapis.com"
+          },
+          {
+            "service": "firebaseappcheck.googleapis.com"
+          },
+          {
+            "service": "firebaseappdistribution.googleapis.com"
+          },
+          {
+            "service": "firebaseapphosting.googleapis.com"
+          },
+          {
+            "service": "firebaseapptesters.googleapis.com"
+          },
+          {
+            "service": "firebasedataconnect.googleapis.com"
+          },
+          {
+            "service": "firebaseinappmessaging.googleapis.com"
+          },
+          {
+            "service": "firebaseinstallations.googleapis.com"
+          },
+          {
+            "service": "firebaseml.googleapis.com"
+          },
+          {
+            "service": "firebaseremoteconfig.googleapis.com"
+          },
+          {
+            "service": "firebaseremoteconfigrealtime.googleapis.com"
+          },
+          {
+            "service": "firebasestorage.googleapis.com"
+          },
+          {
+            "service": "firebasevertexai.googleapis.com"
+          },
+          {
+            "service": "firestore.googleapis.com"
+          },
+          {
+            "service": "identitytoolkit.googleapis.com"
+          },
+          {
+            "service": "logging.googleapis.com"
+          },
+          {
+            "service": "mlkit.googleapis.com"
+          },
+          {
+            "service": "play.googleapis.com"
+          },
+          {
+            "service": "securetoken.googleapis.com"
+          },
+          {
+            "service": "fpnv.googleapis.com"
+          }
+        ]
+      },
+      "createTime": "2026-11-11T05:54:46.587551Z",
+      "updateTime": "2026-11-11T05:54:46.658211Z"
+    },
+    {
+      "name": "projects/4621666263/locations/global/keys/418679c7-945f-4ca8-b894-88f169541d9b",
+      "displayName": "Android key (auto created by Firebase)",
+      "sha256": "20667643cfcb54e9e2a501da4610bfdf95741c745a5e6c16665294953d28cf93",
+      "platforms": [
+        "android"
+      ],
+      "restrictions": {
+        "androidKeyRestrictions": {},
+        "apiTargets": [
+          {
+            "service": "firebasedatabase.googleapis.com"
+          },
+          {
+            "service": "firebasehosting.googleapis.com"
+          },
+          {
+            "service": "firebaserules.googleapis.com"
+          },
+          {
+            "service": "sqladmin.googleapis.com"
+          },
+          {
+            "service": "cloudconfig.googleapis.com"
+          },
+          {
+            "service": "datastore.googleapis.com"
+          },
+          {
+            "service": "fcmregistrations.googleapis.com"
+          },
+          {
+            "service": "firebase.googleapis.com"
+          },
+          {
+            "service": "firebaseappcheck.googleapis.com"
+          },
+          {
+            "service": "firebaseappdistribution.googleapis.com"
+          },
+          {
+            "service": "firebaseapphosting.googleapis.com"
+          },
+          {
+            "service": "firebaseapptesters.googleapis.com"
+          },
+          {
+            "service": "firebasedataconnect.googleapis.com"
+          },
+          {
+            "service": "firebaseinappmessaging.googleapis.com"
+          },
+          {
+            "service": "firebaseinstallations.googleapis.com"
+          },
+          {
+            "service": "firebaseml.googleapis.com"
+          },
+          {
+            "service": "firebaseremoteconfig.googleapis.com"
+          },
+          {
+            "service": "firebaseremoteconfigrealtime.googleapis.com"
+          },
+          {
+            "service": "firebasestorage.googleapis.com"
+          },
+          {
+            "service": "firebasevertexai.googleapis.com"
+          },
+          {
+            "service": "firestore.googleapis.com"
+          },
+          {
+            "service": "identitytoolkit.googleapis.com"
+          },
+          {
+            "service": "logging.googleapis.com"
+          },
+          {
+            "service": "mlkit.googleapis.com"
+          },
+          {
+            "service": "play.googleapis.com"
+          },
+          {
+            "service": "securetoken.googleapis.com"
+          },
+          {
+            "service": "fpnv.googleapis.com"
+          }
+        ]
+      },
+      "createTime": "2026-11-11T05:54:33.281903Z",
+      "updateTime": "2026-11-11T05:54:33.374941Z"
+    },
+    {
+      "name": "projects/4621666263/locations/global/keys/00cf1691-641c-4209-8abe-82e6c0d1a15d",
+      "displayName": "Browser key (auto created by Firebase)",
+      "sha256": "3f2466e8f4faba6bdceb62388a05d4527dd7014c506217cfdebe14f1279e7ccc",
+      "platforms": [
+        "web",
+        "windows"
+      ],
+      "restrictions": {
+        "browserKeyRestrictions": {},
+        "apiTargets": [
+          {
+            "service": "firebasedatabase.googleapis.com"
+          },
+          {
+            "service": "firebasehosting.googleapis.com"
+          },
+          {
+            "service": "firebaserules.googleapis.com"
+          },
+          {
+            "service": "sqladmin.googleapis.com"
+          },
+          {
+            "service": "cloudconfig.googleapis.com"
+          },
+          {
+            "service": "datastore.googleapis.com"
+          },
+          {
+            "service": "fcmregistrations.googleapis.com"
+          },
+          {
+            "service": "firebase.googleapis.com"
+          },
+          {
+            "service": "firebaseappcheck.googleapis.com"
+          },
+          {
+            "service": "firebaseappdistribution.googleapis.com"
+          },
+          {
+            "service": "firebaseapphosting.googleapis.com"
+          },
+          {
+            "service": "firebaseapptesters.googleapis.com"
+          },
+          {
+            "service": "firebasedataconnect.googleapis.com"
+          },
+          {
+            "service": "firebaseinappmessaging.googleapis.com"
+          },
+          {
+            "service": "firebaseinstallations.googleapis.com"
+          },
+          {
+            "service": "firebaseml.googleapis.com"
+          },
+          {
+            "service": "firebaseremoteconfig.googleapis.com"
+          },
+          {
+            "service": "firebaseremoteconfigrealtime.googleapis.com"
+          },
+          {
+            "service": "firebasestorage.googleapis.com"
+          },
+          {
+            "service": "firebasevertexai.googleapis.com"
+          },
+          {
+            "service": "firestore.googleapis.com"
+          },
+          {
+            "service": "identitytoolkit.googleapis.com"
+          },
+          {
+            "service": "logging.googleapis.com"
+          },
+          {
+            "service": "mlkit.googleapis.com"
+          },
+          {
+            "service": "play.googleapis.com"
+          },
+          {
+            "service": "securetoken.googleapis.com"
+          },
+          {
+            "service": "fpnv.googleapis.com"
+          }
+        ]
+      },
+      "createTime": "2026-11-11T05:50:34.826509Z",
+      "updateTime": "2026-11-11T05:50:34.929436Z"
+    }
+  ],
+  "apps": [
+    {
+      "platform": "web",
+      "appId": "1:4621666263:web:1f04365e8d2f569ac86d92",
+      "apiKeyId": "00cf1691-641c-4209-8abe-82e6c0d1a15d",
+      "registered": true,
+      "localKeyMatches": true
+    },
+    {
+      "platform": "android",
+      "appId": "1:4621666263:android:021912f18dab9daac86d92",
+      "apiKeyId": "418679c7-945f-4ca8-b894-88f169541d9b",
+      "packageName": "com.example.colodemae_flutter",
+      "registered": true,
+      "localKeyMatches": true
+    },
+    {
+      "platform": "ios",
+      "appId": "1:4621666263:ios:b51d3a4121cb37dbc86d92",
+      "apiKeyId": "765dfc91-ddf9-42c9-a944-61cb89139b12",
+      "bundleId": "com.example.colodemaeFlutter",
+      "registered": true,
+      "localKeyMatches": true
+    }
+  ],
+  "enabledServices": [
+    "analyticshub.googleapis.com",
+    "apptopology.googleapis.com",
+    "bigquery.googleapis.com",
+    "bigqueryconnection.googleapis.com",
+    "bigquerydatapolicy.googleapis.com",
+    "bigquerydatatransfer.googleapis.com",
+    "bigquerymigration.googleapis.com",
+    "bigqueryreservation.googleapis.com",
+    "bigquerystorage.googleapis.com",
+    "cloudaicompanion.googleapis.com",
+    "cloudapis.googleapis.com",
+    "cloudresourcemanager.googleapis.com",
+    "cloudtrace.googleapis.com",
+    "dataform.googleapis.com",
+    "dataplex.googleapis.com",
+    "datastore.googleapis.com",
+    "fcm.googleapis.com",
+    "fcmregistrations.googleapis.com",
+    "firebase.googleapis.com",
+    "firebaseappdistribution.googleapis.com",
+    "firebasehosting.googleapis.com",
+    "firebaseinstallations.googleapis.com",
+    "firebaseremoteconfig.googleapis.com",
+    "firebaseremoteconfigrealtime.googleapis.com",
+    "firebaserules.googleapis.com",
+    "firestore.googleapis.com",
+    "identitytoolkit.googleapis.com",
+    "logging.googleapis.com",
+    "monitoring.googleapis.com",
+    "pubsub.googleapis.com",
+    "runtimeconfig.googleapis.com",
+    "securetoken.googleapis.com",
+    "servicemanagement.googleapis.com",
+    "serviceusage.googleapis.com",
+    "sql-component.googleapis.com",
+    "storage-api.googleapis.com",
+    "storage-component.googleapis.com",
+    "storage.googleapis.com",
+    "telemetry.googleapis.com",
+    "testing.googleapis.com"
+  ]
+}

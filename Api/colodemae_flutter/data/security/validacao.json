@@ -1,0 +1,71 @@
+{
+  "concluidoEm": "2026-11-11T17:55:05.762878+00:00",
+  "comandos": {
+    "flutter pub get": "passou",
+    "flutter analyze --no-pub": "No issues found",
+    "flutter test --no-pub": {
+      "passaram": 68,
+      "falharam": 0
+    },
+    "python -m unittest discover -s tools -p test_*.py": {
+      "passaram": 73,
+      "falharam": 0
+    },
+    "flutter build web --release --no-pub": "Built build/web; Wasm dry run succeeded",
+    "python tools/check_blh_secrets.py": "Nenhuma credencial privada ou chave Google inesperada"
+  },
+  "configuracoesPreservadas": {
+    "lib/firebase_options.dart": {
+      "conteudoInalteradoEmRelacaoAoCommitEntrada": true,
+      "bytesIguaisAoBlobGit": true,
+      "sha256Local": "74a01cde070fba5e2bc8334e3f655b0af5a963efc7df8614c6df958183794271"
+    },
+    "firebase.json": {
+      "conteudoInalteradoEmRelacaoAoCommitEntrada": true,
+      "bytesIguaisAoBlobGit": true,
+      "sha256Local": "489ff0ca4eebdb3c4d80b504a282a738ef3033c9aef470208fbcf8ae708986ea"
+    },
+    "firestore.rules": {
+      "conteudoInalteradoEmRelacaoAoCommitEntrada": true,
+      "bytesIguaisAoBlobGit": true,
+      "sha256Local": "9ba2a488ac1997ec6d11f53b2459d6f20520ada1522a240fa78f50ab439145c5"
+    },
+    "firestore.indexes.json": {
+      "conteudoInalteradoEmRelacaoAoCommitEntrada": true,
+      "bytesIguaisAoBlobGit": false,
+      "sha256Local": "2863b21f7b802636d584748be839dc05a0fe9b1136e457e4875cb26c250349c6"
+    },
+    "android/app/google-services.json": {
+      "conteudoInalteradoEmRelacaoAoCommitEntrada": true,
+      "bytesIguaisAoBlobGit": true,
+      "sha256Local": "c7f043b324c65277e315793629ac20e66f758f669fb3211d25b2f5c693bd2225"
+    }
+  },
+  "todosArquivosDartETestesFlutterPreservados": true,
+  "htmlSomenteValorChaveAlterado": true,
+  "cloud": {
+    "consultasReaisSomenteLeitura": true,
+    "appsWebAndroidIosRegistradosComChavesCorrespondentes": true,
+    "alteracoesDeRestricoes": false,
+    "revogacaoOuRotacao": false,
+    "deploy": false,
+    "escritasFirestore": false
+  },
+  "git": {
+    "push": false,
+    "reescritaHistorico": false,
+    "encerramentoAlertas": false
+  },
+  "falhasIniciaisResolvidas": {
+    "testesAdministrativos": 3,
+    "causa": "Hash historico de firebase.json anterior ao Hosting ja commitado; baseline existente reconhecida sem editar firebase.json."
+  },
+  "limites": [
+    "Sem teste nativo Android/iOS.",
+    "Sem login interativo de producao nesta auditoria.",
+    "Restricoes de clientes pendentes de configuracao e validacao manual.",
+    "Chave externa continua no historico Git.",
+    "Sem consulta direta aos alertas GitHub."
+  ],
+  "notaComparacao": "Blobs Git e copia Windows podem diferir apenas em CRLF/LF; comparacao semantica normaliza terminadores, hashes locais permanecem exatos."
+}

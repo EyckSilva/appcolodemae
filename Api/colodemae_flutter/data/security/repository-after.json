@@ -1,0 +1,109 @@
+{
+  "current": [
+    {
+      "path": "Api/colodemae_flutter/android/app/google-services.json",
+      "type": "google_api_key",
+      "sha256": "20667643cfcb54e9e2a501da4610bfdf95741c745a5e6c16665294953d28cf93",
+      "line": 18
+    },
+    {
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "3f2466e8f4faba6bdceb62388a05d4527dd7014c506217cfdebe14f1279e7ccc",
+      "line": 44
+    },
+    {
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "20667643cfcb54e9e2a501da4610bfdf95741c745a5e6c16665294953d28cf93",
+      "line": 53
+    },
+    {
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "5df59a173473f7d4e977ef15c8ff4015b9ff11b40fcdfd2246496dc414d670f4",
+      "line": 60
+    },
+    {
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "5df59a173473f7d4e977ef15c8ff4015b9ff11b40fcdfd2246496dc414d670f4",
+      "line": 68
+    },
+    {
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "3f2466e8f4faba6bdceb62388a05d4527dd7014c506217cfdebe14f1279e7ccc",
+      "line": 77
+    }
+  ],
+  "history": [
+    {
+      "blob": "c0c11164392ab65a631b6f6f6639981bea49ba7f",
+      "path": "Api/colodemae_flutter/android/app/google-services.json",
+      "type": "google_api_key",
+      "sha256": "20667643cfcb54e9e2a501da4610bfdf95741c745a5e6c16665294953d28cf93",
+      "line": 18
+    },
+    {
+      "blob": "f9268ac5369f6d909313dde11334a38f11e0a386",
+      "path": "Api/colodemae_flutter/data/blh/nacional/fontes/amamenta-brasilia.html",
+      "type": "google_api_key",
+      "sha256": "495f80ca91ae8bd0550d546e2644827be57dd2cac9bc88f2b4b2d6e5ba5acb86",
+      "line": 889
+    },
+    {
+      "blob": "9af31c4ba86079d6af00eca068f0f4bdd9720638",
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "3f2466e8f4faba6bdceb62388a05d4527dd7014c506217cfdebe14f1279e7ccc",
+      "line": 44
+    },
+    {
+      "blob": "9af31c4ba86079d6af00eca068f0f4bdd9720638",
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "20667643cfcb54e9e2a501da4610bfdf95741c745a5e6c16665294953d28cf93",
+      "line": 53
+    },
+    {
+      "blob": "9af31c4ba86079d6af00eca068f0f4bdd9720638",
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "5df59a173473f7d4e977ef15c8ff4015b9ff11b40fcdfd2246496dc414d670f4",
+      "line": 60
+    },
+    {
+      "blob": "9af31c4ba86079d6af00eca068f0f4bdd9720638",
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "5df59a173473f7d4e977ef15c8ff4015b9ff11b40fcdfd2246496dc414d670f4",
+      "line": 68
+    },
+    {
+      "blob": "9af31c4ba86079d6af00eca068f0f4bdd9720638",
+      "path": "Api/colodemae_flutter/lib/firebase_options.dart",
+      "type": "google_api_key",
+      "sha256": "3f2466e8f4faba6bdceb62388a05d4527dd7014c506217cfdebe14f1279e7ccc",
+      "line": 77
+    },
+    {
+      "blob": "4995414a1ed2a9945b4817ee6e94ac1736a2b5d1",
+      "path": "Api/colodemae_flutter/tools/check_blh_secrets.py",
+      "type": "private_key_marker",
+      "sha256": "3021d90eb9437b2d8f30e8363695c4418b5e5f1870801b5c317e9398ee0f572d",
+      "line": 17
+    },
+    {
+      "blob": "4995414a1ed2a9945b4817ee6e94ac1736a2b5d1",
+      "path": "Api/colodemae_flutter/tools/check_blh_secrets.py",
+      "type": "private_key_marker",
+      "sha256": "8bcac7908eb950419537b91e19adc83ce2c9cbfdacf4f81157fdadfec11f7017",
+      "line": 17
+    }
+  ],
+  "historyBlobsScanned": 693,
+  "reachableCommits": 21,
+  "head": "8ccb6fa78ea4e6b2160fb06053fca98ad381e255",
+  "scope": "versionable worktree and locally reachable Git refs; ignored files, remote-only refs, forks and unreachable objects excluded"
+}

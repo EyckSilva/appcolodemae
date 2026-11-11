@@ -15,6 +15,14 @@
     "arquivo": "amamenta-brasilia.html",
     "url": "https://amamentabrasilia.saude.df.gov.br/",
     "consultadoEm": "2026-11-11T08:21:10.882456+00:00",
-    "sha256": "22d675faf711050b3ed1b0b0ee67e268fc63e77ab6d560b7288de29d59da024b"
+    "sha256": "f76896602f1faaeab41f8fe7d6790ce28acb3985ee5f3f6d157aa0a342d6eefd",
+    "sha256Original": "22d675faf711050b3ed1b0b0ee67e268fc63e77ab6d560b7288de29d59da024b",
+    "copiaSanitizada": true,
+    "sanitizacao": {
+      "motivo": "Removida somente a chave Maps de terceiro do script da pagina externa; texto documental preservado. Nao e copia byte a byte do original.",
+      "realizadaEm": "2026-11-11T17:48:42.281299+00:00",
+      "marcador": "REDACTED_EXTERNAL_MAPS_KEY",
+      "fingerprintChaveRemovidaSha256": "495f80ca91ae8bd0550d546e2644827be57dd2cac9bc88f2b4b2d6e5ba5acb86"
+    }
   }
 ]
