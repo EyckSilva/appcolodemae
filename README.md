@@ -49,3 +49,11 @@ O Colo de mãe é um aplicativo mobile que oferece informações sobre amamenta�
 - **Eyck Cainã:** Desenvolvimento e integração do aplicativo Flutter, implementação da autenticação de usuários com Firebase Authentication, configuração e gerenciamento do banco de dados Cloud Firestore, integração com a API DEMAS do Ministério da Saúde, implementação da geolocalização e consulta de Bancos de Leite Humano (BLHs), cálculo de distâncias, integração com mapas e publicação do aplicativo no Firebase Hosting.
 
 ## RESPONSABILIDADE DE CADA INTEGRANTE / Artefatos técnicos
+
+| Artefato | Responsáveis |
+| --- | --- |
+| [Diagrama de casos de uso](docs/DiagramadeCasosdeUso.pdf) | Eyck Cainã e Enderson Silva|
+| [Diagrama de classes](docs/Diagramadeclasses.pdf) | João Pedro Alves Seixas|
+| [Modelagem do banco de dados](docs/ModelagemBanco.pdf) | Eyck Cainã |
+| [Fluxo de navegação](docs/FluxoDeNavegacao.pdf) | Eyck Cainã e Enderson Silva |
+| [Registro de uso de IA](docs/uso-de-ia.md) | Participação conjunta de Eyck Cainã, João Pedro Alves Seixas e Enderson Silva |

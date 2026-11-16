@@ -81,3 +81,16 @@
 - Dados dos Bancos de Leite Humano de Aracaju no Firestore.
 - Funcionalidades da tela de configurações com persistência dos dados.
 - Validações e tratamento de erros de autenticação e localização.
+
+## 16/11/2026 — Documentação técnica e registro de uso de IA
+
+### Adicionado
+- Diagrama de caso de uso `docs/`.
+- Diagrama de classes do aplicativo em `docs/`.
+- Estrutura de coleções e documentos do Firestore e mapeamento dos modelos Dart para os dados persistidos em `docs/ModelagemBanco.pdf`.
+- Fluxo de navegação entre telas, modais e aplicativos externos em `docs/FluxoDeNavegacao.pdf`.
+- Registro de uso de IA em `docs/uso-de-ia.md`, com declaração de uso, prompts de revisão, erros e soluções, além das justificativas das bibliotecas.
+
+### Atualizado
+- README.md
+- Organização do registro de IA em partes para Eyck Cainã, João Pedro Alves Seixas e Enderson Silva.
